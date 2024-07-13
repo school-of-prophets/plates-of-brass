@@ -1,0 +1,88 @@
+title: The Plates of Brass
+
+title-sum: Traditions passed down from our fathers, recorded and preserved by the Commandments of God, to be brought forth in the Last Days. Amen.
+
+license: CC BY-ND 4.0
+
+copyright-holder: The Church of Jesus Christ in Christian Fellowship
+
+copyright-years: 2018-2023
+
+author: David Ferriman, translator/diviner
+
+viewer-path: /plates-of-brass/
+
+isbn: 
+
+===>
+toc: Table of Contents
+
+
+
+===1>
+
+book: Preface, etc
+
+viewer-path: /plates-of-brass/front-matter/
+
+chapter: Sefer Torah YHVH
+
+viewer-path: /plates-of-brass/front-matter/title-page
+
+chapter-aka: The Book of the Law of the Lord
+
+chapter-sum: The Law of the Lord to Israel and Genealogy of the Seed of Ephram, & of Menessah, Who are the Stick of Joseph
+
+. To the descendants of Joseph, to be kept hidden from the World until the Last Days: By the Power of YHVH, these Plates of Brass shall not perish, neither shall they be dimmed by time; but YHVH Elohim shall preserve these Words to go forth unto all nations, kindreds, tongues, and people from the mouths of those who are of the seed of Joseph; and even as Joseph fed Israel and kept them safe from famine in a strange land, these plates must be preserved that Israel may eat of the Word of God in the famine that shall be found the Last Days.
+
+. To those charged to keep these records: keep them safe, keep them hidden until Fullness of Times; for in them are the manna to feed Israel, and in them are the coat of many colors preserved unto the seed of our father, Joseph, as given Him by his Father, Jacob; and in Israel is found the straight path to YHVH Elohim.
+
+. Israel be blessed, for in YHVH is our salvation found, throughout all time and for all eternity; Amen.
+
+. . - Aleph Tav (את)
+
+===>
+collection-of-books: The Five Books of Moses
+
+include: 1-moses.txt
+
+===>
+include: 2-moses.txt
+
+===>
+include: 3-moses.txt
+
+===>
+include: 4-moses.txt
+
+===>
+include: 5-moses.txt
+
+===>
+collection-of-books: The Record of the Children of Israel
+
+include: account-of-adam-and-eve.txt
+
+===>
+include: wars-of-yhvh.txt
+
+===>
+collection-of-books: The Prophecies of the Holy Prophets
+
+include: enoch.txt
+
+===>
+include: melchizedek.txt
+
+===>
+include: zenock.txt
+
+===>
+include: zenos.txt
+
+===>
+include: neum.txt
+
+
+===>
+include: dictionary.txt

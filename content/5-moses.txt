@@ -1,0 +1,2699 @@
+book: 5 Sefer Moses
+book-aka: The Book of Ha’Torah
+viewer-path: /plates-of-brass/5-moses/
+
+chapter: Explanation of Sections
+
+viewer-path: /plates-of-brass/5-moses/explanation
+
+. The Scroll or Book that was 5 Moses contains 3 sub-books or major sections.  On the plates of brass, these sections were more like really really long chapters, but they were divided into multiple chapters of more manageable length during translation.
+
+subchapter: The Book of Instructions
+1. chapters 1-7
+
+subchapter: The Law of the Land
+2. chapters 8-29
+
+subchapter: Blessings and Cursing
+3. chapters 30-32
+
+---
+book: The Book of Instructions
+book-aka: 5 Sefer Moses - Part 1
+viewer-path: /plates-of-brass/5-moses-part-1/
+
+---
+chapter: Chapter 1
+
+viewer-path: /plates-of-brass/5-moses/1
+
+chapter-aka: The Decalogue
+
+1. And it came to pass that Moses called all the congregation of Israel and said unto them: Hear, O Israel, the statutes{a} and ordinances{b} which I speak in your ears this day, that ye may learn them, and observe to do them.
+[a] Or "customs"
+[b] Or "judgments"
+
+2. YHVH{a}, our Elohim{b}, made a covenant with us at the Mount of Ha’Elohim{c}; yea, YHVH spoke with you face to face{d} in the mount out of the midst of the fire, saying:
+[a] See YHVH
+[b] See Elohim
+[c] See The Mount of Ha’Elohim
+[d] A pun, another way of saying "the Glory of God was upon (him/her/them)"
+
+subchapter: ONE
+
+3. ¶ Thou shalt love YHVH, thy Elohim, with all thy heart{a}, and with all thy might, and with all thy strength:
+[a] See Heart
+
+4. Thou shalt adore Him, and serve Him, and obey Him.
+
+5. Thou shalt have no other elohim{a} before thee.
+[a] See Elohim of man
+
+6. Thou shalt not make thee any graven image or any likeness of anything that is in the heavens above, or that is in the earth beneath, or that is in the abyss beneath the earth; to bow thyself unto it, or to worship it.
+
+7. Thou shalt not bow thyself down unto them nor serve them nor adore anything that thine eye beholdeth, or thy imagination conceiveth of;
+
+8. But thou shall bow down thyself unto, YHVH thy Elohim, only;
+
+9. For YHVH, thy Elohim, is a jealous God{a}, visiting the iniquity of the fathers upon the children from generation to generation, even upon all that hate him, and showing a multitude of mercies unto them that keep his mitzvoth{b}.
+[a] Hebrew, "El"
+[b] Hebrew, "calling," "commandment," or "religious duty"
+
+subchapter: TWO
+
+10. ¶ Thou shalt not take the name of YHVH, thy Elohim, in vain{a}:
+[a] Or "empty," "nothing," "worthless," or "to no good purpose;" the idea of taking God's name in wickedness
+
+11. Thou shalt not usurp dominion as a ruler; for the name of YHVH, thy Elohim, is great and glorious above all other names.
+
+12. YHVH is above all, and is the only true Elohim; the only just and upright King{a} over all;
+[a] Hebrew, HaMelech; the king metaphor implies power and authority, along with the idea that God is charged as the steward of His creation
+
+13. He alone hath the right to rule; and in The Name{a}, only they to whom YHVH granteth it.
+[a] See HaShem
+
+14. And whosoever is not chosen of YHVH, the same is a usurper, and unholy:
+
+15. YHVH will not acquit any that taketh The Name in vain, serving not YHVH.
+
+subchapter: THREE
+
+16. ¶ Keep the Sabbath of the Seventh Day{a} holy, to sanctify it:
+[a] See 4 Moses 2
+
+17. Six days thou shalt labor and do all thy work; but the seventh day is the Sabbath of YHVH, thy Elohim;
+
+18. In it thou shalt not do any work; not thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates, that thy manservant and thy maidservant may rest as well as thou.
+
+19. For in six ages{a} did Ha’Elohim{b} make{c} the Heavens and the Earth, the sea and the abyss and all which in them are,
+[a] Age or degree: a period of growth
+[b] Hebrew, "the gods;" See Ha'Elohim
+[c] See 1 Moses 3, Genesis 1
+
+20. And They{a} rested on the seventh day; therefore, did YHVH, bless the seventh day to sanctify it.
+[a] Ha'Elohim
+
+21. Thou shalt keep it holy unto YHVH, that thou forget not the Torah{a}, nor be found keeping the company of the vile, nor be despised by the righteous.
+[a] Hebrew, Teachings, Instructions, or Law
+
+subchapter: FOUR
+
+22. ¶ Thou shalt love thy neighbor as thyself:
+
+23. Thou shalt not revile them, nor speak evil of them, nor curse{a} them.
+[a] Hebrew masculine cursing," or "enchanting"
+
+24. Thou shalt do no injustice unto them; and thou shalt maintain their rights against their enemies;
+
+25. Thou shalt not exact rigorously of them, nor turn aside from relieving them.
+
+26. Thou shalt deliver them from the snare and the pit, and shalt return their ox when he strayeth;
+
+27. Thou shalt comfort them when they mourn{a}, and nurture them when they sicken;
+[a] See Ecclesiastes 7:2; Mosiah 9:40 RAV, 18:9 OPV; Romans 12:15
+
+28. Thou shalt not abate the price of what thou buyest of them, for their necessity; nor shalt thou exact of them, because they leaneth upon thee;
+
+29. For in so doing thousands shall rise up and call thee blessed, and YHVH, thy Elohim, shall strengthen thee in all the work of thy hand.
+
+subchapter: FIVE
+
+30. ¶ Honor thy father and thy mother; give heed to their commandments{a}, obey their laws{b}, and depart not from their precepts{c}:
+[a] Hebrew, Mitzvat; calling, commandment, or religious duty
+[b] Hebrew, Torah; teachings, instructions, or law
+[c] From the Hebrew root, tsavah; " to lay charge" or "to give charge"
+
+31. Reverence their age, and seek unto their house all the days of thy life;
+
+32. Exalt not thyself against them, nor withhold to build up their house above thine own.
+
+33. Honor and obey the king{a} and the judges, and the rulers, and all that are set in authority; for they are as fathers{b} among the people, that they may be a fear unto evil doers;
+[a] A leader of a people or clan; chieftain: compare to 4 Moses 3:29 (reads "YHVH")
+[b] This is a change from 4 Moses 3:29 which reads "fathers and mothers"
+
+34. Honor the Priest{a} also, who stands before YHVH, that he may instruct thee and thy days shall be long upon the land which YHVH, thy Elohim, giveth thee.
+[a] A change from 4 Moses 3:30 which reads "Priest and Priestess;" it is clear that the people distancing themselves from women in leadership
+
+subchapter: SIX
+
+35. ¶ Thou shalt not murder{a}.
+[a] To kill in cold blood
+
+36. Thou shalt slay no man or woman in malice; neither thy child, nor thy wife, nor thy bondman, nor thy bondwoman, nor thy servant, nor the child of thy servant.
+
+37. Neither shalt thou slay thine enemy, except thou admonish{a} them, and entreat{b} them, and they hear thee not, and Ha’Elohim give them into thy hand{c}; and thou shalt only slay them in lawful{d} war.
+[a] Warn them
+[b] See first to appease them, earn their favor
+[c] 1 Nephi 1:107-120 RAV, 4:7-18 OPV
+[d] See 3 Moses 21:4; Exodus 15:3; Ecclesiastes 3:8; 1 Samuel 15:3; Alma 20:33 RAV, 43:29 OPV, 21:40-43 RAV, 46:11-13
+
+38. And if anyone should trespass against thee, and break through, and do violence, thou shalt not slay them in revenge;
+
+39. But if thou overtake them in their trespass, thou mayest resist unto blood;
+
+40. Yet except thou slay them in the trespass, thou shalt deliver them to the judge; and the judge shall judge them, and the hand of the officer shall be on them.
+
+subchapter: SEVEN
+
+41. ¶ Thou shall not commit adultery{a} or apostasy{a}:
+[a] Hebrew masculine noun, usually refers to a man having sex or a sexual relationship with a married woman; also used to describe the worship of idols as God views our relationship/ covenant with Him as a marriage covenant
+
+42. Thou shalt not in any wise lie with the wife of thy neighbor; and if she seduce thee, thou shalt resist her that thou pollute not thyself, and make not the place of thy house unclean, and destroy not the house of thy neighbor, and that thou cause no violence in the land.
+
+43. Thou shalt not lie with the wife of the stranger; neither shalt thou lie with the wife of thine enemy; lest thy children be scattered abroad, and know not thee, nor the fear of thee be upon them, and they be strangers to the covenant of YHVH, and the whole land be corrupt, and thine offspring be destroyed with the wicked.
+
+subchapter: EIGHT
+
+44. ¶ Thou shall not steal{a} or deceive{a}:
+[a] Hebrew, "ganab," meaning "steal," "kidnap," or "deceive"
+
+45. Thou shalt not trespass upon anything that is belonging to thy neighbor, to take it from them, nor to destroy it;
+
+46. Neither shalt thou trespass upon the stranger that dwelleth within thy gates, to destroy their substance, nor to take it from them;
+
+47. For to thee shall they seek for justice, and a shield round about all that they hath; and the fear of YHVH, thy Elohim, is upon them also, and to thy righteousness these will seek;
+
+48. Neither shalt thou overreach them by cunning, nor by stratagem, to take for thyself the substance of thy neighbor, nor the stranger within thy gates.
+
+49. Remember that ye were strangers, and were oppressed, and oppress not the stranger, lest their cry ascend to YHVH against you.
+
+subchapter: NINE
+
+50. ¶ Thou shall not bear false witness against thy neighbor:
+
+51. Thou shalt not speak falsely before a king, nor before a judge, nor in the assembly of rulers, nor in the presence of a ruler, nor unto the Priest, nor among the multitude;
+
+52. Nor in the ear of thy friend, nor to thy wife, nor thy child, nor thy servant.
+
+53. Thou shall not withhold the truth from a king, nor a judge, nor anyone that is set in authority, for thus shall righteousness be established in all thy borders.
+
+subchapter: TEN
+
+54. ¶ Thou shalt not covet the inheritance of thy neighbors:
+
+55. Thou shalt not covet the house of thy neighbors, nor their bondman, nor their bondwoman, nor their manservant, nor their maidservant, nor their horse, nor their carriage, nor the instruments of their labor, nor the produce of their land, nor the things that they have made, nor the treasures they have in their storehouse, nor anything that is thy neighbors’.
+
+56. Thy desire shall not be upon them, to take them by stealth{a}, nor by fraud, nor by cunning, nor by violence;
+[a] Hebrew, "ganab," meaning "steal," "kidnap," or "deceive"
+
+57. Neither shalt thou covet that which belongeth to the stranger that dwelleth within thy gates;
+
+58. Yea, thou shalt improve thine own, and thy desire shall be unto it; lest thou be corrupt, and the hand of thy neighbors be against thee, and the cry of the poor ascend to YHVH against thee.
+
+59. ¶ Ye shall observe all my ordinances and all my customs and do them; I am YHVH. _
+
+60. ¶ And these are the words YHVH spoke unto all your assembly in the Mount of Ha’Elohim{a}, out of the midst of the fire, out of the darkness of the cloud, and out of the thick of the darkness, with a great voice.
+[a] See 3 Moses 29
+
+61. And YHVH wrote all these and more in two tables of stone and delivered them unto me.
+
+62. ¶ And it came to pass that when you heard the voice out of the midst of the darkness, that you came near unto me, even all the heads of your tribes and your Elders;
+
+63. And you said: Behold, YHVH, our Elohim, hath showed us His glory and greatness, and we have heard His voice out of the midst of the fire;
+
+64. Behold, we have seen this day that YHVH doth talk with man, and we live:
+
+65. Now, therefore, why should we die? This great fire will not consume us if we hear the voice{a} of YHVH, our Elohim, anymore;
+[a] See The Voice
+
+66. For whom but we is there of all flesh that hath heard the voice of the living Elohim speaking out of the midst of the fire, as we have, and lived?
+
+67. But thou, Moses; go near and hear all that YHVH, our Elohim, shall say; and speak thou unto us all that YHVH, our Elohim, shall speak unto thee; and we will hear it and do it.
+
+68. ¶ And YHVH heard the voice of your words when ye spoke unto me; and YHVH said unto me: I have heard the voice of the words of this people which they have spoken unto thee;
+
+69. They have well said all that they have spoken; O, that there were such a heart in them that they would fear me and keep all my mitzvoth{a} always, that it might be well with them and with their children forever!
+[a] Hebrew, calling, commandment, or religious duty
+
+70. Go now; say to them: Get you into your tents again.
+
+71. But as for thee, stand thou here by me, and I will speak unto thee all the mitzvoth, and the ordinances{a}, and the customs{b} which thou shalt teach them, that they may do them in the land which I give them to possess it.
+[a] A law or decree; something prescribed, a process that is acting out
+[b] Hebrew, "chuqqah;" an enactment or statute; see Ordinance
+
+72. You shall observe to do, therefore, all that YHVH, your Elohim, hath commanded{a} you; you shall not turn aside to the right hand{b} or to the left.
+[a] Hebrew: mitzvah, "tradition," "commandment" or "obligation"
+[b] Dee Hebrews 4:12-13
+
+73. You shall walk in all the ways which YHVH, your Elohim, hath commanded you, that you may live, and that it may be well with you, and that ye may prolong your days in the land which you shall possess.
+
+
+---
+chapter: Chapter 2
+
+viewer-path: /plates-of-brass/5-moses/2
+
+chapter-aka:  YHVH is Unity
+
+1. Now these are the mitzvoth{a}, and the ordinances{b}, and the customs{c} which YHVH{d}, your Elohim{e}, commanded{f}  me to teach you, that you might do them in the land whither ye go to possess it,
+[a] Mitzvah: Hebrew, calling, commandment, or religious duty
+[b] Hebrew, "chuqqah;" something prescribed or enacted, a statute
+[c] Hebrew, "mishpat;" "judgment"
+[d] See YHVH
+[e] Elohim: "Gods." Can denote the Godhead or Trinity as a whole, God the Father & Mother, or the Masculine and Feminine aspects of God; see Elohim
+[f] Hebrew: mitzvah (singular), mitzvoth (plural)
+
+2. That thou mightest fear YHVH, thy Elohim, to keep all His customs and His mitzvoth which I command thee;
+
+3. Thou, and thy sons and daughters, and thy son's sons and thy daughters’ daughters, all the days of thy life; and that thy days may be prolonged.
+
+4. Hear, therefore, O Israel, the words of YHVH, and observe to do them, that it may be well with thee and that you may increase mightily, as YHVH, the Elohim of thy fathers hath promised thee, in the land that floweth with milk and honey:
+
+5. Hear, O Israel: YHVH is our Elohim; YHVH is unity{a}.
+[a] Hebrew, "echad;" "unity," "united," "one," "one another," or "the same one," or "everyone"
+
+6. Thou shalt love YHVH, thy Elohim, with all thine heart{a}, and with all thy soul{b}, and with all thy might{c}.
+[a] Hebrew, "lebab;" "inner man/woman," "mind," "will," or "heart;" see Heart
+[b] Hebrew, "nephesh;" see Soul
+[c] Or "abundance"
+
+7. Remember these, the words of YHVH, thy Elohim, that thou shall know wisdom{a} and in knowledge{b} grow in thy understanding{c}.
+[a] See Chokhmah
+[b] See Da'at
+[c] See Binah
+
+8. ¶ And these words which I instruct{a} thee this day shall be in thine heart;
+[a] Hebrew, "tsavah;" to lay or give charge
+
+9. And thou shalt teach the mitzvoth and the customs diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.
+
+10. And thou shalt bind them for a sign{a} upon thine hand, and they shall be as bands{b} between thine eyes.
+[a] Sign upon the hands: Referring to the idea that our work will be the good works of God
+[b] Binding the eyes: Referring to the idea of spiritual sight, that we look for the Godly perspective
+
+11. And thou shalt write them upon the posts{a} of thy house and on thy gates.
+[a] See Mezuzah
+
+12. And it shall be that when YHVH, thy Elohim, shall have brought thee into the land which He swore unto thy fathers, to Abraham, to Isaac, and to Jacob—
+
+13. To give thee great and goodly cities, which thou buildedst not, and houses full of all good things, which thou fillest not, and wells digged, which thou diggest not, vineyards and olive trees, which thou plantest not;
+
+14. Yea, when thou shalt have eaten and be full; then beware, lest thou forget YHVH, which brought thee forth out of the land of Egypt from the house of bondage.
+
+15. ¶ Thou shalt stand in awe of YHVH, thy Elohim, and reverence and serve Him, and make thy oaths only by His name.
+
+16. Ye shall not go after other gods{a}, or chase after the elohim{a} of the people which are round about you, lest the anger of YHVH, thy Elohim, be kindled against thee and destroy thee from off the face of the earth.
+[a] See Elohim of man
+
+17. Ye shall not tempt YHVH, your Elohim, as you tempted him in the house of Peor{a}.
+[a] See 3 Moses 56:3
+
+18. But ye shall diligently keep the mitzvoth of YHVH, your Elohim, and His testimonies, and His ordinances which He hath given thee;
+
+19. And thou shalt do that which is right and good in the sight of YHVH, that it may be well with thee and that thou mayest go in and possess the good land which YHVH swore unto thy fathers:
+
+20. To cast out all thine enemies from before thee even as YHVH hath spoken,
+
+21. For YHVH hath said{a}: Holy ye shall be for I, YHVH Elohim, am holy.
+[a] See 4 Moses 8:13-14, Leviticus 20:26
+
+22. Every man and every woman shall fear and respect their Mother the earth, and their Father in the Heavens, for these are the Creator, and ye, their creation, shall keep my Sabbaths{a}; I am YHVH thy Elohim.
+[a] See Sabbath
+
+23. Be not adulterers, turning unto idols, neither make unto yourselves molten gods{a}, for I am YHVH thy Elohim.
+[a] See Elohim of man
+
+24. And when ye shall make thy peace offerings{a} in sacrifice unto YHVH, you shall offer it at your own will that I might find them acceptable to me; I am YHVH, thy Elohim.
+[a] See 4 Moses 28
+
+25. ¶ And when thy son or thy daughter asketh thee in time to come, saying: What meaneth the testimonies{a}, and the ordinances{b}, and the customs{c} which YHVH, our Elohim, hath laid charge upon you?
+[a] Items in the temple
+[b] See Ordinance
+[c] Hebrew, "mishpat;" "judgment"
+
+26. Then thou shalt say unto thy sons and thy daughters: We were the slaves of Pharaoh in Egypt; and YHVH brought us out of Egypt with a mighty hand{a};
+[a] Likely a reference Jesus, see Chesed
+
+27. And YHVH showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household before our eyes;
+
+28. And YHVH brought us out from thence, that He might bring us in, to give us the land which He swore unto our fathers.
+
+29. And YHVH commanded us to do all these statutes, to stand in awe of our Elohim, for our good always, that He might preserve us alive, as it is at this day.
+
+30. And it shall be our righteousness if we observe to do all these mitzvoth before YHVH, our Elohim, as He hath taught us.
+
+
+---
+chapter: Chapter 3
+
+viewer-path: /plates-of-brass/5-moses/3
+
+chapter-aka: A Holy People
+
+1. When YHVH{a}, thy Elohim{b}, shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee;
+[a] See YHVH
+[b] Hebrew, "gods;" see Elohim
+
+2. Even the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;
+
+3. And when YHVH, thy Elohim, shall deliver them before thee, thou shalt smite them and utterly destroy them; thou shalt make no covenant with them nor show mercy unto them;
+
+4. Neither shalt thou make marriages with them; thy daughters thou shalt not give unto their sons, nor their daughters shalt thou take unto thy sons;
+
+5. For they will turn away thy sons from following thy Elohim, that they may serve other elohim{a}; so will the anger of YHVH be kindled against you and destroy thee suddenly.
+[a] See Elohim of man
+
+6. But thus shall you deal with them: You shall destroy their{a} altars, and tear down their sacred pillars, and burn their wooden idols, and smash their images carved into stone;
+[a] There are many similarities between the worship and rituals of Israel and their neighbors, it is who they worship that makes their rituals holy
+
+7. For thou art a holy people unto YHVH, thy Elohim; YHVH, thy Elohim, hath chosen thee to be a holy people unto Himself, prized above all peoples upon the face of the earth.
+
+8. YHVH did not set His love upon you nor choose you because you are more in number than any people; for you were the fewest of all people;
+
+9. But YHVH loves you and because He would keep the oath which He had sworn unto your fathers,
+
+10. And for the sake of that oath hath YHVH brought you out with a mighty hand and redeemed you out of the house of slavery, from the hand of Pharaoh, king of Egypt.
+
+11. Know, therefore, that YHVH, thy Elohim, He is El Elyon{a} above all of Ha’Elohim{b}, the faithful God{c}, which keepeth covenants and hath mercy for they that love Him and keep His mitzvoth{d} to a thousand generations,
+[a] The Most High God, or the highest God, or the highest of the gods
+[b] Hebrew: "the Gods;" see Ha'Elohim
+[c] Hebrew, "El"
+[d] Hebrew; calling, commandment, or religious duty
+
+12. And YHVH repayeth them that hate him to their face, to destroy them; He will not be slack to they that hateth Him; He will repay them to their face.
+
+13. Thou shalt, therefore, keep the mitzvoth, and the ordinances, and the customs which I do instruct thee this day, to do{a} them.
+[a] Or "keep"
+
+14. ¶ Wherefore, it shall come to pass, if ye hearken to these customs{a} and keep and do them, that YHVH, thy Elohim, shall keep unto thee the covenant and the mercy which He swore unto thy fathers;
+[a] Hebrew, "mishpat;" "judgment"
+
+15. And YHVH will love thee, and bless thee, and multiply thee;
+
+16. YHVH will also bless the fruit of thy womb, and the fruit of thy land, thy corn, and thy wine, and thine oil, the increase of thy herds, and the flocks of thy sheep in the land which He swore unto thy fathers to give thee;
+
+17. And thou shalt be blessed above all people; there shall not be male or female barren among you or among your cattle.
+
+18. And YHVH shall take away from thee the plagues{a}, yea, none of the evil diseases of Egypt, which thou knowest, will fall upon thee, but these shall be set aside to curse them that hate thee.
+[a] See 3 Moses 8-18
+
+19. And thou shalt consume all the people which YHVH, thy Elohim, shall deliver thee; thine eye shall have no pity upon them; neither shalt thou serve their elohim, for that will be a snare unto thee.
+
+20. And if thou shalt say in thine heart: These nations are more than I; how can I dispossess them?
+
+21. Thou shalt not be afraid of them but shalt well remember what YHVH, thy Elohim, did unto Pharaoh and unto all of Egypt:
+
+22. The great temptations which thine eyes saw, and the signs, and the wonders, and His mighty right arm{a}, and His outstretched arm whereby YHVH, thy Elohim, brought thee out; so shall YHVH, thy Elohim, do unto all the people of whom thou might surly fear.
+[a] Or right hand, likely a reference to Jesus
+
+23. Moreover, YHVH, thy Elohim, will send the hornet among them until they that are left and hide themselves from thee be destroyed;
+
+24. Therefore, thou shalt not be afraid of them; for YHVH, thy Elohim, is among you, and is the highest and the most revered amongst Ha’Elohim.
+
+25. ¶ And YHVH, thy Elohim, will put out those nations before thee by little and little; thou mayest not consume them at once, lest the beasts of the field increase upon thee.
+
+26. But YHVH, thy Elohim, shall deliver them unto thee and shall destroy them with a mighty destruction until they be destroyed.
+
+27. And YHVH shall deliver their kings into thine hand, and thou shalt destroy their names from under the heavens;
+
+28. And there shall be no one able to stand before thee; thou conquer them all.
+
+29. The graven images of their elohim{a} shall you burn with fire; thou shalt not covet the silver or gold that is in them nor take it unto thee, lest thou be snared therein; for it is loathsome unto YHVH, thy Elohim;
+[a] See Elohim of man
+
+30. Neither shalt thou bring any such detestable things into thine house, lest thou be a cursed thing like it; but thou shalt utterly detest it, and thou shalt utterly abhor it; for it is a cursed{a} thing.
+[a] Or "banned"
+
+
+---
+chapter: Chapter 4
+
+viewer-path: /plates-of-brass/5-moses/4
+
+chapter-aka: Remember and Perish Not
+
+1. All the mitzvoth{a} which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which YHVH{b} swore{c} unto your fathers.
+[a] Hebrew; calling, commandment, or religious duty
+[b] See YHVH
+[c] See 1 Moses 26:24-25, Genesis 15:18-21
+
+2. And thou shalt remember all the way which YHVH, thy Elohim{a}, led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart{b}, whether thou wouldest keep His mitzvoth or not.
+[a] Hebrew, "Gods;" see Elohim
+[b] Or "mind;" see Heart
+
+3. And YHVH hath humbled thee, and suffered thee to hunger, and fed thee with manna{a}, which thou knewest not, neither did thy fathers know,
+[a] See 3 Moses 22
+
+4. And this that thou might know that mankind{a} doth not live by bread only, but by every word that proceedeth out of the mouth of YHVH doth thou live:
+[a] Adam: Hebrew: "mankind"
+
+5. And thy raiment waxed not old upon thee; neither did thy foot swell these forty years.
+
+6. Thou shalt also consider in thine heart that, as a man chasteneth his son, so YHVH, thy Elohim, chasteneth thee;
+
+7. Therefore, thou shalt keep the mitzvoth of YHVH, thy Elohim, to walk in His ways and to love Him.
+
+8. For YHVH, thy Elohim, bringeth thee into a good and spacious land: a land of brooks of water, of fountains and depths that spring out of valleys and hills;
+
+9. A land of wheat, and barley, and vines, with fig trees, and pomegranates; a land of olive oil and honey;
+
+10. A land wherein thou shalt eat bread without scarceness, thou shalt not lack anything in it; a land whose stones are iron and out of whose hills thou mayest dig brass.
+
+11. And when thou hast eaten and art full, then thou shalt bless YHVH, thy Elohim, for the good land which thou hath been given.
+
+12. ¶ Beware: forget not YHVH, thy Elohim, falling asleep to His mitzvoth, and His practice, and His ordinances, which I lay charge upon thee this day,
+
+13. Lest when thou hast eaten and art full, and hast built goodly houses, and dwelt therein,
+
+14. And when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied,
+
+15. Then thine heart be lifted up, and thou forget YHVH, thy Elohim, which brought thee forth out of the land of Egypt from the house of bondage,
+
+16. Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water, who brought thee forth water out of the rock{a} of flint,
+[a] See 3 Moses 24:7-8, 50:13; Exodus 17:5-7; Numbers 20:10-11
+
+17. Who fed thee in the wilderness with manna{a}, which thy fathers knew not, that He might humble thee and that He might prove thee, to do thee good at thy latter{b} end.
+[a] See 3 Moses 22
+[b] Or "at the very end"
+
+18. ¶ And thou might say in thine heart: My power and the might of mine hand hath gotten me this wealth;
+
+19. But thou shalt remember YHVH, thy Elohim; for it is He that giveth thee power to get wealth, that He may establish His covenant which He swore unto thy fathers, as it is this day.
+
+20. ¶ And it shall come to pass that if thou do at all forget YHVH, thy Elohim, and walk after other elohim{a}, and serve them, and worship them, I testify against you this day that you shall surely perish.
+[a] See Elohim of man
+
+21. As the nations which YHVH conquereth before your face, so shall ye perish because ye would not be obedient unto the voice of YHVH, your Elohim; therefore, remember, and perish not.
+
+
+---
+chapter: Chapter 5
+
+viewer-path: /plates-of-brass/5-moses/5
+
+chapter-aka: Hear, O Israel
+
+1. Hear, O Israel: Thou art to pass over Jordan, to go in to possess nations greater and mightier than thyself, cities great and fenced up to heaven,
+
+2. A people great and tall, the children of giants{a}, whom thou knowest and of whom thou hast heard say{b}: Who can stand before the children of giants?
+[a] In Numbers 13:22, 28, & 33; and Deuteronomy 9:2, they are called the "children of Anak," who is supposed to have been a giant, and a father of races of giants; not to be confused with nephilim from 1 Moses 10:11
+[b] See 3 Moses 46:28
+
+3. Understand, therefore, this day that YHVH{a}, thy Elohim{b}, shall go over before thee; as a consuming fire shall destroy them, and shall bring them down before thy face;
+[a] See YHVH
+[b] See Elohim
+
+4. And by this shalt thou drive them out and conquer them quickly, even as YHVH hath said.
+
+5. ¶ Speak not in thine heart after YHVH, thy Elohim, hath cast them out from before thee, saying: For my righteousness YHVH hath brought me in to possess this land; but for the wickedness of these nations YHVH doth drive them out from before thee.
+
+6. Not for thy righteousness or for the uprightness of thine heart dost thou go to possess their land;
+
+7. But for the wickedness of these nations YHVH, thy Elohim, doth drive them out from before thee, and that He may perform the Word which YHVH swore unto thy fathers, Abraham, Isaac, and Jacob.
+
+8. ¶ Understand, therefore, that YHVH, thy Elohim, giveth thee not this good land to possess it for thy righteousness; for thou art a stiff-necked people.
+
+9. Remember and forget not how thou provokedst YHVH, thy Elohim, to wrath in the wilderness;
+
+10. Yea, from the day that thou didst depart out of the land of Egypt until you came unto this place you have been rebellious against YHVH.
+
+11. You did provok YHVH to wrath, so that at times YHVH was angry enough to have utterly wiped thee out.
+
+12. When I was gone up into the Mount{a} to receive the tables of stone, even the tables of the Covenant which YHVH did make with you, there we abode in the mount forty days and forty nights; we neither did eat bread nor drink water;
+[a] See 3 Moses 29-30
+
+13. And YHVH delivered unto me two tables of stone written with the finger of YHVH;
+
+14. And on them was written according to all the words which YHVH spoke in the mount, out of the midst of the fire in the day of the assembly.
+
+15. And it came to pass at the end of forty days and forty nights that YHVH gave us the two tables of stone, even the Tables of the Covenant.
+
+16. ¶ And it came to pass that YHVH said{a} unto us: Arise; get thee down quickly from hence; for thy people which thou hast brought forth out of Egypt have corrupted themselves;
+[a] 3 Moses 30:9
+
+17. They are quickly turned aside out of the way which I commanded them; they have made them a molten image.
+
+18. Furthermore, YHVH spoke unto us, saying: I have seen this people, and behold, it is a stiffnecked people:
+
+19. Let me alone, that I may destroy them and blot out their name from under heaven; and I will make of you a nation mightier and greater than they.
+
+20. ¶ And it came to pass that I turned and came down from the Mount, and the Mount burned with fire; and the two tables of the covenant were in my two hands.
+
+21. And I looked, and behold, ye had sinned against YHVH, your Elohim, and had made you a molten calf; you had turned aside quickly out of the way which YHVH had commanded you.
+
+22. And I took the two tables, and cast them out of my two hands, and broke them before your eyes.
+
+23. And I fell down before YHVH, as at the first, forty days and forty nights;
+
+24. I did neither eat bread nor drink water because of all your sins which you sinned in doing wickedly in the sight of YHVH, to provoke Him to anger;
+
+25. For I was afraid of the anger and hot displeasure wherewith YHVH was wroth against you to destroy you. but YHVH hearkened unto me at that time also.
+
+26. And YHVH was very angry with Aaron, to have destroyed him; and I prayed for Aaron also the same time.
+
+27. And it came to pass that I took your sin, the calf which you had made, and burnt it with fire, and stamped it, and ground it very small, even until it was as small as dust;
+
+28. And I cast the dust thereof into the brook that descended out of the Mount.
+
+29. ¶ Likewise, it came to pass{a} that when YHVH sent you, saying: Go up and possess the land which I have given you;
+[a] See 3 Moses 46
+
+30. Then ye rebelled against the commandment of YHVH, your Elohim, and you believed Him not nor hearkened to His voice.
+
+31. Yea, you have been rebellious against YHVH from the day that I knew you.
+
+32. Thus I fell down before YHVH forty days and forty nights, as I fell down at the first, because YHVH had said He would destroy you.
+
+33. I prayed, therefore, unto YHVH and said: O Lord{a} YHVH, destroy not thy people and thine inheritance, which thou hast redeemed through thy greatness, which thou hast brought forth out of Egypt with a mighty hand.
+[a] Adonai, Hebrew, "Lord;" Its root is "shalam" meaning "to be of domineering, and in a master, or rabreban, which means "lord" or "noble." complete" or "sound;" Not to be confused with "adon," "mare," or gebir which also mean "Lord," but in the sense
+
+34. Remember thy servants, Abraham, Isaac, and Jacob; look not unto the stubbornness of this people, nor to their wickedness, nor to their sin{a},
+[a] See Sin
+
+35. Lest the land whence thou broughtest us out say: Because YHVH was not able to bring them into the land which He promised them and because He hated them, He hath brought them out to slay them in the wilderness;
+
+36. Yet they are Thy people and Thine inheritance, which thou broughtest out by Thy mighty power and by Thy mighty right hand and Thy outstretched arm.
+
+
+---
+chapter: Chapter 6
+
+viewer-path: /plates-of-brass/5-moses/6
+chapter-aka: Reverence YHVH, Thy Elohim
+
+1. And it came to pass that YHVH{a} said{b} unto me: Hew thee two other tables of stone like unto the first, and come up unto me upon the Mount, and make thee an ark of wood.
+[a] See YHVH
+[b] See 3 Moses 32-33
+
+2. And I will write on the tables the words that were on the first tables, which thou breakest, save the words of the Everlasting Covenant{a} of the Holy Priesthood; and thou shalt put them in the ark.
+[a] See Everlasting covenant
+
+3. And I made an ark of wood, and hewed two tables of stone like unto the first, and went up into the Mount of Ha’Elohim, having the two tables in mine hand.
+
+4. And YHVH wrote on the tables, according to the first writing, the Covenant, which YHVH spoke unto you in the Mount, out of the midst of the fire, in the day of the assembly;
+
+5. And He gave ten instructions also; and YHVH gave these unto us, that thou might know, and that thou wouldst remember.
+
+6. And we turned ourselves, and came down from the Mount, and I put the tables in the ark which had been made; and there they be even as YHVH commanded me.
+
+7. ¶ And it came to pass that Israel took her journey from there to the mount where Aaron died{a}, and there he was buried; and Eleazar, his son, ministered in the office of the Priest in his stead.
+[a] See 3 Moses 50
+
+8. And YHVH separated the tribe of Levi to bear the Ark of the Covenant of YHVH, to stand before YHVH to minister unto Him, and to bless in His name;
+
+9. And I stayed in the mount, according to the first time, forty days and forty nights; and YHVH hearkened unto me at that time also, and YHVH would not destroy thee.
+
+10. And YHVH said unto me: Arise; take thy journey before the people, that they may go in and possess the land which I swore unto their fathers to give unto them.
+
+11. ¶ And now, O Israel, what doth YHVH, thy Elohim{a}, require of thee, but to reverence YHVH, thy Elohim,
+[a] See Elohim
+
+12. To walk in all His ways, and to love Him, and to serve YHVH, thy Elohim, with all thy heart and with all thy soul,
+
+13. To keep the mizvath{a} of YHVH and His ordinances{b} which I instruct thee this day for thy good?
+[a] Hebrew, calling, commandment, or religious duty
+[b] Hebrew, "chuqqah;" something prescribed or enacted; a statute
+
+14. Behold, the heaven and the heaven of heavens{a} belongs to YHVH, thy Elohim, the earth also, with all that therein is.
+[a] shamayi h'shamayim, the spiritual realm
+
+15. Only YHVH had a delight in thy fathers to love them; and He chose their seed after them, even you above all people, as it is this day.
+
+16. Circumcise, therefore, the foreskin of thine heart and be no more stiff-necked;
+
+17. For YHVH, your Elohim, is Elohim over Ha’Elohim{a}, and Lord{b} of lords{c}, El Elyon{d}, mighty and awesome, which regardeth not any persons nor taketh any bribes;
+[a] See Ha'Elohim
+[b] Hebrew, Adonai its root is "shalam," meaning "to be complete" or "sound"
+[c] Hebrew "adon;" "lord," or "noble."
+[d] Hebrew, "The Most High God;" see El Elyon
+
+18. YHVH doth execute the judgment of the fatherless and widow and loveth the stranger, in giving them food and raiment;
+
+19. For YHVH hath said{a}: If a stranger sojourn with thee in your land, thou shall not vex them; but the stranger that dwelleth with thee shall be unto thee as one born among you,
+[a] See 4 Moses 12:8-9
+
+20. And thou shalt love them as thyself; for thou wast a stranger in the land of Egypt; and I am YHVH, thy Elohim.
+
+21. Therefore, love the stranger and the foreigner amongst you; for you were strangers in the land of Egypt.
+
+22. ¶ Thou shalt fear YHVH, thy Elohim; Him shalt thou serve, and to Him shalt thou cleave and make all thy oaths by His name.
+
+23. He is thy praise, and He is thy Elohim, that hath done for thee these great and terrible things which thine eyes have seen.
+
+24. Thy fathers went down into Egypt with but seventy{a} people; and now YHVH, thy Elohim, hath made thee as the stars of heaven for multitude;
+[a] See 3 Moses 1:8
+
+25. Therefore, thou shalt love YHVH, thy Elohim, and keep His obligations, and His statutes, and His ordinances, and His mitzvoth always.
+
+---
+chapter: Chapter 7
+
+viewer-path: /plates-of-brass/5-moses/7
+
+chapter-aka: Observe and Do
+
+1. And now, know you this day; for I speak not with your children which have not known and which have not seen the chastisement of YHVH{a}, your Elohim{b}; His greatness, His mighty right arm{c}, and His outstretched arm{d},
+[a] See YHVH
+[b] See Elohim
+[c] Mighty right arm: A name for Moses, see 4 Moses 36:8.
+[d] Outstretched arm: A name for Zipporah. 
+
+2. And His miracles, and His acts, which He did in the midst of Egypt{a} unto Pharaoh, the king of Egypt, and unto all his land,
+[a] See 3 Moss 8-19, Exodus 5-13
+
+3. And what He did{a} unto the army of Egypt, unto their horses, and to their chariots, how he made the water of the Red Sea to overflow them as they pursued after you, and how YHVH did destroy them,
+[a] See 3 Moses 20, Exodus 14
+
+4. And what He did unto you in the wilderness until ye came into this place,
+
+5. And what he did{a} unto Dathan and Abiram, the sons of Eliab, which said: We will not come up;
+[a] See 3 Moses 48
+
+6. And how the earth opened her mouth and swallowed them up, and their households, and their tents, and all the substance that was in their possession, in the midst of all Israel.
+
+7. But your eyes have seen all the great acts of YHVH which He did;
+
+8. Therefore, you shall keep all the mitzvoth{a} which I give you this day, that you may be strong, and go in and possess the land whither you go to possess it,
+[a] Hebrew, calling, commandment, or religious duty
+
+9. And that ye may prolong your days in the land, which YHVH swore unto your fathers to give unto them and to their seed, a land that floweth with milk and honey;
+
+10. For the land, whither thou goest in to possess it, is not as the land of Egypt from whence you came out, where thou sowed thy seed and watered it with thy foot, as a garden of herbs;
+
+11. But the land whither you go to possess it is a land of hills and valleys and drinketh water of the rain of the heavens.
+
+12. Yea, it is a land which YHVH, thy Elohim, careth for; the eyes of YHVH, thy Elohim, are always upon it, from the beginning of the year even unto the end of the year.
+
+13. ¶ And it shall come to pass, if you shall hearken diligently unto my mitzvoth which I command you this day, to love YHVH, your Elohim, and to serve Him with all your heart and with all your soul,
+
+14. That YHVH will give you the rain of your land in His due season, the first rain and the latter rain, that thou mayest gather in thy corn, and thy wine, and thine oil.
+
+15. And YHVH will send grass in thy fields for thy cattle, that thou mayest eat and be full.
+
+16. Take heed to yourselves, therefore, that your heart be not deceived, and you turn aside, and serve other elohim{a}, and worship them;
+[a] See Elohim of man
+
+17. And then the wrath of YHVH shall be kindled against you and He shall shut up the heavens, that there be no rain, and that the land yield not her fruit, and lest you perish quickly from off the good land which YHVH giveth you;
+
+18. Therefore, you shall lay up these, my words, in your heart and in your soul, and bind{a} them for a sign{b} upon your hand, that they may be as a vision{c} between your eyes:
+[a] To make secure by our actions
+[b] "Token," or "pledge"
+[c] Referring to one's perspective
+
+19. And you shall teach them to your children, speaking of them when thou sittest in thine house, and when thou walkest by the way, when thou liest down, and when thou risest up.
+
+20. And thou shalt write them upon the doorposts{a} of thine house and upon thy gates,
+[a] See Mezuzah
+
+21. That your days may be multiplied, and the days of your children, in the land which YHVH swore unto your fathers to give them, as the days of the heavens upon the earth.
+
+22. ¶ And if you shall diligently keep all these mitzvoth which I teach unto you, to do them—to love YHVH, our Elohim, to walk in all His ways, and to cleave unto Him—
+
+23. Then will YHVH drive out all these nations from before you, and you shall possess greater nations and a people mightier than yourselves.
+
+24. Yea, the very place whereon the soles of your feet shall tread shall be yours; from the wilderness, from the river, even unto the uttermost sea shall your coast be.
+
+25. And no one shall be able to stand before you; for YHVH, your Elohim, shall lay the fear of you and the dread of you upon all the land that you shall tread upon, even as He hath said unto you.
+
+26. ¶ Behold, I set before you this day a blessing{a} and a curse:
+[a] See 1 Nephi 1:54-58 RAV, 2:20-24 OPV; 2 Nephi 1:34b RAV, 1:30 OPV; Alma 7:15-16 RAV, 9:13 OPV
+
+27. A blessing that if you obey the mitzvoth of YHVH, your Elohim, which I do teach you this day,
+
+28. And a curse if you will not obey the mitzvoth of YHVH, your Elohim, but turn aside out of the way which I teach you this day, to go after other elohim{a} which you have not known.
+[a] See Elohim of man
+
+29. ¶ And it shall come to pass that when YHVH, thy Elohim, hath brought thee in unto the land whither thou goest to possess it, that thou shalt put a blessing upon the mountain{a} to the North of that land, and the curse upon the tallest mountain to the North{b}, residing next to that blessed mount.
+[a] Likely Mount Gerizim
+[b] Likely Mount Ebal
+
+30. And the mountain to the North, it is blessed, and it shall be as the Mountain of Ha’Elohim unto you, for it is the place where thy father, Abraham went to offer up his son, our father, Isaac unto YHVH; and there the angel of YHVH{a} did meet him.
+[a] See Angel of YHVH
+
+31. And thou shalt build an altar on that cursed mountain, that which is the tallest mountain to the North, made from cut stones, to make there the peace offerings{a} upon that altar,
+[a] See 4 Moses 28
+
+32. And you shall eat there, and you shall write the words of this Law on the stone;
+
+33. And this shall be as a tabernacle{a} unto YHVH, that Ha’Elohim will see and remember, that the curse of this mountain come not upon you.
+[a] Or "temple"
+
+34. For you shall pass over Jordan to go in to possess the land which YHVH, your Elohim, giveth you, and ye shall possess it and dwell therein;
+
+35. And you shall observe to do all the statutes and ordinances which I set before you this day; even so, Amen.
+
+
+===
+book: The Law of the Land
+book-aka: 5 Sefer Moses - Part 2
+viewer-path: /plates-of-brass/5-moses-part-2/
+
+---
+chapter: Chapter 8
+
+viewer-path: /plates-of-brass/5-moses/8
+
+chapter-aka: The Statutes and Judgments
+
+1. And these are the statutes and judgments which ye shall observe to do in the land, which YHVH{a}, the Elohim{b} of thy fathers giveth thee to possess, all the days that ye live upon the earth:
+[a] See YHVH
+[b] See Elohim
+
+2. Ye shall do away and blot out all the places wherein the nations which ye shall possess served their elohim{a}, upon the high mountains, and upon the hills, and under every green tree;
+[a] See Elohim of man
+
+3. Ye shall overthrow their altars, and break their obelisks{a}, and burn their idols of wood with fire; and carved images of their elohim{b} ye shall break, and destroy the names of them out of that place.
+[a] a stone pillar set up as a monument or landmark
+[b] See Elohim of man
+
+4. And ye shall not worship YHVH, your Elohim, in these ways;
+
+5. But unto the place which YHVH, your Elohim, shall choose out of all your tribes to put His name there, even unto His habitation shall ye seek, and thither thou shalt come;
+
+6. And thither ye shall bring your offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks;
+
+7. And there ye shall eat before YHVH, your Elohim, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein YHVH, thy Elohim, hath blessed thee.
+
+8. ¶ Ye shall no more do after all the things that we do here this day, everyone doing whatsoever is right in their own eyes;
+
+9. For ye are not as yet come to the rest and to the inheritance which YHVH, your Elohim, giveth you:
+
+10. But when ye go over Jordan, and dwell in the land which YHVH, your Elohim, giveth you to inherit, and when He giveth you rest from all your enemies round about, so that ye dwell in safety,
+
+11. Then there shall be a place which YHVH, your Elohim, shall choose to cause His name to dwell there.
+
+12. And there ye shall bring all that I command you: your offerings and your sacrifices, your tithes and offerings, and all your choice votive offerings which ye vow unto YHVH;
+
+13. And ye shall rejoice before YHVH, your Elohim; ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that is within your gates, forasmuch as he hath no part nor inheritance with you.
+
+14. Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest;
+
+15. But in the places in which YHVH shall choose, there thou shalt offer thy burnt offerings, and there thou shalt do all that I instruct thee.
+
+16. Notwithstanding, thou mayest kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of YHVH, thy Elohim, which He hath given thee;
+
+17. The unclean and the clean beasts thou may eat{a} thereof, only thou shall not eat the blood; yea, thou shall pour it upon the earth as water.
+[a] Indicating that eating the unclean animals is not a spiritual law or a sin; see Deuteronomy 12:15, Matthew 15:10-11
+
+18. ¶ Thou mayest not eat within thy gates thy tithes of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy offerings which thou vowest, nor thy freewill offerings, or votive offering of thine hand;
+
+19. But thou must eat them before YHVH, thy Elohim, in the place which YHVH, thy Elohim, shall choose,
+
+20. Thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates;
+
+21. And thou shalt rejoice before YHVH, thy Elohim, in all that thou puttest thine hands unto.
+
+22. ¶ Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth:
+
+23. When YHVH, thy Elohim, shall enlarge thy border, as He hath promised thee, and thou shalt say: I will eat meat; thou mayest eat meat, whenever thou should desire it.
+
+24. If the place which YHVH, thy Elohim, hath chosen to put His name there be too far from thee, then thou shalt kill of thy herd and of thy flock which YHVH hath given thee, as I have commanded thee, and thou shalt eat in thy gates whatsoever thou should desire; the unclean and the clean shall eat of them alike:
+
+25. Only be sure that thou eat not the blood; for the blood is the life, and thou mayest not eat the life with the flesh; thou shalt not eat it; thou shalt pour it upon the earth as water;
+
+26. Thou shalt not eat it, that it may go well with thee and with thy children after thee when thou shalt do that which is right in the sight of YHVH.
+
+27. Only thy holy things which thou hast and thy vows thou shalt take and go unto the place which YHVH shall choose;
+
+28. And thou shalt offer thy offerings, the flesh and the blood, upon the altars of YHVH, thy Elohim;
+
+29. And the blood of thy sacrifices shall be poured out upon the altars of YHVH, thy Elohim, and thou shalt eat the flesh.
+
+30. Observe and hear all these words which I command thee, that it may go well with thee and with thy children after thee forever when thou doest that which is good and right in the sight of YHVH, thy Elohim.
+
+31. ¶ When YHVH, thy Elohim, shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them and dwellest in their land,
+
+32. Take heed to thyself that thou be not snared by following them after that they be converted{a} from before thee,
+[a] Hebrew, "shub;" the idea of coming back or returning; dual meaning, one of the Hebrews in the promised land returning to YHVH, and Israel returning to apostasy and idol worship
+
+33. And that thou inquire not after their elohim{a}, saying: How did these nations serve their elohim? Even so will I do likewise.
+[a] See Elohim of man
+
+34. Thou shalt not do so unto YHVH, thy Elohim; for every abomination{a} to YHVH which He hateth have they done unto their gods{b};
+[a] See 5 Moses 8:35
+[b] See Elohim of man
+
+35. For even their sons and their daughters they have burnt as offerings in the fire to their elohim.
+
+36. ¶ What thing soever I instruct you, observe to do it; thou shalt not add thereto nor diminish from it.
+
+
+
+---
+chapter: Chapter 9
+
+viewer-path: /plates-of-brass/5-moses/9
+
+chapter-aka: Oaths
+
+1. Thou shalt swear by The Name{a}, YHVH{b}, thy Elohim{c}, and this thou shall do by the reckoning{d} of Ruach Ha'kodesh{e} , and by nothing less:
+[a] See Ha'Shem
+[b] See YHVH
+[c] See Elohim
+[d] In the Law of the Lord this reads: "Thou shalt not profane the name of the Lord thy God, nor of the Lord Jesus Christ, nor of the Holy Spirit of God, by any oath," updating this commandment for modern readers
+[e] See Ruach Ha'kodesh
+
+2. Neither by the heavens, for the throne of El Elyon{a} is there; nor by the hosts thereof, for they serve YHVH;
+[a] See El Elyon
+
+3. Nor by the earth, for it is the place of the sole of His foot; nor by the inhabitants thereof, for they are mortal, and vane;
+
+4. Nor by thyself, for thou art of a day, and shalt cease; nor by any work of mankind, for it perisheth.
+
+5. ¶ Remember that YHVH, thy Elohim, spoke by the power and authority of His own name, and this because there is none greater:
+
+6. And by the greater shalt thou swear, even by Elohim Shaddai{a}, whose is the Kingdom under the whole of the heavens.
+[a] Elohim Shaddai: "God(s) Almighty," or the Almighty God(s)"
+
+7. Thou shalt not swear by the name of any other elohim{a}.
+[a] See Elohim of man
+
+8. ¶ Thou shalt not profane the name of YHVH, thy Elohim, nor the Presence{a}, nor the Breath{b} by any oath;
+[a] See Shekinah
+[b] See Ruach Ha'kodesh
+
+9. But thou shall maketh an oath only as the Torah{a} requireth of thee and alloweth, shalt thou take upon thee; for all else is profane.
+[a] Hebrew, "Teachings," "Instructions," or "Law."
+
+10. Thou shalt not profane the name of YHVH by any oath or vow, of thine own.
+
+11. ¶ And thou shall make thy oath before the Rabbi, and the Judge, and the Ruler, and the Priest of the Torah; and before such as are set in authority, whensoever they require it:
+
+12. And there may be an oath also between those who enter into the covenant, and also between they that serveth, and they that ordereth.
+
+13. ¶ Thou shalt perform all thine oaths; whether unto Ha’Elohim{a} or unto mankind, thou shalt perform them; thou shalt do according to every word that proceedeth out of thy mouth.
+[a] Hebrew, "the gods;" see Ha'Elohim
+
+14. Thou shalt not speak with thy lips when thy heart{a} giveth not assent, to do and to perform all the words of thy mouth;
+[a] See Heart
+
+15. And if thou swear by an oath to do anything which is known to thee, and it be sin, it is not an oath of YHVH, thy Elohim;
+
+16. Thou canst not profane the name of the holy to sanctify sin; YHVH shall judge thee, and they that asketh it of thee, and thou shall bear your sins together.
+
+17. ¶ And if thou swear by an oath to do a thing, and it be hid from thee, and thou know it not, and when it is known to thee it is sin;
+
+18. Thou shalt submit thyself unto the judgment of Ha’Elohim, and shalt do penance{a}; and shalt make restitution, as shall be put upon thee, offering up a sin offering{b};
+[a] A sacrament in which a member of the Church confesses sins; an outward expression of repentance
+[b] See 4 Moses 25
+
+19. And this that all sin may be put away, and thy heart purified, and wickedness put out of the land.
+
+20. ¶ And if thy wife swear by an oath to perform anything which thou mayest disallow, and thou hold thy peace at her, the day that thou hearest it, her oath shall stand;
+
+21. If thou wilt not that she perform it, thou shalt disallow it presently; for if thou delay, and then disallow it, thou shalt answer for her oath, and shalt bear her iniquity.
+
+22. ¶ If thy son or thy daughter swear by an oath to perform anything which thou mayest disallow, and thou hold thy peace to thy child the day that thou hearest it, the oath shall stand;
+
+23. If thou wilt not that the oath stand, thou shalt disallow it presently; for if thou delay, and then disallow it, thou shalt answer for the oath, and shalt bear the iniquity of thy child.
+
+24. ¶ And if thy servant swear by an oath to do a thing which thou mayest disallow, and thou hold thy peace at them, the day that thou hearest it, their oath shall stand;
+
+25. If thou wilt not that this oath stand, thou shalt disallow it presently; for if thou delay, and then disallow it, thou shalt answer for the oath, and shalt bear the iniquity of thy servant.
+
+26. Thou shall make no oaths{a}; but if thou should vow a vow unto YHVH, or swear an oath to bind thy soul with a bond; then thou shall not break thy word, thou shall do according to all that proceedeth out of thy mouth.
+[a] See Matthew 5:33- 37; 3 Nephi 5:81-83 RAV, 12:33-37 OPV
+
+27. Thou shalt neither make any oaths with nor shall thou respect{a} the oaths of the Mahan{b}; but in righteousness shalt thou make and keep all thy oaths that thou shall keep the statutes of YHVH, thy Elohim.
+[a] Hebrew, "nakar;" to acknowledge, examine, recognize, regard or take notice of
+[b] Mahan: "great one," or "master of a great secret"
+
+
+---
+chapter: Chapter 10
+
+viewer-path: /plates-of-brass/5-moses/10
+
+chapter-aka: Hearken unto the Voice of YHVH
+
+1. If there arise among you a prophet, or a dreamer of dreams, and they giveth thee a sign or a miracle, and the sign or the miracle come to pass,
+
+2. But they say unto thee: Let us go after other elohim{a} which thou hast not known, and let us serve them; thou shalt not hearken unto the words of that prophet, or that dreamer of dreams;
+[a] See Elohim of man
+
+3. For YHVH{a}, thy Elohim{b}, proveth thee, to know whether thou love YHVH, your Elohim, with all thy heart{c} and with all thy soul:
+[a] See YHVH
+[b] See Elohim
+[c] See Heart
+
+4. Ye shall walk after YHVH, your Elohim, and love Him, and keep His mitzvoth{a}, and obey His Voice{b}; and thou shall serve YHVH and cleave unto Him.
+[a] Hebrew, calling, commandment, or religious duty
+[b] See The Voice
+
+5. And that prophet, or that dreamer of dreams, shall be turned away because they hath spoken priestcraft{a} to turn you away from YHVH, your Elohim, which brought you out of the land of Egypt and redeemed you out of the house of bondage, to thrust thee out of the way which YHVH, thy Elohim, instructed thee to walk in:
+[a] Hebrew, "kesheph;" masculine noun, "sorcery;" see Doctrines of the Saints 106:5-35, Book of Remembrance 9:25-26
+
+6. So shalt thou put the evil away from the midst of thee.
+
+7. ¶ If thy brother, the son of thy mother, or thy son, or thy daughter, or the wife of thy bosom, or thy friend, which is as thine own soul, entice thee secretly, saying: Let us go and serve other elohim, which thou hast not known, thou nor thy fathers,
+
+8. Namely, the elohim of the people which are round about you, nigh unto thee, or far off from thee, from the one end of the earth even unto the other end of the earth,
+
+9. Thou shalt not consent unto them nor hearken unto them; neither shall thine eye pity them; neither shalt thou spare them; neither shalt thou conceal them;
+
+10. But thou shalt surely turn them away; thine hand shall be first upon them to put to death that priestcraft, and afterwards the hand of all the people.
+
+11. And thou shalt cast them out of thy residence{a}, that should they die, it be the will of Ha’Elohim{b};
+[a] See Matthew 10:14, 12:43-45
+[b] Hebrew, "the gods;" see Ha'Elohim
+
+12. For they hath sought to thrust thee away from YHVH, thy Elohim, which brought thee out of the land of Egypt from the house of bondage.
+
+13. And all Israel shall hear, and fear, and shall do no more any such wickedness as this among you.
+
+14. ¶ If thou shalt hear say in one of thy cities, which YHVH, thy Elohim, hath given thee to dwell there, saying:
+
+15. Scoundrels are gone out from among you, and have led astray the inhabitants of their city, saying: Let us go and serve other elohim, which thou hast not known,
+
+16. Then shalt thou inquire, and make search, and ask diligently; and behold, if it be truth and the thing certain, that such a detestable thing is wrought among you,
+
+17. Thou shalt surely teach these, thy people, to follow YHVH, thy Elohim, that they be offered teshuvah{a};
+[a] Hebrew, "return," Christ is the way back to God; usually translated as "grace," "repentance," or "redemption"
+
+18. And if they reject YHVH, and should draw their swords against thee and thy peoples, then shall thou smite the inhabitants of that city with the edge of the sword,
+
+19. And thou shalt gather all the spoil of it into the midst of the street thereof and shalt burn with fire, all the spoil thereof, every whit, for an offering unto YHVH, thy Elohim.
+
+20. And thou shall keep none of the cursed things into thine hand, that YHVH may turn from the fierceness of His anger, and show thee mercy, and have compassion upon thee, and multiply thee as He hath sworn unto thy fathers,
+
+21. For when thou shalt hearken unto the Voice of YHVH, thy Elohim, to keep all His mitzvoth which I do instruct thee this day, to do that which is right in the eyes of YHVH, thy Elohim, thou shalt be blessed;
+
+22. Therefore, thou shalt delight in blessing, and not in cursing.
+
+23. And in the name of YHVH, and of all the holy ones{a}, even all that are above thee, shalt thou bless; and it shall be a blessing.
+[a] See Ha'Elohim
+
+24. And thou shalt bless thy fellows, and thy children and servants, and theirs; and all who seek to learn the righteousness of YHVH, and the peace of His Kingdom of thee, and all they whom Ha’Elohim{a} hath committed to thy care:
+[a] See Ha'Elohim
+
+25. And they who do bless thee, these shalt thou honor.
+
+26. ¶ Thou shalt not curse out of the bitterness of thine own heart; nor shalt thou curse any but they that is under condemnation of the Torah{a} of YHVH, and being oft rebuked, will not seek teshuvah.
+[a] Hebrew, "Law," "Instructions," or "Teachings"
+
+27. Thou shalt not curse thy neighbors, nor the stranger that dwelleth with thee; for the hand of the judge be over them, and should they rebuke, they will repent{a}, and turn to righteousness;
+[a] See Teshuvah
+
+28. But should should these bind thee with curses, then shalt thou do likewise that thou should seek the protection of YHVH.
+
+29. But thou shalt not curse any who is placed in authority, or that hath been given dominion over thee;
+
+30. And if these should oppress thee, or do thee unrighteousness, and thy cry ascend to YHVH in heaven, in heaven will He hear thee and will be thy avenger;
+
+31. Therefore, curse not, lest thy curse return upon thee.
+
+
+---
+chapter: Chapter 11
+
+viewer-path: /plates-of-brass/5-moses/11
+
+chapter-aka: The Clean and the Unclean
+
+1. To keep sickness from this people, thou shalt not eat any sickly{a} or detestable{b} thing.
+[a] Hebrew, "chalah;" weak, sickly, or sick
+[b] Hebrew, "shiqquts;" " abominable idols," "detestable idol," or "detestable things;" food sacrificed or made for/ given too other gods
+
+2. And these are the beasts which thou shall eat: the ox, the sheep, and the goat,
+
+3. The deer, and the gazelle, and the roe deer, and the aqqo, and the antelope, and the wild ox, and the wild goat;
+
+4. And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that thou shall eat.
+
+5. Nevertheless, these thou shall not eat: of them that chew the cud or of them that divide the cloven hoof, as the camel, and the hare, and the coney; for they chew the cud but divide not the hoof; therefore, they are unclean{a} unto thee.
+[a] Hebrew, "tame;" unclean typically refers to anything that can make people sick, mostly physically but sometimes spiritually—this seems to be more of a health code than spiritual law; see 5 Moses 8:17, Deuteronomy 12:15, Matthew 15:10-11
+
+6. And the swine, because it divideth the hoof yet cheweth not the cud, it is unclean unto you; thou shall not eat of their flesh nor touch their dead carcass.
+
+7. ¶ These thou shall eat of all that are in the waters: all that have fins and scales thou shall eat; and whatsoever hath not fins and scales thou may not eat; it is unclean unto thee.
+
+8. Of all clean birds thou shall eat, but these are they of which thou shall not eat: the eagle, and the ossifrage, and the ospray,
+
+9. And the glede, and the vulture, and the bird of prey; and every raven after his kind, and the bath, the tachmas, and the gull, and any kind of hawk, and the kowc{a}, and the yanshuph, and the tinshemeth,
+[a] A type of owl
+
+10. And the stork, and the heron, and the dukiphath, and the bat; but of all clean fowls thou may eat.
+
+11. And every creeping thing that flieth is unclean unto thee; they shall not be eaten.
+
+12. ¶ Thou shall not eat of anything that dieth on its own; thou shalt not give it unto the stranger that is in thy gates, that they may eat it; nor may thou sell it unto a foreigner.
+
+13. And all this thou shall do to abate the sickness that should come should thou eateth that which is unclean;
+
+14. For as I commanded thee: thou shalt eat in thy gates whatsoever thou should desire; the unclean and the clean, thou shall eat of them alike;
+
+15. But of the unclean, these thou shall not bring into the place YHVH shall choose to place His name, nor shall thou give of it unto YHVH as a sacrifice.
+
+16. ¶ Thou shalt not sacrifice unto YHVH, thy Elohim, any bullock or sheep wherein there is blemish or any that is mangled; for that is detestable unto YHVH, thy Elohim.
+
+17. And because thou art a holy people unto YHVH, thy Elohim, thou shalt not eat of the blood, nor shall thou cook a kid in the milk of its mother.
+
+18. ¶ Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year,
+
+19. And thou shalt eat before YHVH, thy Elohim, in the place which He shall choose to place His name there,
+
+20. The tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks, that thou mayest learn to revere YHVH, thy Elohim, always.
+
+21. And if the way be too long for thee, so that thou art not able to carry it, or if the place be too far from thee which YHVH, thy Elohim, shall choose to set His name there when YHVH, thy Elohim, hath blessed thee,
+
+22. Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which YHVH, thy Elohim, shall choose;
+
+23. And thou shalt bestow that money for whatsoever thy soul should desire, be it oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth;
+
+24. And thou shalt eat it as a feast before YHVH, thy Elohim, and thou shalt rejoice, thee and thine household,
+
+25. ¶ And the Levite that is within thy gates; thou shalt not forsake them, for they hath no part nor inheritance with thee.
+
+26. At the end of three years, thou shalt bring forth all the tithe of thine increase the same year and shalt lay it up within thy gates;
+
+27. And the Levite, and the stranger, and the fatherless, and the widow which are within thy gates shall come, and shall eat, and be satisfied,
+
+28. That YHVH, thy Elohim, may bless thee in all the work of thine hand which thou doest.
+
+29. ¶ All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto YHVH, thy Elohim; thou shalt do no work with the firstling of thy bullock nor shear the firstling of thy sheep.
+
+30. Thou shalt eat it before YHVH, thy Elohim, year by year in the place which YHVH shall choose, thou and thy household.
+
+31. And if there be any blemish therein, as if it be lame, or blind, or have any ill blemish, thou shalt not sacrifice it unto YHVH, thy Elohim.
+
+32. And thou shalt eat it within thy gates; the unclean and the clean person shall eat it alike, as if it were a gazelle or deer.
+
+33. Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water.
+
+
+---
+chapter: Chapter 12
+
+viewer-path: /plates-of-brass/5-moses/12
+
+chapter-aka: In Prayer and Thanksgiving
+
+1. And when thou prayest, thou shalt not use many words, or vain repetitions; for YHVH{a}, thy Elohim{b}, hath understanding: nor shalt thou cry aloud; for Ha’Elohim{c} heareth the whisper of the heart{d}.
+[a] See YHVH
+[b] See Elohim
+[c] See Ha'Elohim
+[d] See Heart
+
+2. Nevertheless, in the assembly thou shalt speak with a flowing voice, that they who prayeth with thee might hear, and may say: So mote it be{a}; Amen.
+[a] See So mote it be
+
+3. Thy prayers shall be unto YHVH, thy Father; for He is rich in mercy and loving kindness;
+
+4. And in the Heavens shall He hear thee, in the fullness of His Wisdom{a} and goodness, as thou believeth on His name;
+[a] Chokhmah, a play on words, another term for Shekinah, God the Mother; see Shekinah
+
+5. But unto the Priests of YHVH thou shall petition for whatsoever He has dispensed unto them; for the mercy of YHVH is over all His works.
+
+6. ¶ And when in blessing, YHVH, thy Elohim, shall bestow upon thee any great and choice blessing; or, in His abundant charity, shall deliver thee from any great calamity, thou shalt assemble together thy wives, and thy children; thy friends, and thy neighbors; and shalt celebrate his glorious goodness with thank offerings, and feasting, and music, and dancing.
+
+7. And for the chief blessings of YHVH to thee, shalt thou keep it in remembrance from year to year, and teach it to thy children, that they who inherit the blessing may not forget gratitude to the giver, and the remembrance of the goodness of thy Elohim be preserved throughout all generations.
+
+8. ¶ Thou shalt offer upon the altar of YHVH, thy Elohim, and before the Priests, sacrifices for sin offerings, and for trespass offerings, and for memorials, and for peace offerings, and for thank offerings.
+
+9. Thy offerings shall be of the firstlings of thy flocks, and of the choice of thy fields, and of the chief{a} of all holy things.
+[a] Or "best of"
+
+10. Of thy flocks thou shall offer the firstling of male or female, without deformity or blemish, of such as divide the hoof and chew the cud;
+
+11. And of fowls, shalt thou offer all singing birds; and of fishes, all that have scales and fins; and of shell fish, such as have two shells, and move about from place to place:
+
+12. And these shall be holy unto YHVH, thy Elohim, and shall be offered upon the altar.
+
+13. Of the choice of thy fields, that which is good for food without change or addition, and whatsoever is used for bread for mankind, that is holy unto YHVH, thy Elohim, and shall be offered unto Him as an offering, and lifted up to the Priest; but it shall not be offered on the altar.
+
+14. And whatsoever other thing you offer, it shall be accompanied with one of these, and thus thy gift shall be sanctified:
+
+15. But if it be not accompanied with one of these, thou shalt redeem it at the valuation of the Priest, and it and the price thereof shall belong to YHVH.
+
+16. ¶ And when YHVH, thy Elohim, shall manifest Himself unto thee in majesty and might, or walketh with thee, and revealeth unto thee wisdom{a} and knowledge{b}, thou shalt erect pillars, tablets and enduring monuments unto Him, and make inscriptions upon them:
+[a] A play on words, as this is Chokhmah, another term for Shekinah, God the Mother
+[b] A play on words, as this is Da’at and can represent God the Father
+
+17. And thou shalt write and inscribe thereon the dealings of YHVH with thee, His blessings and mercies, and His great power and glory, which YHVH hath revealed unto thee;
+
+18. And this that it may remain a witness to the generations to come; and that they may know that YHVH is thy Elohim and there is none else.
+
+19. Thou shalt preserve the memory of the chosen of YHVH, who have been faithful in their duties, and in whatsoever YHVH, thy Elohim, hath called them, teaching their deeds unto thy children, and thy children’s children.
+
+20. Thou shalt build monuments to their memory, and erect pillars and tablets, and inscribe their praises, their works, their faith and their sufferings thereon;
+
+21. And when thou beholdest their monuments, thou shalt remember them, and talk of their righteousness, and teach thy children to walk in their righteous ways.
+
+22. But remember, you are the children of YHVH, your Elohim; thou shall not cut{a} thyself nor make any baldness{b} between thy eyes for the dead;
+[a] Shedding one’s own blood to appease gods
+[b] Done to gain favor from or for their dead
+
+23. For it is unclean{a}, and you art a holy people unto YHVH, thy Elohim; and YHVH hath chosen you to be a peculiar people unto Himself, above all the nations that are upon the earth.
+[a] See Unclean
+
+24. And when YHVH shall give thee a victory over thy enemies, thou shalt commemorate it with monuments and inscriptions;
+
+25. But over the graves of persecutors and blasphemers, and they who shed the blood of the innocent, and at the places of their abominations shalt thou pile rough stones, with muttered curses, against the day of the resurrection of damnation;
+
+26. And thou shalt teach thy children to add a stone to the pile as they pass by, and to curse any that remove the stones, and cleaves unto their wickedness.
+
+
+---
+chapter: Chapter 13
+
+viewer-path: /plates-of-brass/5-moses/13
+
+chapter-aka: The Release of YHVH
+
+1. At the end of every seven{a} years thou shalt make a release, and this is the manner of the release: Every creditor that lendeth unto their neighbor shall release it;
+[a] See 4 Moses 11
+
+2. They shall not exact it of their neighbor or of their brother because it is called the release of YHVH.
+
+3. Of the foreigner thou mayest exact it again; but that which is thine with thy brother thine hand shall release, save when there shall be no poor among you;
+
+4. For YHVH{a}, thy Elohim{b}, shall greatly bless thee in the land which He giveth thee for an inheritance, to possess it, only if thou carefully hearken unto the voice of YHVH, thy Elohim, to observe to do all these mitzvah which I instruct thee this day;
+[a] See YHVH
+[b] See Elohim
+
+5. For YHVH, thy Elohim, hath blessed thee, as He promised thee; and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee.
+
+6. ¶ And if there be among you a poor Hebrew man or a Hebrew woman within any of thy gates in thy land which YHVH, thy Elohim, giveth thee, thou shalt not harden thine heart nor shut thine hand from thy poor brother or sister;
+
+7. But thou shalt open thine hand wide unto them and shalt surely gift them sufficient for their need, in that which they wanteth.
+
+8. Beware that there be not a thought in thy wicked heart, saying: The seventh year, the year of Jubilee{a}, is at hand; and thine eye be evil against thy poor brother or sister, and thou givest them naught;
+[a] See 4 Moses 11
+
+9. And then these should cry unto YHVH against thee, for it would be sin unto thee.
+
+10. Yea, thou shalt surely give them, and thine heart shall not be grieved when thou givest unto them, and for this thing YHVH, thy Elohim, shall bless thee in all thy works and in all that thou puttest thine hand unto;
+
+11. For the poor shall never cease out of the land; therefore, I command thee, saying: Thou shalt open thine hand wide unto thy brothers and sisters, to thy poor, and to thy needy in thy land.
+
+12. ¶ And if a Hebrew man or a Hebrew woman be sold{a} unto thee and serve thee six years, then in the seventh year thou shalt let them go free from thee.
+[a] This appears to be more on an indentured servant than a slave
+
+13. And when thou sendest them out free from thee, thou shalt not let them go away empty handed;
+
+14. Thou shalt furnish them liberally out of thy flock, and out of thy floor, and out of thy winepress; of that wherewith YHVH, thy Elohim, hath blessed thee, thou shalt give unto them.
+
+15. And thou shalt remember that thou wast a slave in the land of Egypt, and that YHVH, thy Elohim, redeemed thee; therefore, I instruct thee this thing today.
+
+16. And it shall be, if they say unto thee: I will not go away from thee, because they loveth thee and thine house, because they are well with thee,
+
+17. Then thou shall go before thy judge, and set their wages, that they may stay with thee and thy house, and it shall be a generous wage.
+
+18. And if the wage set be greater than thou canst bear, it shall not seem hard unto thee when thou sendest them away free from thee;
+
+19. For they have been worth double the hired servant to thee in serving thee six years; and YHVH, thy Elohim, shall bless thee in all that thou doest.
+
+20. ¶ This is the Torah{a} of the servant taken captive in war, and of the servant bought with money, and of the servant born in thy house, and of him who cleaveth unto thee that thou mayest be a ruler unto them:
+[a] Hebrew, "Law," "Instructions," or "Teachings" 
+
+21. Behold, these shall be unto thee next to thy child; and thou shalt seek to establish them; for their greatness is thy glory.
+
+22. And if they be content to abide in thy household, thou shall appoint them their food, their raiment, and their habitation, in due season;
+
+23. And they shall labor in thy shop, and in they field, and with thy flock; therefore, they shall share in all thy toils, and in all thy possessions, and thou shall be as a ruler over them.
+
+24. And should they serve thee, thou shall not cast them off forever; but if thou wouldst oppress them, and they flee from thee, no one shall not return them to thee, lest thy hand be hard upon them.
+
+25. ¶ Behold, this Torah doeth not justify slavery; servitude is voluntary, and every servant in thy house may depart from oppression, at their will.
+
+26. And if thy brethren or the neighbors of a ruler should join themselves unto them, they shall appoint unto them duty and reward, according to their rank, and ability, and faithfulness:
+
+27. Yea, in their household they shall be as sons and daughter; and with him, and with his heir, shall possess his inheritance, that they together, being strong, may wax exceedingly great.  
+
+
+---
+chapter: Chapter 14
+
+viewer-path: /plates-of-brass/5-moses/14
+
+chapter-aka: The Three Sabbaths
+
+1. Observe the first month, and keep the Passover{a} unto YHVH{b}, thy Elohim{c}; for in the first{d} month YHVH, thy Elohim, brought thee forth out of Egypt{e} by night;
+[a] See The Feast of Unleavened Bread
+[b] See YHVH
+[c] See Elohim
+[d] The first month on the Hebrew calendar is Abib, see Abib
+[e] See Egypt
+
+2. Thou shalt, therefore, sacrifice the Passover unto YHVH, thy Elohim, of the flock and the herd, in the place where YHVH shall choose to place His name there.
+
+3. Thou shalt eat no leavened{a} bread with it; seven days shalt thou eat unleavened bread therewith, even the bread of affliction that thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life.
+[a] Leaven here is seen as a symbol of sin, Israel had to flee so quickly that they did not even have time for their bread to rise; see 3 Moses 18:11, Exodus 12:39
+
+4. And there shall be no leavened bread seen with thee in all thy lands for seven days; neither shall any of the flesh which thou sacrifice the first day remain until the morning.
+
+5. Thou shall offer the sacrifice of the Passover at the place which YHVH, thy Elohim, shall choose to place His name in,
+
+6. There thou shalt sacrifice the Passover at the evening, at the going down of the sun, at the season that thou camest forth out of Egypt,
+
+7. And thou shalt roast and eat it in the place which YHVH, thy Elohim, shall choose; and thou shalt turn in the morning and go unto thy tents.
+
+8. Six days thou shalt eat unleavened bread; and on the seventh day shall be a solemn assembly to YHVH, thy Elohim; thou shalt do no work therein.
+
+9. Seven weeks shalt thou number unto thee; begin to number the seven weeks from such time as thou beginnest to put the sickle to the corn,
+
+10. And thou shalt keep the Yom HaBikkurim{a} unto YHVH, thy Elohim, with a tribute of a freewill offering of thine hand, which thou shalt give unto YHVH, thy Elohim, according as YHVH, thy Elohim, hath blessed thee;
+[a] See The Sabbath of Yom HaBikkurim
+
+11. And thou shalt rejoice before YHVH, thy Elohim, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates, and the stranger, and the fatherless, and the widow that are among you, in the place which YHVH, thy Elohim, hath chosen to place His name there.
+
+12. And thou shalt remember that thou wast a bondman{a} in Egypt; and thou shalt observe and do these statutes.
+[a] Or "slave"
+
+13. ¶ Thou shalt observe Chag HaAsif{a} seven days, after that thou hast gathered in thy corn and thy wine;
+[a] Sukkot; See the Sabbath of Chag HaAsif
+
+14. And thou shalt rejoice in thy feast, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite, the stranger, and the fatherless, and the widow that are within thy gates.
+
+15. Seven days shalt thou keep a solemn feast unto YHVH, thy Elohim, in the place which YHVH shall choose;
+
+16. And this because YHVH, thy Elohim, shall bless thee in all thine increase and in all the works of thine hands; therefore, thou shalt surely rejoice.
+
+17. ¶ Three times in a year shall all thy males appear before YHVH, thy Elohim, in the place which He shall choose: in the Feast of Unleavened Bread, and in Yom HaBikkurim, and in Chag HaAsif; and they shall not appear before YHVH empty handed.
+
+18. Everyone shall give as they are able, according to the blessing of YHVH, thy Elohim, which He hath given thee.
+
+
+---
+chapter: Chapter 15
+
+viewer-path: /plates-of-brass/5-moses/15
+
+chapter-aka: Judges and Judgment
+
+1. And when thou art come unto the land which YHVH, thy Elohim, giveth thee, and shalt possess it, and shalt dwell therein, judges and officers shalt thou make thee in all thy gates, which YHVH{a}, thy Elohim{b}, shall giveth thee, throughout thy tribes; and they shall judge the people with just judgment.
+[a] See YHVH
+[b] See Elohim
+
+2. And judges shall be appointed in all the cities, three to a city, and more if the people require it:
+
+3. All of these shall be Elders of the people; who shall sit upon the judgment seat of the city and judge all the causes which shall come before them; even all that shall be appointed unto them to judge.
+
+4. And these shall sit in judgment, on the judgment seat in within their gates, to do justice unto all mankind; and shall render speedy judgment upon all who have violated these Laws{a}.
+[a] Referring to this book, 5 Moses
+
+5. And thou shalt not wrest judgment; thou shalt not respect persons, neither take bribes; for such gifts blind the eyes of the wise and pervert the words of the righteous.
+
+6. And honorable men shall be called to execute their judgment upon all who obey not, and shall bring before them the peacebreakers, and all who do violence.
+
+7. ¶ And men who know shall be set apart to bring the disobedient, the stiff-necked, the peacebreakers, and all who have done great wickedness, before the judges, and shall execute their judgment on all who withstand it and obey not.
+
+8. ¶ And in every village an Elder shall be appointed to oversee, to teach, and to instruct: and he shall govern the village according to this Torah{a}, and if there be other Elders, they also shall give honor unto him.
+[a] Hebrew, "Law," "Instructions," or "Teachings"
+
+9. And these shall rule within thy gates, according to this Torah, and they shall instruct the people in that city, everyone in their order.
+
+10. And unto these shall the people of that city give heed; and unto everyone where he administers.
+
+11. That which is altogether just shalt thou follow, that thou mayest live and inherit the land which YHVH, thy Elohim, shall giveth thee.
+
+12. ¶ Thou shalt not plant thee any obelisk for other elohim{a} near unto the altar of YHVH, thy Elohim, which thou shalt make thee, neither shalt thou set thee up any graven images, which YHVH, thy Elohim, hateth.
+[a] See Elohim of man
+
+13. And if there any be found among you, within any of thy gates which YHVH, thy Elohim, giveth thee, man or woman, that hath wrought wickedness{a} in the sight of YHVH, thy Elohim, in transgressing His covenant,
+[a] Hebrew, "resha;" acts of violence, or ethical issues; from "rasha" indicating walking away from God
+
+14. And hath gone and served other elohim{a} and worshiped them; be that the sun, or moon, or any of the host of the heavens, which I have not commanded,
+[a] See Elohim of man
+
+15. And it be told thee, and thou hast heard of it and inquired diligently, and behold, it be true and the thing certain that such detestable{a} thing is wrought in Israel,
+[a] See Alma 19:7-9 RAV, 395-6 OPV
+
+16. Then shalt thou bring forth that man or that woman which have committed that wicked thing unto the judge appointed at thy gates, even that man or that woman, and ye shalt cast them out{a} from before you.
+[a] See Mosiah 11:136-139 RAV, 36:28-30 OPV 
+
+17. ¶ And if anyone should be guilty of murder{a} by the mouth of two or three witnesses, they shall be worthy of death and shall be put to death; but at the mouth of one witness they shall not be put to death.
+[a] Killing, taking a human life
+
+18. The hands of the witnesses shall be first upon them to put them to death, and afterward the hands of all the people.
+
+19. And after this manner ye shalt put the evil away from among you.
+
+20. ¶ If there arise a matter too hard for judge that shall be in those days in judgment between blood and blood, between plea and plea, and between stroke and stroke, being matters of controversy within thy gates, then shalt thou arise and get thee up into the place{a} which YHVH, thy Elohim, shall choose.
+[a] The local place of worship, temple or synagogue
+
+21. And thou shalt come unto the Priests, the Levites, and unto these thou shall inquire; and they shall show thee the sentence of judgment;
+
+22. And thou shalt do according to the sentence which they of that place, which YHVH shall choose, shall show thee by the divination of the Priest; and thou shalt observe to do according to all that they inform thee;
+
+23. According to the sentence of the Torah which they shall teach thee, and according to the judgment{a} which they shall tell thee, thou shalt do:
+[a] Or "decision"
+
+24. Thou shalt not abate from the sentence which they shall show thee, to the right hand nor to the left.
+
+25. And anyone that will do presumptuously and will not hearken unto the judge, or the Priest that standeth to minister there before YHVH, thy Elohim; even that one shall be cast out{a} from among you;
+[a] See Mosiah 11:136-139 RAV, 36:28-30 OPV
+
+26. And this that thou shalt put away evil from Israel, and all the people shall hear, and fear{a}, and do no more presumptuously.  
+[a] Hebrew, "yirah;" to show reverence or piety to God
+
+
+---
+chapter: Chapter 16
+
+viewer-path: /plates-of-brass/5-moses/16
+
+chapter-aka: A King over Israel
+
+1. And when thou art come unto the land which YHVH{a}, thy Elohim{b}, giveth thee, and shalt possess it, and shalt dwell therein, and shalt say: I will set a king{c} over me like as all the nations that are about me,
+[a] See YHVH
+[b] See Elohim
+[c] Hebrew "melek;" can denote a tribal leader or a king; not to be confused with the true King, Jesus Christ
+
+2. And when thou shalt in any wise set him king over thee, whom YHVH, thy Elohim, shall choose; one from among thy brethren shalt thou set king over thee; thou mayest not set a stranger over thee which is not thy brother.
+
+3. But he shall not multiply horses{a} to himself nor cause the people to return to Egypt, to the end that he should multiply horses; forasmuch as YHVH hath said unto you: Ye shall henceforth return no more that way;
+[a] Indicating an increase in wealth
+
+4. Neither shall he multiply{a} wives to himself, that his heart turn not away; neither shall he greatly multiply silver and gold unto himself.
+[a] Collecting women as property; see Jacob 2:32-43 RAV, 23b-33 OPV
+
+5. ¶ And when the king sitteth upon the throne of his kingdom and ruleth, he shall write for him a copy of the Book of HaTorah{a}, according to that which is before YHVH continually, out of that which is before the Priests, the Levites;
+[a] Hebrew, "Teachings," "Instructions," or "Law;" Here referring to this, the Fifth Book of Moses
+
+6. And it shall be with him, and he shall read therein all the days of his life that he may learn to reverence{a} YHVH, his Elohim,
+[a] Or "fear;" Hebrew, "yirah;" to show reverence or piety to God
+
+7. And to keep all the words of this Torah and these ordinances{a} before him continually, to do them, and forget not to administer justice and judgment throughout the land;
+[a] A law or decree; something prescribed, a process that is acting out
+
+8. That his heart be not lifted up above his brethren and that he turn not aside from his mitzvoth{a}, to the right hand or to the left;
+[a] Hebrew: a calling, commandment, or religious duty
+
+9. And this that he might prolong his days in the land YHVH, thy Elohim, shall give thee, and of his children among the faithful, and that he may prolong his days, he and his children, in the midst of Israel.
+
+10. ¶ And the king shall execute judgment among the people, and over the rulers, and over all they that sit in judgment:
+
+11. He shall deliver the poor, the needy, and the oppressed; and if their cry be faint, yet shall he hear them;
+
+12. He shall be a father to the fatherless, and a husband to the widow, and a guardian to they who hath no protector.
+
+13. In the name of YHVH, thy Elohim, he shall overthrow the rebellious, destroy traitors, and punish those that do wickedly;
+
+14. The haughty shall he make low, and the oppressor shall he tread down, and those that exalt themselves, shall he abase.
+
+15. The power of YHVH, his Elohim, shall He giveth him, to rule the nations, and to execute judgments among the children of mankind;
+
+16. He shall declare this Torah and the mitzvoth of YHVH, thy Elohim, exercise his dominion{a}, and cast a shield round about the children of this people; that his dominion be not taken from him forever.
+[a] Hebrew, "authority" or "rule"
+
+17. And the king shall not multiply to himself horses{a}, nor carriages; he shall not multiply to himself ships; he shall not multiply to himself armor;
+[a] See 5 Moses 3-4
+
+18. Yet the king shall have all these to defend his people, and the children of his people, but never to oppress them.
+
+19. ¶ The king shall not multiply to himself wives{a}; lest he forget the Torah, and avenge not his people, and lest his heart turn from them to strange women.
+[a] See 5 Moses 16:4, 1 Kings 11:4-11
+
+20. Neither shall he multiply to himself servants of the children of his people; lest his yoke be oppressive.
+
+21. The king shall not multiply{a} to himself silver and gold; lest he be proud, and turn away from this Torah, and obey it not;
+[a] See 5 Moses 16:4 
+
+22. Neither shall he lead his people to strange places to dwell therein, which YHVH, thy Elohim, hath not appointed for their dwelling; lest they depart from the Torah, and despise it.
+
+23. The king shall not make other laws, despising this; but all his laws and commandments{a} shall be according to the Torah of YHVH, thy Elohim, to establish it;
+[a] Or "instructions"
+
+24. For whatsoever YHVH, thy Elohim, shall speak, the king shall decree, and YHVH shall alter it as seemeth good unto Him, and none shall hinder.
+
+25. ¶ And the king shall be aided by a council of wise men and women, chosen from among this people, learned in the Torah of YHVH, and faithful unto YHVH;
+
+26. These shall assemble before the king in council, as often as he shall require, to give him advice in whatsoever matter he shall ask of them.
+
+27. The king may give unto the a portion of the affairs of Israel, giving to each his due, even as the king shall require it.
+
+28. Those belonging to this council shall dwell near the king; they shall attend him on his journeys, if he should require it:
+
+29. And these shall each give him reason, wise counsel, and advise him of whatsoever matter he shall require, and shall keep nothing back, fearing not retribution.
+
+30. Each member of the council shall keep the charge which the king should give unto them, in their several duties and shall be a faithful steward of whatsoever in Israel shall be rendered unto them, with a just account of their stewardship.
+
+31. And the counselors of the king shall be chosen by him as seemeth him good, being just men and women, learned in the Torah, not proud, nor haughty; not given to much babbling.
+
+32. And they shall keep the secrets of the king all the days of their lives; and if they serve the king well, they shall be rewarded;
+
+33. But if they are unfaithful, they shall be frowned upon, and he may choose new counselors, as seemeth him good.
+
+34. ¶ And the king shall appoint wise men and women, learned in the Torah of YHVH, lovers of righteousness, not fearing the rich, nor despising the poor, to be judges; who shall sit before him continually, to judge all great causes.
+
+35. These shall sit upon the judgment seat of the king, and the ear of the judges shall never be closed, that they cannot hear; this is the court of the king.
+
+36. And the king may appoint twelve judges to this court, if so many are needed; all of these shall be loyal to El Elyon{a}; for the judging of all matters greatly;
+[a] "The Most High God;" see El Elyon
+
+37. But all the smaller matters may be judged by other judges, as the king shall appoint, that these may judge the larger causes continually, and that they judge upon the judgment of other judges.
+
+38. And the king shall order and determine what causes shall come before the court of the king, upon his judgment seat to be judged, and what causes shall be judged before the other judgment seats.
+
+39. And the judges shall hear and judge, and determine speedily, they shall not delay; and they shall judge righteous judgment, and shall not take them any bribes or gifts, nor shall they do any injustice.
+
+40. And if these judges should judge unrighteously, or refuse judgment to the just, or despise the Torah, or receive any bribes, they shall be removed.
+
+41. When they have served faithfully, they shall be relieved from their duties in their age and infirmity{a}.
+[a] Or "in their old age"
+
+42. These men shall execute all the orders of the judge, and shall be a fear unto the disorderly, and all revilers; yea, they shall do whatsoever the judges command{a}.
+[a] Or "instruct"
+
+43. And the chief among them shall be the steward{a} of the substance of the king, which he committeth to the judges, and shall render a just account of his stewardship to the king.
+[a] A Deacon
+
+
+---
+chapter: Chapter 17
+
+viewer-path: /plates-of-brass/5-moses/17
+
+chapter-aka: In Thy Generations
+
+1. And when thou art come unto the land which YHVH{a}, thy Elohim{b}, giveth thee, and shalt possess it, and shalt dwell therein, and shall begin to build ye up villages, towns, and cities, in every village an Elder{c} shall be appointed to rule{d}, to teach, and to instruct.
+[a] See YHVH
+[b] See Elohim
+[c] See Elder
+[d] Given authority over spiritual and civil matters
+
+2. And these shall govern the village according to the Torah{a}, and the command of the king, when thou shall desire{b} a king to be over thee;
+[a] Hebrew, "Law," "Instructions," or "Teachings"
+[b] See 5 Moses 16:1-5, 1 Samuel 8:5-6
+
+3. And unto these shall the Priests and teachers give heed; and if there be other Elders, they also shall give heed to him.
+
+4. ¶ And ye shall not scatter abroad, after the manner of the sons of man{a}, nor dwell alone in the fields; ye shall dwell together in cities, in towns, and in villages.
+[a] Those that do not belong to the Church of Christ, or Gentile
+
+5. Your inheritances shall be appointed to you, both in the places of your dwelling, and in the fields and forests round about.
+
+6. In the fields and forests of these new lands thou may go and dwell, when thou labor there, but thou shall return; and thy treasures, thy granaries, and thy storehouses, shall be at the place of thy dwellings.
+
+7. And if thou would in any wise go and dwell among strangers to gain power over them, or to get riches, or for any other reason whatsoever, thou shall not go except by permission of they whom YHVH shall call to watch{a} over thee,
+[a] Those set in authority
+
+8. And thou shall do as these command{a}, lest ye be led away of thy own lusts, and be estranged from YHVH, thy Elohim, and be cast off forever;
+[a] Or "instructed"
+
+9. Moreover, if ye go without permission, thou shall be spoiled of thy goods; and except thou repent and return, thou shall not have a place in the congregation{a} before YHVH.
+[a] See 3 Moses 28:1
+
+10. ¶ Thou shall not cut down the timber on the hills and mountains, lest your children suffer for want of wood and water.
+
+11. Thou shall not destroy the groves along the shores of the lakes and ponds, lest the winds and storms make the land desolate, and both heat and cold destroy you;
+
+12. Therefore, thou shall cause them to grow continually, and they shall beautify your inheritance, and thy children shall rise up and call thee blessed.
+
+13. All those who receiveth an inheritance shall preserve a forest thereon, that their children may walk in the shade thereof, and may build houses and prepare food;
+
+14. And that their cattle faint not with heat or drought, nor perish in the blast; and the land yield her increase; and if there no be enough trees for there to be a forest, thou shall plant{a} them.
+[a] See 1 Moses 4:15; Genesis 1:29
+
+15. ¶ Thou shall preserve the trees by the wayside; and if there be none, thou shall plant them, whether it be in the cities, towns, or villages, or the fields and forests, thou shall do it.
+
+16. And all these things shall thou do as thy rulers shall appoint and shall Rulers determine, that the land be pleasant to thy offspring.
+
+17. ¶ And in your cities, and towns, and villages, and by the side of great waters, and ponds, and running streams, and springs, shall groves be appointed to you, that the aged and the young may go there to rest and to play.
+
+18. There, ye shall all find joy in these things.
+
+19. And unto Israel shall the seas and waters{a} be the highways; there all may pass in their vessels that thou mayest travel them and no one shall hinder thee.
+[a] See Judges 5:17; I Kings 9:26–28, 10:22; 2 Chronicles 8:17–18; Ezekiel 27:27; Jonah 1:2-3
+
+20. And the deserts, and the forests, and the waste places; these too shall be as highways for Israel; thou mayest pass over them, and none shall prevent thee.
+
+21. ¶ And in this land that YHVH shall give thee, thou shall not clothe thyself after the manner of other nations; but after the manner that is seemly and convenient: thou shall clothe yourselves, placing the tzitzits{a} in the four corners of thy garments throughout all your generations,
+[a] See Tzitzit
+
+22. And this that thou shalt look upon it and remember all thy mitzvoth{a} and be holy unto thy Elohim.
+[a] Hebrew, "calling," "commandment,' or "religious duty"
+
+23. And when ye shall demand for yourselves a king, your king, and your princes, and your judges and rulers shall clothe themselves according to their dignity;
+
+24. And the Priest who administers at the altar, and he who administers in the sacraments which I appoint unto you, shall clothe in the robes{a} of their offices.
+[a] See Doctrines of the Saints 106:40
+
+25. And all the people in their solemn assemblies, and in their gatherings together, shall clothe themselves according to the mitzvah of YHVH, thy Elohim;
+
+26. And thy ornaments, and thy apparel, shall everyone wear, even as YHVH did appoint; everyone in their own order, with the tzitzits in the four corners of thy garments, and upon the tzitzit a blue{a} thread.  
+[a] A reminder of the Covenant and the throne of God; 3 Moses 29:24, 30:21, 32:11
+
+---
+chapter: Chapter 18
+
+viewer-path: /plates-of-brass/5-moses/18
+
+chapter-aka: In Support of the Priests
+
+1. The Priests, the Levites, and all the tribe of Levi shall have no part nor inheritance with Israel; they shall eat the offerings of YHVH{a} made by fire and his inheritance;
+[a] See YHVH
+
+2. Therefore, they shall have no inheritance among their brethren; for YHVH is their inheritance, even as He hath said{a} unto them.
+[a] See 4 Moses 19; 5 Moses 8:13
+
+3. And this shall be the due from the people to the Priests, from them that offer a sacrifice, whether it be ox or sheep:
+
+4. And they shall give unto the Priest the shoulder, and the two cheeks, and the maw.
+
+5. The firstfruit also of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep shalt thou give unto them;
+
+6. For YHVH, thy Elohim{a}, hath chosen them out of all thy tribes to stand to minister in the name of YHVH, him and his sons forever{b}.
+[a] See Elohim
+[b] See Doctrines of the Saints 117
+
+7. And if a Levite come from any of thy gates out of all Israel, where he sojourned, and come with all the desire of his mind unto the place which YHVH shall choose,
+
+8. Then he shall minister in the name of YHVH, his Elohim, as all his brethren, the Levites, do which stand there before YHVH.
+
+9. They shall have like portions to eat, besides that which cometh of the sale of his patrimony{a}.
+[a] An estate or property by ancient endowment
+
+10. ¶ And all the fruit of thy fields, and the increase of thy flocks, a tenth{a} shall you render to the house of YHVH, thy Elohim;
+[a] Ten percent is the maximum tithe, anything over this is an offering
+
+11. And this that the Priest who administers in holy things may eat bread, and that the land might yield her increase.
+
+12. For should thou do not these things, the Priest shall fail to instruct thy and thy children;
+
+13. And the order of the house where YHVH should dwell shall be forgotten and righteousness shall cease;
+
+14. Then shall wickedness be in the midst of thee, and oppression come upon thee.
+
+15. ¶ Moreover, YHVH shall send enemies into the lands, and these shall exact that which thou hath withheld from Him, and shall wrest it from you with increase; and if thou should resist them, thou shall be destroyed;
+
+16. Therefore, all of the spoil which Israel should take from her enemies, a tenth shall be rendered to the Priests of YHVH, thy Elohim,
+
+17. That they who administer in holy things may remember thee before YHVH, and that YHVH might deliver thee:
+
+18. And should thou do not this, ye shall not go fourth with a blessing, and shall flee before thy enemies, and none shall deliver thee.
+
+19. ¶ And they that labor not in these things, these shall give one tenth of their time, consecrated unto YHVH, thy Elohim, and shall labor on behalf of the Priest, according to thy skill, and thy cunning, and thy art, and you shall not withhold;
+
+20. That the place of YHVH among you may not be wanting, and not fail, and that thou might possess abundantly fields, flocks, and habitations:
+
+21. For should thou do not these things, thou shall not prosper in the work of thy hands, and poverty shall be in thy dwellings;
+
+22. Moreover, the robbers shall take thy goods and substance from Israel, to recompense what Israel hath defrauded YHVH with increase.
+
+23. And whosoever cometh into Israel, a tenth of all they possesses shall they give, that they might have an everlasting inheritance therein; and until they do this, no inheritance shall be given them.  
+
+
+---
+chapter: Chapter 19
+
+viewer-path: /plates-of-brass/5-moses/19
+
+chapter-aka: Of Priestcraft and the Prophets
+
+1. ¶ And when thou art come into the land which YHVH{a}, thy Elohim{b}, giveth thee, thou shalt not learn to do after the loathsome acts of those nations:
+[a] See YHVH
+[b] See Elohim
+
+2. There shall not be found among you anyone who doeth sacrificeth his son or daughter in the fire, or that practiceth qasam{a}, or the soothsayer{b}, or an enchanter{c}, or that practice priestcraft{d},
+[a] A form of divination using priestcraft
+[b] A form of divination using necromancy and priestcraft
+[c] One who uses priestcraft to curse or bless, typically a sorcerer or sorceress that focuses on their own will over God’s
+[d] Hebrew, "kesheph;" masculine noun, "sorcery;" see Doctrines of the Saints 106:5-35, Book of Remembrance 9:25-26
+
+3. Or the spell castor{a}, or that consult with necromancer{b} or the familiar spirit{c}, or the necromanced;
+[a] similar to enchanter, but one who sells their services
+[b] Hebrew, "ob;" one who attempts to contact and/or control the dead
+[c] Hebrew, "yiddeoni;" the spirit of the dead
+
+4. For all that do these things are loathsome{a} unto YHVH; and because of these detestable things, YHVH, thy Elohim, doth drive them out{b} from before thee.
+[a] Estranged, separated from God
+[b] See Mosiah 11:136-139 RAV, 36:28-30 OPV
+
+5. And thou shalt be without blemish{a}, even as YHVH, thy Elohim who is perfect{b};
+[a] See 3 Moses 40:2Leviticus 4:3, Numbers 29:8
+[b] See 3 Nephi 5:92 RAV, 12:48 OPV
+
+6. For these nations which thou shalt possess hearkened unto soothsaying of times and unto qasamim; but as for thee, YHVH, thy Elohim, hath not suffered thee so to do.
+
+7. ¶ YHVH, thy Elohim, will raise up unto thee a Prophet{a} from the midst of thee of thy brethren, like unto me; unto him ye shall hearken,
+[a] God calls Joshua to take Moses’ place as the leader and prophet of Israel, other prophets have been called in a variety of rolls from that time forward
+
+8. According to all that thou desiredst of YHVH, thy Elohim, in the day of the assembly{a}, saying: Who is there of all flesh that hath heard the voice of the living YHVH speaking out of the midst of the fire, as we have, and lived?
+[a] See 3 Moses 27:1-8
+
+9. But go thou, Moses, near and hear all that YHVH, our Elohim, shall say; and speak thou unto us all that YHVH, our Elohim, shall speak unto thee; and we will hear it and do it.
+
+10. And YHVH said unto me: They have well spoken that which they have spoken.
+
+11. I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
+
+12. And it shall come to pass that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.
+
+13. But the prophet which shall presume{a} to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other elohim{b}, even that prophet shall die{c}.
+[a] Speak without authoirty, see 4 Moses 3:7, 5 Moses
+[b] See Elohim of man
+[c] See Spiritual death
+
+14. And if thou say in thine heart: How shall we know the word which YHVH hath not spoken?
+
+15. When a prophet speaketh in the name of YHVH, if the thing follow not nor come to pass, that is the thing which YHVH hath not spoken; but the prophet hath spoken it presumptuously; thou shalt not be afraid{a} of him.
+[a] Or "give him your respect," or "your attention"
+
+
+---
+chapter: Chapter 20
+
+viewer-path: /plates-of-brass/5-moses/20
+
+chapter-aka: Balance in Judgment
+
+1. And when the time should come that YHVH{a}, thy Elohim{b}, hath cut off the nations whose land YHVH shall giveth thee, and thou succeedest{c} them and dwellest in their cities and in their houses,
+[a] See YHVH
+[b] See Elohim
+[c] Or "replace them"
+
+2. Thou shalt separate three cities for thee in the midst of thy land which YHVH, thy Elohim, giveth thee to possess.
+
+3. And thou shalt prepare thee a way and divide the coasts of thy land, which YHVH, thy Elohim, giveth thee to inherit, into three parts, that every slayer{a} may flee thither.
+[a] A place of refuge where one who has killed someone accidentally may flee
+
+4. And this is the case of the slayer which shall flee thither, that he may live: Whoso killeth his neighbor ignorantly, whom he intended not to hurt in time past:
+
+5. If the man goeth into the wood with his neighbor to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve and lighteth upon his neighbor, that he die, he shall flee unto one of those cities and live,
+
+6. Lest the avenger{a} of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past.
+[a] A friend or relative out for revenge
+
+7. Wherefore, I command thee, saying: Thou shalt separate three cities for thee.
+
+8. ¶ And if YHVH, thy Elohim, enlarge thy coast as He hath sworn unto thy fathers, and give thee all the land which He promised to give unto thy fathers,
+
+9. If thou shalt keep all these mitzvoth{a} to do them, which I command thee this day, to love YHVH, thy Elohim, and to walk ever in His ways, then shalt thou add three cities more for thee, beside these three,
+[a] Hebrew, "calling," "commandment," or "religious duty"
+
+10. And this that innocent blood be not shed in thy land, which YHVH, thy Elohim, giveth thee for an inheritance, and so blood be upon thee.
+
+11. ¶ But if any man hateth his neighbor, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities,
+
+12. Then the Elders of his city shall send, and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
+
+13. And thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee.
+
+14. ¶ Thou shalt not remove the landmark of thy neighbor, which they of old time have set in thine inheritance, which thou shalt inherit in the land that YHVH, thy Elohim, giveth thee to possess it.
+
+15. One witness shall not rise up against anyone for any iniquity or for any sin, in any sin that they sinneth; at the mouth of two witnesses or at the mouth of three witnesses shall the matter be established.
+
+16. And if a false witness rise up against any man to testify against him that which is wrong, then both between whom the controversy is, shall stand before YHVH, before the Priests and the judges, which shall be in those days;
+
+17. And the judges shall make diligent inquisition; and behold, if the witness be a false witness and hath testified falsely against his brother,
+
+18. Then shall ye do unto him as he had thought to have done unto his brother; so shalt thou put the evil away from among you.
+
+19. And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.
+
+20. And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot.  
+
+
+---
+chapter: Chapter 21
+
+viewer-path: /plates-of-brass/5-moses/21
+
+chapter-aka: In War
+
+1. And when thou goest out to battle against thine enemies and seest horses, and chariots, and a people more than thou, be not afraid of them;
+
+2. For YHVH{a}, thy Elohim{b}, which brought thee up out of the land of Egypt, is with thee.
+[a] See YHVH
+[b] See Elohim
+
+3. ¶ And it shall come to pass that when ye are come nigh unto the battle, that the Priest shall approach,
+
+4. And they shall speak unto the people, and shall say: Hear, O Israel! Ye approach this day unto battle against your enemies; let not your hearts faint, fear not, and do not tremble; neither be ye terrified because of them;
+
+5. For YHVH, your Elohim, is He that goeth with you, to fight for you against your enemies, to save you.
+
+6. ¶ And it shall come to pass that the officers shall speak unto the people, saying: Who is there that hath built a new house and hath not dedicated{a} it?Let him go and return to his house, lest he die in the battle and another man dedicate it.
+[a] A spiritual, religious ceremony where a home is blessed and dedicated to God; see Mezuzah
+
+7. And what man is he that hath planted a vineyard and hath not yet eaten of it? Let him also go and return unto his house, lest he die in the battle and another man eat of it.
+
+8. And what man is there that hath betrothed a wife and hath not taken{a} her? Let him go and return unto his house, lest he die in the battle and another man be with her.
+[a] Or "laid with her;" to be with carnally
+
+9. And the officers shall speak further unto the people, and they shall say: What man is there that is fearful and faint of heart?
+
+10. Let him go and return unto his house, lest the heart of his brethren faint as well as his heart.
+
+11. And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people.
+
+12. ¶ When thou comest nigh unto a city to fight against it, then proclaim peace{a} unto it;
+[a] We are to always offer peace before battle, avoid conflict whenever possible; see Matthew 5:38-40
+
+13. And it shall be, if it make thee answer of peace and open unto thee, then it shall be that all the people that is found therein shall be tributaries unto thee, and they shall serve thee.
+
+14. ¶ And if it will make no peace with thee but will make war against thee, then thou shalt besiege them.
+
+15. And when YHVH, thy Elohim, hath delivered them into thine hands, thou shalt smite every male{a} thereof with the edge of the sword;
+[a] In Kabbalah this refers to our desires to bestow, we slay the wicked desires
+
+16. But the women{a}, and the little ones{b}, and the cattle{c}, and all{d} that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies which YHVH, thy Elohim, hath given thee.
+[a] Our desires to receive
+[b] Our new desires
+[c] Our base desires
+[d] All other desires
+
+17. Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations.
+
+18. ¶ But of the cities of these people, which YHVH, thy Elohim, doth give thee for an inheritance, thou shalt save alive nothing{a} that breatheth;
+[a] Purging all our wicked desires; see Daniel 12:10
+
+19. But thou shalt utterly destroy them: namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites as YHVH, thy Elohim, hath commanded thee,
+
+20. That they do not teach you to do after all their abominations, which they have done unto their elohim{a}; so should ye sin against YHVH, your Elohim.
+[a] See Elohim of man
+
+21. And when thou shalt besiege a city a long time in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them; for thou mayest eat of them, and thou shalt not cut them down to employ them in the siege;
+
+22. Only the trees which thou knowest that they be not trees for meat{a}, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee until it be subdued.
+[a] Or "put to use for the betterment of the people"
+
+
+---
+chapter: Chapter 22
+
+viewer-path: /plates-of-brass/5-moses/22
+
+chapter-aka: The Rebel
+
+1. And if one be found slain in the land which YHVH{a}, thy Elohim{b}, giveth thee to possess it, lying in the field, and it be not known who hath slain him,
+[a] See YHVH
+[b] See Elohim
+
+2. Then thy Elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain;
+
+3. And it shall be, that the city which is next unto the slain man, even the Elders of that city shall take a heifer which hath not been wrought with and which hath not drawn in the yoke;
+
+4. And the Elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the neck of that heifer there in the valley.
+
+5. And the Priests, the sons of Levi, shall come near; for them YHVH, thy Elohim, hath chosen to minister unto Him and to bless in the name of YHVH; and by their word{a} shall every controversy and every stroke be tried;
+[a] Or "judgement;" the Priests are also called to be judges over Israel
+
+6. And all the Elders of that city that are next unto the slain man shall wash their hands over the heifer that is beheaded in the valley;
+
+7. And they shall answer and say: Our hands have not shed this blood; neither have our eyes seen it.
+
+8. Be merciful, O YHVH, unto thy people, Israel, whom thou hast redeemed, and lay not innocent blood unto thy people of Israel's charge.
+
+9. And the blood{a} shall be forgiven them.
+[a] metaphor for sins
+
+10. So shalt thou put away the guilt of innocent blood from among you when thou shalt do that which is right in the sight of YHVH.
+
+11. ¶ And when thou goest forth to war against thine enemies, and YHVH, thy Elohim, hath delivered them into thine hands, and thou hast taken them captive,
+
+12. And thou seest among the captives a beautiful woman, and hast a desire unto her, that thou wouldest have her to thy wife,
+
+13. Then thou shalt bring{a} her home to thine house; and she shall shave her head and pare her nails;
+[a] Only with her persmission
+
+14. And she shall put the raiment of her captivity from off her, and shall remain in thine house, and bewail her father and her mother a full month;
+
+15. And after that, thou shalt go in unto her and be her husband, and she shall be thy wife.
+
+16. And it shall be, if thou have no delight in her, then thou shalt let her go whither she will; but thou shalt not sell her at all for money; thou shalt not make merchandise{a} of her because thou hast humbled her.
+[a] Women are not property
+
+17. ¶ And if a man hath two wives{a}, one beloved and another hated, and they have borne him children, both the beloved and the hated, and if the firstborn son be hers that was hated,
+[a] This may be due to polygamy, the death of the first wife, or divorce
+
+18. Then it shall be, when he maketh his sons to inherit that which he hath, that he may not make the son of the beloved firstborn before the son of the hated, which is indeed the firstborn;
+
+19. But he shall acknowledge the son of the hated for the firstborn by giving him a double portion of all that he hath; for he is the beginning of his strength; the right of the firstborn is his.
+
+20. ¶ And if a man have a stubborn and rebellious son, which will not obey the voice of his father or the voice of his mother, and that, when they have chastened him, will not hearken unto them,
+
+21. Then shall his father and his mother lay hold on him and bring him out unto the Elders of that city and unto the gate of his place;
+
+22. And they shall say unto the Elders of that city: This, our son, is stubborn and rebellious; he will not obey our voice; he is a glutton and a drunkard.
+
+23. And all the men of his city shall cast him out from among them; so shalt thou put evil away from among you; and all Israel shall hear and reverence.
+
+24. ¶ And if anyone should committed a sin worthy of death, and they are to be put to death, and thou shall hang that body from a tree,
+
+25. And his body shall not remain all night upon the tree, but thou shalt in any wise bury him that same day that thy land not be cursed;
+
+26. Curse not the land which YHVH, thy Elohim, giveth thee for an inheritance, defile it not.
+
+
+---
+chapter: Chapter 23
+
+viewer-path: /plates-of-brass/5-moses/23
+
+chapter-aka: Sins of Men
+
+1. Thou shalt not see the ox of thy brother or his sheep go astray and hide thyself from them; thou shalt in any case bring them again unto thy brother.
+
+2. And if thy brother be not nigh unto thee or if thou know him not, then thou shalt bring it unto thine own house; and it shall be with thee until thy brother seek after it and thou shalt restore it to him again.
+
+3. In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost things of thy brother, which he hath lost and thou hast found, shalt thou do likewise; thou mayest not hide thyself.
+
+4. Thou shalt not see the ass of thy brother or his ox fall down by the way and hide thyself from them; thou shalt surely help him to lift them up again.
+
+5. ¶ The woman shall not wear that which pertaineth{a} unto a man; neither shall a man put on the garment of a woman; for this thing is detestable{b} before YHVH, thy Elohim.
+[a] Hebrew, "kelî geber;" referring to the Holy Robes given to the Priests and Priestesses; see 3 Moses 38
+[b] Loathsome or looked down upon; though the differences were minor, the Lord gave specific instructions on the clothing of the Priests and Priestesses and they were not to swap their temple clothing
+
+6. ¶ If the nest of a bird should chance to be before thee in the way in any tree or on the ground, whether they be young ones or eggs, and the dam sitting upon the young or upon the eggs, thou shalt not take the hen with the young;
+
+7. But thou shalt in any wise let the mother go and take the young to thee, that it may be well with thee and that thou mayest prolong thy days.
+
+8. ¶ When thou buildest a new house, then thou shalt construct a railing for thy roof, that thou bring not blood upon thine house if any man fall from thence.
+
+9. ¶ Thou shalt not sow thy vineyard with divers{a} seeds, lest the fruit of thy seed which thou hast sown and the fruit of thy vineyard be defiled.
+[a] See Matthew 13:24–30
+
+10. ¶ Thou shalt not plow with an ox and an ass together.
+
+11. ¶ Thou shalt not wear a garment{a} of divers sorts, as of woolen and linen together.
+[a] The clothing of the Priests and the Priestesses were very specific, see 3 Moses 38
+
+12. ¶ Thou shalt make thee tzitzits{a} upon the four quarters of thy clothing wherewith thou coverest thyself.
+[a] Hebrew, "frenge;" white strings with a blue thread to represent that Israel is a kingdom of kings and queens, Priests and Priestesses; see 4 Moses 7:23-26
+
+13. ¶ If any man take a wife, and go in unto her, and hate her, and give occasions of speech against her, and bring up an evil name upon her, and say: I took this woman; and when I came to her, I found her unfaithful{a},
+[a] See The law of the unfaithful wife
+
+14. Then shall the father of the damsel and her mother take and bring forth the tokens of the virginity of that woman unto the Elders of the city in the gate;
+
+15. And the father of the woman shall say unto the Elders: I gave my daughter unto this man to wife, and he hateth her;
+
+16. And behold, he hath given occasions of speech against her, saying: I found not thy daughter unfaithful; and yet these are the tokens of the faithfulness of my daughter.
+
+17. And they shall spread the cloth before the elders of the city, and the elders of that city shall take that man and chastise him;
+
+18. And they shall amerce him in a hundred shekels of silver and give them unto the father of the damsel because he hath brought up an evil name upon a young woman of Israel; and she shall be his wife; he may not put her away all his days.
+
+19. But if this thing be true and the tokens of virginity be not found for the damsel, then they shall bring out the damsel to the door of house of her father;
+
+20. And the men of her city shall cast her out{a} from among them, because she hath wrought folly in Israel, to play the harlot in the house of her father; so shalt thou put evil away from among you.
+[a] See Mosiah 11:136-139 RAV, 36:28-30 OPV
+
+21. ¶ If a man be found lying with a woman married to a husband, then they shall both of them be cast out{a}, both the man that lay with the woman and the woman; so shalt thou put away evil from Israel.
+[a] See 5 Moses 15:16
+
+22. ¶ If a young woman be betrothed unto a husband, and a man find her in the city and lie with her, and she be willing,
+
+23. Then ye shall bring them both out unto the gate of that city, and ye shall cast them out{a} from among you; so thou shalt put away evil from among you.
+[a] See Mosiah 11:136-139 RAV, 36:28-30 OPV
+
+24. But if a man should force her and lie with her, then the man that lay with her shall die;
+
+25. And unto the young woman, thou shalt do nothing; there is in the young woman no sin, and she be a virgin{a}; for as when a man riseth against{b} his neighbor and slayeth him, even so is this matter;
+[a] A righteous woman
+[b] See 5 Moses 20:11- 13, Deuteronomy 19:11-13
+
+26. For he found her; and the betrothed damsel cried, and there was none to save her.
+
+27. ¶ And if a man find a woman that is a virgin, which is not betrothed, and lay hold on her and lie with her, and she be willing,
+
+28. Then the man that lay with her shall give unto the father of that young woman fifty shekels of silver, and she shall be his wife because he hath lain with her; he may not put her away all his days.
+
+29. ¶ A man shall not take the wife of his father to marry, for this would dishonor their marriage bed.
+
+---
+chapter: Chapter 24
+
+viewer-path: /plates-of-brass/5-moses/24
+
+chapter-aka: Avoid Wickedness
+
+1. Thou shalt not hate the Edomite, for these are thy brother and thy sister; thou shalt not abhor an Egyptian because thou wast a stranger in their land.
+
+2. ¶ When the host goeth forth against thine enemies, then keep thee from every wicked thing.
+
+3. If there be among you any man that is not clean by reason of uncleanness{a} that chanceth him by night, then shall he go abroad out of the camp; he shall not come within the camp;
+[a] Sickness, illness
+
+4. But it shall be, when evening cometh on, he shall wash himself with water; and when the sun is down, he shall come into the camp again.
+
+5. ¶ Thou shalt have a place also without the camp whither thou shalt go forth abroad;
+
+6. And thou shalt have a shovel upon thy weapon; and it shall be that when thou wilt ease thyself abroad, thou shalt dig therewith and shalt turn back and cover{a} that which cometh from thee;
+[a] When there is no latrine, dig a hole and bury the excrement
+
+7. For YHVH{a}, thy Elohim{b}, walketh in the midst of thy camp, to deliver thee and to give up thine enemies before thee; therefore shall thy camp be holy, that He see no unclean thing in thee and turn away from thee.
+[a] See YHVH
+[b] See Elohim
+
+8. ¶ Thou shalt not deliver unto his master the servant{a} which is escaped from his master unto thee;
+[a] A runaway slave
+
+9. They shall dwell with thee, even among you, in that place which they shall choose in one of thy gates, where it liketh them best; thou shalt not oppress them.
+
+10. ¶ There shall be no temple prostitutes from the sons or the daughters of Israel.
+
+11. Thou shalt not bring the hire of a prostitute, be they male or female, into the house of YHVH, thy Elohim, for any oath; for it is detestable{a} unto YHVH, thy Elohim, to prostitute thyself in His name.
+[a] This condemns the practice of temple prostitution; see 1 Corinthians 6:15-20
+
+12. ¶ Thou shalt not lend upon usury to thy brother: usury of money, usury of victuals, usury of anything that is lent upon usury.
+
+13. Unto a stranger thou mayest lend upon usury{a}; but unto thy brother thou shalt not lend upon usury, that YHVH, thy Elohim, may bless thee in all that thou settest thine hand to in the land whither thou goest to possess it.
+[a] lending money with interest, particularly unreasonably high rates of interest
+
+14. ¶ And when thou shalt make an oath{a} unto YHVH, thy Elohim, thou shalt not slack to pay it; for YHVH, thy Elohim, will surely require it of thee; and it would be sin in thee.
+[a] See 4 Moses 17, 5 Moses 9
+
+15. But if thou shalt refrain from making any oaths, there can be no sin in thee.
+
+16. That which is gone out of thy lips thou shalt keep and perform, even a freewill offering, according as thou hast vowed unto YHVH, thy Elohim, which thou hast promised with thy mouth.
+
+17. ¶ And when thou comest into the vineyard of thy neighbor, then thou mayest eat grapes thy fill at thine own pleasure; but thou shalt not put any in thy vessel.
+
+18. And when thou comest into the standing corn of thy neighbor, then thou mayest pluck the ears with thine hand; but thou shalt not move a sickle unto the standing corn of thy neighbor.
+
+19. Thou shalt not muzzle the ox when he treadeth out the corn.
+
+20. ¶ And if men fight one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the genitals, thou shalt cut off her hand; thine eye shall not pity her.
+
+21. ¶ Thou shalt not have in thy bag multiple weights, one heavy and light one;
+
+22. Thou shalt not have in thine house two measures, one larger and one smaller;
+
+23. But thou shalt have a just and accurate weight{a}; a just and accurate measure{a}, and this that thy days may be lengthened in the land which YHVH, thy Elohim, giveth thee;
+[a] Don't use false weights or measures to steal, but be honest and use tools proper tools in business; weigh and measure generously so that the customer gets extra
+
+24. For all that do such things and all that do unrighteously are detestable unto YHVH, thy Elohim.
+
+25. And if thou should commit a sin against YHVH, or do an evil thing unto thy fellow man, thou shalt go unto the Priest, wheresoever thou art,
+
+26. And between he and thee alone{a} shalt thou confess unto him, and shalt keep nothing back;
+[a] See Matthew 18:15-18
+
+27. And the Priest shall lay upon thee restitution, and penance, and in righteousness shall be thy judge;
+
+28. And thou shalt do that which he judgeth, according to all the words of the Torah{a} of YHVH, thy Elohim, and YHVH shall forgive thee thy sin, according as thy Elohim hath spoken.
+[a] Hebrew, "Teachings," "Law," or "Instructions"
+
+29. And thou shalt in all things make restitution, as the Priest judgeth thee;
+
+30. And should he require thee to confess unto the judge who sitteth in judgment, or to any who is placed in authority, or to him thou hast injured, thou shalt do it; and otherwise thy sin remaineth uponthee.  
+
+---
+chapter: Chapter 25
+
+viewer-path: /plates-of-brass/5-moses/25
+
+chapter-aka: In Marriage
+
+1. And when thou takest a wife, thou shalt take such a one as thou lovest, and who loveth thee, and whom thou mayest lawfully{a} marry:
+[a] A legal adult that is not a relative or married to a relative, see 5 Moses 23:24, 25:26-40
+
+2. And thou shalt go before the Priest, or the Chief Elder{a} where thou dwellest and by him shall ye be joined in marriage, that she may be thine.
+[a] The spiritual leader of a community, likely the family head in smaller groups
+
+3. And they who joineth you in marriage, shall unite her unto thee by a bond; and thou shall love her, and cherish her, and protect her; and she should love thee, and nourish thee, and honor thee.
+
+4. ¶ But when a man hath taken a wife and married her and it come to pass that she find no favor in his eyes because he hath found some uncleanness in her, then let him write her a bill of divorcement, and give it in her hand, and send her out of his house.
+
+5. And when she is departed out of his house, she may go and be the wife of another man.
+
+6. And if the latter husband hate her, and write her a bill of divorcement, and giveth it in her hand, and sendeth her out of his house, or if the latter husband die, which took her to be his wife,
+
+7. Her former husband, he who did send her away, may not take her again to be his wife that thou shalt not cause the land to sin, which YHVH, thy Elohim, giveth thee for an inheritance.
+
+8. ¶ When a man hath taken a new wife, he shall not go out to war; neither shall he be charged with any business; but he shall be free at home one year and shall be of cheer unto his wife which he hath taken.
+
+9. ¶ No man shall take the pledge{a} of the lower or the upper millstone; for he taketh to pledge the life{b} of Adam{c}.
+[a] An oath that would take away a family's ability of to make food
+[b] literally "the soul"
+[c] Hebrew, "man"
+
+10. ¶ If a man be found stealing{a} any of the children{b} in Israel and maketh merchandise{c} of them or selleth them, then that thief shall be put to death; thou shalt put evil away from among you.
+[a] Kidnapping, stealing away, taking by force
+[b] Or "brothers," literal children or fellow Israelites
+[c] Using them as slaves
+
+11. ¶ Take heed in the plague of tzara’at{a}, that thou observe diligently and do according to all that the Priests, the Levites, shall teach you; as I commanded them, so ye shall observe to do.
+[a] See Tzara’at
+
+12. Remember what YHVH, thy Elohim, did unto Miriam{a} by the way after that ye were come forth out of Egypt.
+[a] See 3 Moses 45:12
+
+13. ¶ And if thou should adopt a child to be thine own, and to be heir to thee, thou shalt take them whom thou lovest, and whom thou mayest lawfully take; and thou shalt go before the Elders where thou dwellest, and thou shalt take the child, and clasp them in thine arms, and shalt protest{a} that thou lovest them as thine own flesh;
+[a] Or "declare"
+
+14. And the High Priest shall seal{a} them unto you in the name of YHVH, and shall wash them, and consecrate{b} them as thy flesh.
+[a] To bond or unite
+[b] to wholly dedicate
+
+15. And after this, the Elder or the Priest shall bless you, and bless those in thy house; and the child shall be yours forever.
+
+16. YHVH shall give you to be a father unto them, and unto thee and thy spouse to honor thee, their parents.
+
+17. ¶ And if brethren dwell together and one of them die and have no child, the wife of the dead shall not marry without unto a stranger; the brother of her husband shall go in unto her, and take her to him to wife, and perform the duty{a} of a husband's brother unto her.
+[a] To sleep with her until she had a male son
+
+18. And it shall be that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel.
+
+19. And if the man does not wish to take the wife of his brother, then let the wife of his brother go up to the gate unto the Elders and say: The brother of my husband refuseth to raise up unto his brother a name in Israel; he will not perform the duty of my husband's brother.
+
+20. Then the Elders of that city shall call him and speak unto him; and if he stand to it and say: I will not marry her,
+
+21. Then the wife of his brother shall come unto him in the presence of the Elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say: So shall it be done unto that man that will not build up his brother's house.
+
+22. And his name shall be called in Israel: The house of chalutz han-Na’al{a}.
+[a] Hebrew, "the house of the Unsandaled" or "the house of he who removed his shoe;" this law was likely put in place to avoid situations as seen in Genesis 38:7-26, where the woman goes to extremes to avoid adultery when rejected by her husband’s brothers
+
+23. ¶ Thou shalt be fruitful and multiply and replenish the land which YHVH, thy Elohim, shall give thee, and subdue it, lest it be waste and desolate, and thy name be lost in the generations to come:
+
+24. But all thy children shall be of thy wives; thou shalt not go after strange women, for so should the land be corrupt under thy feet; an abhorring to the righteous; and thy children be scattered abroad;
+
+25. And in the mixing of thy seed there should be barrenness and desolation; the corruption of the flesh, and disease{a} and anguish{b}.
+[a] Likely genetic disorders
+[b] Likely spiritual or religious problems
+
+26. ¶ Thou shalt not marry thy mother, nor thy daughter, in any line, unto all generations.
+
+27. Thou shalt not marry thy sister, nor the daughter of thy sister or thy brother, or the sister of thy father or thy mother.
+
+28. Thou shalt not marry a woman and her daughter, and this unto all generations.
+
+29. ¶ Thou shalt not marry a woman in her childhood{a}; nor anyone that has abandoned the Covenant, nor one possessed{b} of evil spirits, nor anyone not of sound mind;
+[a] A prepubescent girl; see Doctrines of the Saints 17e:15
+[b] See Dybbuk
+
+30. Nor anyone thou lovest not, or who loveth thee not; not by cunning nor by force, but in affection, one to the other.
+
+31. ¶ Thou shalt not take unto thyself a multitude of wives disproportionate to thy inheritance, and thy substance;
+
+32. Nor shalt thou take wives to vex those thou hast; neither shalt thou put away{a} one to take another.
+[a] See Jacob 2:2:32-46 RAV, 2:23b-35b OPV
+
+33. ¶ Thou shalt not put away thy husband or thy wife but for adultery; the adulterer and the adulteress that shall not repent is corrupt, for these have been given over to the corruptions of their flesh{a}, that her belly may swell and her thigh rot, and he be found dead in his tent;
+[a] See 4 Moses 44:24-34
+
+34. And that these be a warning and a proverb: If these should repent in dust and ashes for a long time, they may be forgiven; yet if the bill of divorcement hath been given, then is she not thy wife;
+
+35. If ye would be one flesh, thou shalt marry again.
+
+36. ¶ Thou shalt not lie with the wife of thy neighbor; for it is loathsome;
+
+37. Neither shalt thou take her to wife; she cannot be thine; and if he stone thee to death, no man shall hinder: thou shalt not be avenged; what he doeth, he shall do speedily in his passion against thee.
+
+38. ¶ Thou shalt offer up thy daughter in marriage while she is yet young; and if thou give her not till she hath been in her prime, she may give herself in marriage; thou hath been found neglectful, and shalt not prevent her.
+
+39. Likewise, thou shalt take a wife to thy son while he is yet young; yet not in his infantile impotence;
+
+40. And thou shalt take for him one that he loveth, and who loveth him; if thou doest it not, when he hath been grown seven years he may take one to himself and thou shalt not prevent him.
+
+41. Shouldest thou covenant to marry a woman, be she young or old, thou shalt not break thy covenant; thou shalt not draw back from thy promise;
+
+42. ¶ And if thou lie with a woman, and she conceive seed of thee, thou shall love her, and shall take her to wife; thou shalt not bring her shame upon her;
+
+43. And if thou should abandon her, and her brethren shall stone thee, and none shall deliver thee; and yet thou shalt be judged for thy faithlessness;
+
+44. And if she be thy servant, or the daughter of thy servant, and her brethren fear thee, the hand of the Elders shall be against thee; thou shalt not corrupt the poor, nor bring shame upon them.  
+
+
+---
+chapter: Chapter 26
+
+viewer-path: /plates-of-brass/5-moses/26
+
+chapter-aka: Inheritance
+
+1. And again{a}, if thy brother have an inheritance, and die leaving a wife, but no seed, thou shalt take her to wife, and raise up seed to thy brother, that his name be not lost among this people;
+[a] See 5 Moses 25:17
+
+2. And thou shalt possess the inheritance with her, till the seed{a} be grown up to possess it;
+[a] The male child
+
+3. And if he had but a portion, it shall be thine, and the seed also.
+
+4. But, if she love thee not, or thou wilt not take her, this right goeth to the next{a} kinsman; but no one shall take the inheritance or portion without her.
+[a] See Luke 20:27-40
+
+5. ¶ Moreover, if thou takest a widow in marriage, and she have been joined to another for time and eternity, thou shalt only take her for life{a};
+[a] The deceased husband has no say in the matter and implies that a widower would have the same restriction; see DoS 17e:19-20
+
+6. And should ye{a} bare seed before you have been married a full year, it shall be expressly determined whose the seed is; whether thine, or the husband whose widow she is.
+[a] The man and woman
+
+7. And if thou should marry a wife having children, and they have no father in the Kingdom, and she bring them to thee, they are thine; thou shalt receive them, and establish them.
+
+8. ¶ If a woman, be she young or old, obtain a good report through faith, and is chosen of YHVH{a}, thy Elohim{b}, to be a queen{c} and a ruler over her house, she shall have an inheritance appointed to her, with her husband or her brethren, that she may possess it, and her children with her, and that she may rule over all her house.
+[a] See YHVH
+[b] See Elohim
+[c] While much of this book seems to put women in a place of ownership, this text reminds Israel that women are queens and were and may be rulers, just as well as men
+
+9. ¶ And should a man die leaving sons, his inheritance shall belong to them, and it may be parted among them;
+
+10. And to the firstborn, or he that is worthy to be so reckoned, shall be given a double portion, that he may keep up the dignity of his father’s house.
+
+11. The sons which he hath adopted shall be reckoned with the sons he hath begotten; they are his;
+
+12. However, if any of his sons have received an inheritance{a} already, they shall not receive another portion with their father’s children.
+[a] See Luke 15:11–32
+
+13. ¶ None shall receive two inheritances, lest their neighbor have none; yet if they should receive another, or if he marry an heiress, they shall surely give up the former, that it may be given to they who hath none, or who lacketh a portion.
+
+14. ¶ And should a man die having no sons, but daughters, the inheritance shall belong to them;
+
+15. And they who shall take them to wife, shall be called after the name of their fathers, every man after the name of his wife’s father: otherwise they shall not possess the inheritance.
+
+16. But if he have neither sons nor daughters, and he be found a righteous man, then may the judge appoint his nearest kinsman who is found worthy, and is not the firstborn of his father, as his heir;
+
+17. And he who is thus appointed shall be called after the name of him who had no child; thus shall the name of his house be kept up;
+
+18. If not, then shall the judge take of his inheritance give it unto they who are in need of it.
+
+19. ¶ If anyone should abandon their inheritance, that it be left to decay and waste, or become wild, that the portion of the house of YHVH, and the treasury of the land fail, then shall the rulers over that land take possession of it, and grant it to those in need, that their wants be met;
+
+20. But should the sons of he who has left his inheritance return, the shall shall render it unto them;
+
+21. And if that portion has been granted to another, then shall they be given another inheritance.
+
+22. ¶ And should any desire to leave their inheritance and seek a place in another land which YHVH, thy Elohim, giveth, then shall they render to the rulers of that land their inheritance,
+
+23. And these shall appoint him another inheritance, that his children may possess it instead of the former, and his house and his name be not lost among Israel.
+
+24. ¶ And should Israel seek men to go up to a new land to possess it by the command of YHVH, your Elohim, then shall the sons among you go up and establish their houses,
+
+25. And their names shall be named upon their inheritances, that they may be kept up forever; and these shall not inherit with their brethren of the possessions of their fathers.
+
+26. Thus shall everyone have an inheritance, or a portion, and they shall not be divided till they are too small for you.
+
+27. ¶ If an inheritance hath been divided, and one who hath a portion should die leaving no child, or render it up to receive another, it shall not be given to a stranger to his house; but it shall return to the head of the family to whom the inheritance pertaineth.
+
+28. And should they die leaving no sons, but a daughter, and any of her kinsman who has also a portion of that inheritance take her to wife, he shall have her portion with her;
+
+29. Save it be be that she obtain a good report through faith, and is chosen of YHVH to be a queen{a} and a ruler over her house, then she shall have an inheritance appointed to her that she may rule over all her house.  
+[a] See 5 Moses 26:8
+
+
+---
+chapter: Chapter 27
+
+viewer-path: /plates-of-brass/5-moses/27
+
+chapter-aka: Social Order
+
+1. And when thou art come unto the land which YHVH{a}, thy Elohim{b}, giveth thee, and shalt possess it, and shalt dwell therein, thou shalt not abide in the conversations of the ungodly;
+[a] See YHVH
+[b] See Elohim
+
+2. The corrupt desires of deceitful lusts; as an old{a} man unchanged; but shalt be renewed in the spirit of thy heart; that thou be a new person, born{b} anew in righteousness and true holiness.
+[a] See Ephesians 4:21-32
+[b] See Mosiah 11:187-188 RAV, 27:25-26 OPV
+
+3. Wherefore, thou shall put away all lying: speak everyone truthfully unto their neighbor; let no corrupt communication proceed out of thy mouth;
+
+4. But that which is good, and edifying, and increasing faith ye shall speak; that it may minister grace to the hearers and that ye grieve not YHVH, thy Elohim.
+
+5. Put away thy anger, thy wrath, thy bitterness, and any malice; and be ye kind one to another, tender-hearted, forgiving one another, even as YHVH hath forgiveth you, walking together in love.
+
+6. ¶ The primary authority over every child is the mother; the authority in any household is the patriarch of the family, the head of the house; to him let all give heed; but the Torah{a} is over all.
+[a] Hebrew, "Law," "Instructions," or "Teachings"
+
+7. And should the patriarch die, his firstborn son is head in his stead;
+
+8. Nevertheless, in the dwelling, he shall not rule over the matriarch{a}, nor his mother, nor the mother of his brothers; he shall honor them all the days of his life.
+[a] While much of 5 Moses seems to put women in a place of ownership, this text reminds Israel that women are queens and were and may be rulers, just as well as men. See 5 Moses 26:8
+
+9. ¶ As it is written, thou shalt honor thy father and thy mother all thy days; thou shalt not depart from them, nor rebel against them;
+
+10. Thou shalt abide with them, except they send thee away with a blessing; that thou mayest build them up, or be established by thine own name.
+
+11. And thou shalt seek to establish thy sons; thou shalt build them up with thee, or part them a portion of thine inheritance, as shall be meet, that they may grow up, and in their honor bring honor to thee.
+
+12. ¶ And of the widows, or the little children, or the servants, or any members of thy household, thou shalt provide for them according to their station, and thy possessions.
+
+13. If thou and thy household should do it not, they shall go before the Elders and the judge, and these shall appoint them their portion, as shall be just; but the inheritance shall remain one;
+
+14. Over the inheritance the firstborn shall have the highest portion; and his portion shall be double.
+
+15. And if anyone, having a portion, divideth it among his posterity, he need not to respect the firstborn; they shall do as seemeth them good.
+
+16. But if thy firstborn is not worthy to keep up the dignity of thy household, and thou wilt abase him, and exalt another in his stead, thou shalt bring him before the judges at the judgmentseat of the city, and show what evil he hath done;
+
+17. And if thou clearly show that he is unworthy, and that the other is worthy, the judge shall declare it; and then it shall come to pass that thou shalt abase him, and adopt the other;
+
+18. But if thou hast neglected to instruct him, and to restrain him, then so too shall the judge declare it, and thou shalt not abase him; the sin shall be upon thy head.
+
+19. ¶ Thou shalt not sell thy daughter; thou shalt in no case take a price for her in marriage;
+
+20. But thou shalt endow her of raiment, and goods, and flocks, according to thine ability; and thou shalt give her in marriage only to whom she loveth, and who is worthy;
+
+21. Yea, thou shalt not give her to a stranger, nor to anyone that despises the Torah of YHVH, nor to a blasphemer{a}.
+[a] One who is ungrateful to God, speaks against God
+
+22. ¶ And everyone may give a portion to their children, a dowry to his wives, and a possession to his servants, while he liveth; and except it is manifestly unjust, the judge shall not change it after their death;
+
+23. As it shall be determined by their last blessing, so shall it be; and if it be made sure before, it shall not be changed.
+
+24. ¶ The rulers, yea they who have a great possession for an inheritance, according to their dignity, shall reserve a portion according to his dignity to the firstborn:
+
+25. And to their other sons shall they give portions as common men that they seek not to make rulers of them all.
+
+26. And should a ruler have servants, and they eat not their bread at his table, he shall appoint them their portions, in his inheritance, that they hunger not:
+
+27. And upon his inheritance he shall be as a father to them; but he shall not exact more than a tenth of them, and it shall be as a tithing of all.
+
+---
+chapter: Chapter 28
+
+viewer-path: /plates-of-brass/5-moses/28
+
+chapter-aka: In Mercy
+
+1. And when thou dost lend thy brother anything, thou shalt not go into his house to fetch his pledge{a}.
+[a] A loan
+
+2. Thou shalt stand abroad, and the man to whom thou dost lend shall bring out the pledge abroad unto thee.
+
+3. And if the man be poor, thou shalt not sleep{a} with his pledge;
+[a] See 4 Moses 12:14, Exodus 22:26-27
+
+4. In any case, thou shalt deliver him the pledge again when the sun goeth down, that he may sleep in his own raiment and bless thee; and it shall be righteousness unto thee before YHVH, thy Elohim.
+
+5. ¶ Thou shalt not oppress a hired servant that is poor and needy, whether they be of thy brethren or of thy strangers that are in thy land within thy gates;
+
+6. At their days thou shalt give them their hire; neither shall the sun go down upon it, for they are poor and setteth their heart upon it, lest they cry against thee unto YHVH, and it be sin unto thee.
+
+7. ¶ The fathers shall not be put to death{a} for the children; neither shall the children be put to death{a} for the fathers; everyone shall be put to death for their own sin.
+[a] See Doctrines of the Saints 3b:2
+
+8. ¶ Thou shalt not pervert the judgment of the stranger nor of the fatherless nor take a widow's raiment to pledge;
+
+9. But thou shalt remember that thou wast a bondman in Egypt, and YHVH, thy Elohim, redeemed thee thence; therefore, I command thee to do this thing.
+
+10. ¶ When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it; it shall be for the stranger, for the fatherless, and for the widow, that YHVH, thy Elohim, may bless thee in all the work of thine hands.
+
+11. And when thou beatest thine olive tree, thou shalt not go over the boughs{a} again; it shall be for the stranger, for the fatherless, and for the widow.
+[a] Not to over harvest as it is bad for the plant and leaves nothing for the poor
+
+12. And when thou gatherest the grapes of thy vineyard, thou shalt not glean{a} it afterward; it shall be for the stranger, for the fatherless, and for the widow.
+[a] See 5 Moses 28:11
+
+13. And thou shalt remember that thou wast a bondman{a} in the land of Egypt; therefore, I command thee to do this thing.
+[a] Slave
+
+14. ¶ And if there be any controversy{a} between people and they come unto judgment, that the judges may judge them, then they shall justify the righteous and condemn the wicked.
+[a] Disagreements or arguments that are taken to courts
+
+15. And it shall be, if the wicked one be worthy to be beaten, that the judge shall cause him to lie down and to be beaten before their face, according to their fault.
+
+16. They may be given forty stripes, but no more lest, they be seen as vile unto thee, and these are your brothers and sisters.  
+
+---
+chapter: Chapter 29
+
+viewer-path: /plates-of-brass/5-moses/29
+
+chapter-aka: The First Fruits
+
+1. And it shall be that when thou art come in unto the land which YHVH{a}, thy Elohim{b}, giveth thee for an inheritance, and possessest it, and dwellest therein;
+[a] See YHVH
+[b] See Elohim
+
+2. That thou shalt take of the first of all the fruit of the earth, which thou shalt bring of thy land that YHVH, thy Elohim, giveth thee, and shalt put it in a basket, and shalt go unto the place which YHVH, thy Elohim, shall choose to place His name there.
+
+3. And thou shalt go unto the Priest that shall be in those days and say unto him: I profess this day unto YHVH, thy Elohim, that I am come unto the country which YHVH swore{a} unto our fathers to give us.
+[a] See 1 Moses 2:36, Genesis 12:1
+
+4. And the Priest shall take the basket out of thine hand and set it down before the altar of YHVH, thy Elohim.
+
+5. ¶ And thou shalt speak and say before YHVH, thy Elohim: An inhabitant, ready to perish was my father; and he went down into Egypt, and sojourned there with a few, and became there a nation, great, mighty, and populous;
+
+6. And the Egyptians, in evil did they entreated us, and they afflicted us, and laid upon us hard bondage;
+
+7. And when we cried unto YHVH, the Elohim of our fathers, YHVH heard our voice and looked on our affliction, and our labor, and our oppression;
+
+8. And YHVH brought us forth out of Egypt with a mighty hand, and with an outstretched arm, and with great terribleness, and with signs, and with wonders;
+
+9. And YHVH hath brought us into this place and hath given us this land, even a land that floweth with milk and honey.
+
+10. And now, behold, I have brought the first fruits of the land which thou, O YHVH, hast given me.
+
+11. ¶ And after this, thou shalt set it before YHVH, thy Elohim, and worship before YHVH, thy Elohim;
+
+12. And thou shalt rejoice in every good thing which YHVH, thy Elohim, hath given unto thee and unto thine house, thou, and the Levite, and the stranger that is among you.
+
+13. When thou hast made an end of tithing all the tithes of thine increase the third year, which is the year of tithing, and hast given it unto the Levite, the stranger, the fatherless, and the widow, that they may eat within thy gates and be filled,
+
+14. ¶ Then thou shalt say before YHVH, thy Elohim: I have brought away the hallowed things out of mine house and also have given them unto the Levite, and unto the stranger, to the fatherless, and to the widow, according to all thy mitzvoth{a} which thou hast given me; I have not transgressed thy mitzvoth; neither have I forgotten them.
+[a] Hebrew, a calling, commandment, or religious Deuteronomy
+
+15. I have not eaten thereof in my mourning; neither have I taken away aught thereof for any unclean use nor given aught thereof for the dead;
+
+16. But I have hearkened to the Voice{a} of YHVH, my Elohim, and have done according to all that thou hast commanded me.
+[a] See The Voice
+
+17. Look down from thy holy habitation, from heaven, and bless thy people Israel and the land which thou hast given us, as thou swarest unto our fathers, a land that floweth with milk and honey.
+
+18. ¶ And now, behold, this day YHVH, thy Elohim, hath commanded thee to do these statutes and judgments; thou shalt, therefore, keep and do them with all thine heart and with all thy soul.
+
+19. Thou hast affirmed YHVH this day to be thy Elohim, and to walk in His ways, and to keep His obligations, and His statutes, and His ordinances, and to hearken unto his Voice;
+
+20. And YHVH hath affirmed thee this day to be His peculiar{a} people, as He hath promised thee, and that thou shouldest keep all His mitzvoth,
+[a] See Deuteronomy 14:2, 1 Peter 2:9
+
+21. And to make thee high above all nations which he hath made, in praise, and in name, and in honor; and that thou mayest be a holy people unto YHVH, thy Elohim, as He hath spoken.
+
+
+book: Blessings and Cursings
+book-aka: 5 Sefer Moses - Part 3
+viewer-path: /plates-of-brass/5-moses-part-3/
+
+---
+chapter: Chapter 30
+
+viewer-path: /plates-of-brass/5-moses/30
+
+chapter-aka: The Two Mountains
+
+1. And it came to pass that Moses, with the Elders of Israel commanded the people, saying: Keep all the mitzvoth{a} which I command you this day.
+[a] Hebrew, a calling, commandment, or religious duty
+
+2. And it shall be, on the day when ye shall pass over Jordan unto the land which YHVH{a}, thy Elohim{b}, giveth thee, that thou shalt set thee up great stones and plaster them with plaster;
+[a] See YHVH
+[b] See Elohim
+
+3. And thou shalt write upon them all the words of this Torah{a} when thou art passed over, that thou mayest go in unto the land which YHVH, thy Elohim, giveth thee, a land that floweth with milk and honey; as YHVH, the Elohim of thy fathers hath promised thee;
+[a] Hebrew, "Teachings," "Instructions," or "Law"
+
+4. Therefore, it shall be, when ye be gone over Jordan, that ye shall set up these stones, which I command you this day; and thou shalt plaster them with plaster.
+
+5. And there shalt thou build an altar unto YHVH, thy Elohim, an altar of stones; thou shalt not lift up any iron tool upon them.
+
+6. Thou shalt build the altar of YHVH, thy Elohim, of whole stones; and thou shalt offer thy offerings thereon unto YHVH, thy Elohim;
+
+7. And thou shalt offer peace offerings{a}, and shalt eat there, and rejoice before YHVH, thy Elohim.
+[a] See 4 Moses 28
+
+8. And thou shalt write upon the stones all the words of this Torah very plainly.
+
+9. ¶ And Moses and the Priests spoke unto all Israel, saying: Take heed and hearken, O Israel; this day thou art become the people of YHVH, thy Elohim;
+
+10. Thou shalt, therefore, obey the voice of YHVH, thy Elohim, and do His mitzvoth{a} and obey His statutes which I command thee this day.
+[a] Hebrew, a calling, commandment, or religious duty
+
+11. ¶ And Moses charged the people the same day, saying: These shall stand upon the Mount Gerizim{a} to bless the people when ye are come over Jordan: Simeon, and Levi, and Judah, and Issachar, and Joseph, and Benjamin;
+[a] See Mount Gerizim
+
+12. And these shall stand upon Mount Ebal{a} to deliver the curse: Reuben, Gad, and Asher, and Zebulun, Dan, and Naphtali.
+[a] See Mount Ebal
+
+13. ¶ And the Levites shall speak and say unto all of Israel with a loud voice: Cursed be they that maketh any graven or molten{a} image, which is detestable before YHVH, the work of the hands of man, and putteth it in a secret place; and all the people shall answer and say: So mote it be!
+[a] See 2 Moses 30, Exodus 32:4
+
+14. Cursed{a} shall be they that degrade their father or their mother: And all the people shall say: So mote it be!
+[a] To stop the flow of blessings; see Cursed
+
+15. Cursed shall be they that removeth boundary mark of their neighbor; and all the people shall say: So mote it be!
+
+16. Cursed be they that maketh the blind to wander out in the road; and all the people shall say: So mote it be!
+
+17. Cursed be they that pervert the judgment of the stranger, fatherless, and widow; and all the people shall say, Amen.
+
+18. Cursed be he that lieth with his father's wife; because he uncovereth the garments of his father; and all the people shall say: So mote it be!
+
+19. Cursed be they that lieth with any manner of beast; and all the people shall say: So mote it be!
+
+20. Cursed be he that lieth with his sister, the daughter of his father or the daughter of his mother; and all the people shall say: So mote it be!
+
+21. Cursed be he that lieth with his mother-in-law; and all the people shall say: So mote it be!
+
+22. Cursed be they that smiteth their neighbor in secret; and all the people shall say: So mote it be!
+
+23. Cursed be they that taketh reward to slay an innocent person; and all the people shall say: So mote it be!
+
+24. Cursed shall be they that confirmeth not all the words of this Torah{a}, to do them; and all the people shall say: So mote it be; Amen!
+[a] Hebrew, "Teachings," "Instructions," or "Law"
+
+
+---
+chapter: Chapter 31
+
+viewer-path: /plates-of-brass/5-moses/31
+
+chapter-aka: The Blessings of YHVH
+
+1. And it shall come to pass, if thou shalt hearken diligently unto the voice of YHVH{a}, thy Elohim{b}, to observe and to do all His mitzvoth{c} which I command thee this day, that YHVH, thy Elohim, will set thee on high above all nations of the earth;
+[a] See YHVH
+[b] See Elohim
+[c] Hebrew, a calling, commandment, or religious duty
+
+2. And all these blessings shall come on thee and overtake thee if thou shalt hearken unto the Voice{a} of YHVH, thy Elohim:
+[a] Referring here to the Holy Spirit; see The Voice
+
+3. ¶ Blessed shalt thou be in the city, and blessed shalt thou be in the field.
+
+4. ¶ Blessed shall be the fruit of thy body{a}, and the fruit of thy ground, and the fruit of thy cattle, the increase of thy kine{b}, and the flocks of thy sheep.
+[a] Children
+[b] Cattle, cows, or oxen
+
+5. ¶ Blessed shall be thy basket and thy store.
+
+6. ¶ Blessed shalt thou be when thou comest in, and blessed shalt thou be when thou goest out.
+
+7. ¶ And YHVH shall cause thine enemies that rise up against thee to be smitten before thy face; they shall come out against thee one way and flee before thee seven ways.
+
+8. ¶ And YHVH shall command the blessing upon thee in thy storehouses and in all that thou settest thine hand unto; and He shall bless thee in the land which YHVH, thy Elohim, giveth thee.
+
+9. ¶ And YHVH shall establish thee a holy people unto Himself, as He hath sworn unto thee, if thou keep the commandments of YHVH, thy Elohim, and walk in His ways;
+
+10. And all people of the earth shall see that thou art called by the name of YHVH; and they shall fear thee.
+
+11. ¶ And YHVH shall make thee plenteous in goods: in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy ground in the land which YHVH swore unto thy fathers to give thee.
+
+12. ¶ And YHVH shall open unto thee His good treasure, the heavens to give the rain unto thy land in His season, and to bless all the work of thine hand; and thou shalt lend unto many nations, and thou shalt not borrow.
+
+13. ¶ And YHVH shall make thee the head{a} and not the tail; and thou shalt be above only, and thou shalt not be beneath if that thou hearken unto the mitzvoth of YHVH, thy Elohim, which I command thee this day, to observe and to do them;
+[a] A blessing to others
+
+14. And thou shalt not go aside from any of the words which I command thee this day, to the right hand or to the left{a}, to go after other elohim{b}, to serve them.
+[a] See Hebrews 4:12
+[b] See Elohim of man
+
+15. ¶ But it shall come to pass, if thou wilt not hearken unto the Voice of YHVH, thy Elohim, to observe to do all his mitzvoth and His ordinances{a} which I command thee this day, that all these curses shall come upon thee and overtake thee:
+[a] Customs; a statute
+
+16. ¶ Cursed shalt thou be in the city, and cursed shalt thou be in the field.
+
+17. ¶ Cursed shall be thy basket and thy store.
+
+18. ¶ Cursed shall be the fruit of thy body, and the fruit of thy land, the increase of thy kine{a}, and the flocks of thy sheep.
+[a] Cattle, cows, or oxen
+
+19. ¶ Cursed shalt thou be when thou comest in, and cursed shalt thou be when thou goest out.
+
+20. ¶ And YHVH shall send upon thee cursing, vexation, and rebuke in all that thou settest thine hand unto for to do until thou be destroyed and until thou perish quickly because of the wickedness of thy doings, whereby thou hast forsaken me{a};
+[a] Forsaking Moses' teachings
+
+21. And YHVH shall make the pestilence{a} cleave unto thee until He hath consumed thee from off the land whither thou goest to possess it;
+[a] See 4 Moses 43
+
+22. And YHVH shall smite thee with a consumption, and with a fever, and with an inflammation, and with an extreme burning, and with the sword, and with blasting, and with mildew; and they shall pursue thee until thou perish;
+
+23. And thy heaven that is over thy head shall be brass{a}, and the earth that is under thee shall be iron{b};
+[a] Wherever they go, the curse of God follow
+[b] Food will not grow
+
+24. And YHVH shall make the rain of thy land powder and dust; from heaven shall it come down upon thee until thou be destroyed.
+
+25. ¶ And YHVH shall cause thee to be smitten before thine enemies; thou shalt go out one way against them, and flee seven ways before them, and shalt be removed into all the kingdoms of the earth,
+
+26. And thy carcass shall be meat unto all fowls of the air and unto the beasts of the earth, and no man shall frighten them away;
+
+27. Yea, YHVH will smite thee with the boils{a} of Egypt, and with tumors, and with scabs, and with the itch whereof thou canst not be healed;
+[a] See 3 Moses 13, Exodus 9:8-12
+
+28. Yea, YHVH shall smite thee with madness{a}, and blindness{b}, and astonishment{c} of heart{d},
+[a] A wild and helpless panic
+[b] Incapacity, making on helpless and wild
+[c] bewilderment
+[d] The mind or inner person; see Heart
+
+29. And thou shalt grope at noonday as the blind gropeth in darkness, and thou shalt not prosper in thy ways; and thou shalt be continually oppressed and carried{a} away, with no one to deliver thee.
+[a] Torn away, seized, or robbed
+
+30. ¶ Thou shalt betroth a wife, and another man shall lie with her; thou shalt build a house, and thou shalt not dwell therein; thou shalt plant a vineyard and shalt not gather the grapes thereof.
+
+31. Thine ox shall be slain before thine eyes, and thou shalt not eat thereof; thine ass shall be violently taken away from before thy face and shall not be restored to thee; thy sheep shall be given unto thine enemies, and thou shalt have none to rescue them.
+
+32. Thy daughters and thy sons shall be given unto another people, and thine eyes shall look and fail with longing for them all the day long; and there shall be no might{a} in thine hand.
+[a] In Egyptian this word is "power of action," having had references to magic; in Hebrew it is "el," "strength" or "god"
+
+33. The fruit of thy land and all thy labors shall a nation, which thou knowest not, eat up; and thou shalt be only oppressed and crushed always, so that thou shalt be mad{a} for the sight of thine eyes which thou shalt see.
+[a] "Demented"
+
+34. ¶ And YHVH shall smite thee in the knees and in the legs with a sore botch that cannot be healed, from the sole of thy foot unto the top of thy head.
+
+35. And YHVH shall bring thee and thy king{a}, which thou{b} shalt set over thee, unto a nation which neither thou nor thy fathers have known; and there shalt thou serve other elohim{c}, yea even gods{c} of wood and stone made by the hands of men.
+[a] See 5 Moses 16
+[b] Indicating that God will not impose any kings over Israel, but that the king will be by the people
+[c] See Elohim of man
+
+36. And thou shalt become an object of horror, a byword, and a taunt by all nations whither YHVH shall send{a} thee.
+[a] See Jeremiah 9:16, Ezekiel 26:19
+
+37. ¶ Thou shalt carry much seed out into the field and shalt gather but little in; for the locust shall consume it.
+
+38. Thou shalt plant vineyards and dress them, but shalt neither drink of the wine nor gather the grapes; for the worms shall eat them.
+
+39. Thou shalt have olive trees throughout all thy coasts, but thou shalt not anoint thyself with the oil; for thine olive shall cast off his fruit.
+
+40. Thou shalt beget sons and daughters, but thou shalt not enjoy them; for they shall go into captivity.
+
+41. All thy trees and fruit of thy land shall the locust consume.
+
+42. The stranger that should live among thee shall rise up above thee very high; and thou shalt come down very low.
+
+43. He shall lend to thee, and thou shalt not lend{a} to him; he shall be the head, and thou shalt be the tail.
+[a] Israel will be joined to the foreigner, the stranger, but they will not be a part of Israel, Israel will be beneath them, Israel will be the poor amoung the stranger
+
+44. ¶ Moreover, all these curses shall come upon thee, and shall pursue thee, and overtake thee till thou be destroyed because thou hearkenedst not unto the Voice{a} of YHVH, thy Elohim, to keep His mitzvoth{b} and His statutes{c} which He commanded{d} thee.
+[a] The Holy Spirit; see The Voice
+[b] Hebrew, a calling, commandment, or religious duty
+[c] ordinances; something prescribed, a process that is acting out
+[d] Or "instructed"
+
+45. And they shall be upon thee for a sign and for a wonder and upon thy seed forever{a} because thou servedst not YHVH, thy Elohim, with joyfulness and with gladness of heart for the abundance of all things;
+[a] Until they repent; see Doctrines of the Saints 3b:2
+
+46. Therefore, thou shalt serve thine enemies, which YHVH shall send against thee, in hunger, and in thirst, and in nakedness, and in want of all things;
+
+47. And YHVH shall put a yoke of iron upon thy neck until He have destroyed thee.
+
+48. YHVH shall bring a nation against thee from far, from the end of the earth, as swift as the eagle flieth, a nation whose tongue thou shalt not understand,
+
+49. A mighty and fierce nation, which shall not regard the person of the old nor show favor to the young;
+
+50. And they shall eat the fruit of thy herds and the fruit of thy land until thou be destroyed;
+
+51. And they shall not leave thee either corn, wine, or oil, or the increase of the offspring thy hers, or flocks of thy sheep until they have destroyed thee.
+
+52. And they shall besiege thee in all thy gates until thy high and fenced walls come down wherein thou trustedst throughout all thy land; and he shall besiege thee in all thy gates throughout all thy land which YHVH, thy Elohim, hath given thee.
+
+53. ¶ And thou shalt eat the fruit of thine own body{a}, the flesh of thy sons and of thy daughters, which YHVH, thy Elohim, hath given thee, in the siege and in the straitness wherewith thine enemies shall distress thee,
+[a] Cannibalism, referring to the idea that we will be consumed by greed and egoism
+
+54. So that the man that is tender{a} among you and very delicate, his eye shall be evil toward his brother, and toward the wife of his bosom, and toward the remnant of his children which he shall leave,
+[a] The kind man, the gentle man, the weak man, or the refined man
+
+55. So that he will not give to any of them of the flesh of his children{a} whom he shall eat because he hath nothing left him in the siege and in the straitness wherewith thine enemies shall distress thee in all thy gates.
+[a] Referring to his new desires to bestow based on pride and egoism
+
+56. And the tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil{a} toward the husband of her bosom, and toward her son, and toward her daughter,
+[a] Do injury, hurt; begrudge
+
+57. And toward her young one that cometh out from between her feet, and toward her children which she shall bear{a}; for she shall eat them for want of all things secretly in the siege and straitness, wherewith thine enemy shall distress thee in thy gates.
+[a] Referring to his new desires to receive based on pride and egoism
+
+58. ¶ If thou wilt not observe to do all the words of this Torah{a} that are written in this book, that thou mayest fear{b} this glorious and fearful{b} name: YHVH, thy Elohim;
+[a] Hebrew, "Teachings," "Instructions," or "Law"
+[b] "Respect," "awesome;" stand in awe of
+
+59. Then will YHVH make thy plagues wonderful{a} and the plagues of thy seed, even great plagues and of long continuance, and sore sicknesses and of long continuance{b}.
+[a] Extraordinary; a thing of wonder
+[b] prolonged, uninterrupted
+
+60. Moreover, YHVH will bring upon thee all the diseases of Egypt{a}, which thou wast afraid of; and they shall cleave unto thee.
+[a] See 3 Moses 8-18, Exodus 7-12
+
+61. Also every sickness and every plague which is not written in the book of this Torah, them will YHVH bring upon thee until thou be destroyed.
+
+62. And ye shall be left few in number, whereas ye were as the stars of heaven for multitude, because thou wouldest not obey the voice of YHVH, thy Elohim.
+
+63. And it shall come to pass that as YHVH rejoiced over you to do you good and to multiply you, so YHVH will rejoice{a} over you to destroy you and to bring you to naught;
+[a] Or "be exulted;" it will be a good thing for God to do
+
+64. And ye shall be plucked from off the land whither thou goest to possess it.
+
+65. And YHVH shall scatter thee among all people, from the one end of the earth even unto the other; and there thou shalt serve other elohim{a}, which neither thou nor thy fathers have known, even wood and stone made by the hands of man.
+[a] See Elohim of man
+
+66. And among these nations shalt thou find no ease; neither shall the sole of thy foot have rest; but YHVH shall give thee there a trembling{a} heart, and failing{b} of eyes, and sorrow{c} of mind;
+[a] Awe and respect for God; see 2 Corinthians 7:15, Philippians 2:12-13
+[b] Looking for God's promise; see Psalm 6:7, 119:82; Mark 8:18
+[c] Uneasiness of mind produced by the loss of God's love and goodness; see 2 Corinthians 7:10
+
+67. And thy life shall hang in doubt before thee; and thou shalt fear day and night and shalt have none assurance of thy life.
+
+68. In the morning thou shalt say{a}: O that it were evening! And at evening thou shalt say; O that it were morning!
+[a] Rather than seeking the good things of God, they will only see the bad, the wicked, and the pain, not knowing the joy of their creation; see Job 38:1-7; Psalm 104:24- 25; Alma 16:53-55a RAV, 30:44 OPV; Romans 1:20
+
+69. For the fear of thine heart wherewith thou shalt fear and for the sight of thine eyes which thou shalt see.
+
+70. And YHVH shall bring thee into Egypt{a} again with ships, by the way whereof I spoke unto thee: Thou shalt see it no more again;
+[a] Worldliness
+
+71. And there ye shall be sold unto your enemies for bondmen{a} and bondwomen{a}, and no one shall buy{b} you.
+[a] Here slaves
+[b] Israel will be seen as lower than slaves
+
+
+---
+chapter: Chapter 32
+
+viewer-path: /plates-of-brass/5-moses/32
+
+chapter-aka: The Return of Israel
+
+1. And it shall come to pass, when all these things are come upon thee, the blessing and the curse which I have set before thee, and thou shalt call them to mind among all the nations, whither YHVH{a}, thy Elohim{b}, hath driven thee,
+[a] See YHVH
+[b] See Elohim
+
+2. And shalt return unto YHVH, thy Elohim, and shalt obey His voice according to all that I command{a} thee this day, thou and thy children, with all thine heart{a} and with all thy soul{b},
+[a] See Heart
+[b] See Soul
+
+3. That YHVH, thy Elohim, will turn thy captivity, and have compassion upon thee, and will return and gather{a} thee from all the nations, whither from YHVH, thy Elohim, hath scattered{b} thee.
+[a] See Isaiah 27:12; Ezekiel 39:27; Micah 2:12; 2 Nephi 6:2-3 RAV, 9:2 OPV; Doctrines of the Saints 3b:10, 12a:117, 26c:21, 53b:6
+[b] See Deuteronomy 28:64, Jeremiah 9:16, Ezekiel 12:15
+
+4. And if any of thine be driven out unto the outmost parts of the heavens, from thence will YHVH, thy Elohim, gather thee and from thence will He fetch thee;
+
+5. And YHVH, thy Elohim, will bring thee into the land which thy fathers possessed; and thou shalt possess it; and he will do thee good and multiply thee above thy fathers.
+
+6. And YHVH, thy Elohim, will circumcise{a} thine heart{b} and the heart of thy seed, to love YHVH, thy Elohim, with all{c} thine heart and with all thy soul, that thou mayest live.
+[a] See Circumcise
+[b] See Heart
+[c] See Deuteronomy 6:4
+
+7. And YHVH, thy Elohim, will put all these curses upon thine enemies and on them that hate thee, which persecuted thee.
+
+8. And thou shalt return, and obey the Voice of YHVH, and do all His mitzvoth{a} which I command thee this day.
+[a] Hebrew, a calling, commandment, or religious duty
+
+9. And YHVH, thy Elohim, will make thee plenteous in every work of thine hand, in the fruit of thy body, and in the fruit of thy cattle, and in the fruit of thy land, for good;
+
+10. For YHVH will again rejoice over thee for good, as He rejoiced over thy fathers, if thou shalt hearken unto the Voice of YHVH, thy Elohim,
+
+11. To keep his mitzvoth and His ordinances which are written in this Book of the Torah{a}, and if thou turn unto YHVH, thy Elohim, with all thine heart and with all thy soul:
+[a] Hebrew, "Teachings," "Instructions," or "Law"
+
+12. For this mitzvah which I command thee this day, it is not hidden from thee; neither is it far off.
+
+13. It is not in heaven{a}, that thou shouldest say: Who shall go up for us to heaven and bring it unto us, that we may hear it and do it?
+[a] In the sky
+
+14. Neither is it beyond the sea, that thou shouldest say: Who shall go over the sea for us and bring it unto us, that we may hear it and do it?
+
+15. But the Word{a} is very nigh unto thee, in thy mouth and in thy heart{b}, that thou mayest do it.
+[a] See John 1:1-4
+[b] See Heart
+
+16. Look and see that I have set before thee this day life and good, and death and evil, in that I command thee this day to love YHVH, thy Elohim,
+
+17. To walk in His ways, and to keep His mitzvoth, and His ordinances{a}, and his customs{b}, that thou mayest live and multiply; and YHVH, thy Elohim, shall bless thee in the land whither thou goest to possess it.
+[a] Hebrew, "chuqqah;" something prescribed or enacted, a statute; see Ordinance
+[b] Hebrew, "mishpat;" "judgment"
+
+18. ¶ But if thine heart turn away, so that thou wilt not hear, but shalt be drawn away, and worship other elohim{a}, and serve them,
+[a] See Elohim of man
+
+19. I denounce unto you this day that ye shall surely perish and that ye shall not prolong your days upon the land, whither thou passest over Jordan to go to possess it.
+
+20. I call the heavens and earth to record this day against you, that I have set before you life and death, blessing and cursing; therefore, choose life, that both thou and thy seed may live,
+
+21. That thou mayest love YHVH, thy Elohim, and that thou mayest obey His Voice, and that thou mayest cleave unto Him;
+
+22. For YHVH is thy life and shall the length of thy days that thou mayest dwell in the land which YHVH swore unto thy fathers, to Abraham, to Isaac, and to Jacob, to give them.
+
+23. And when, in blessing, YHVH, thy Elohim, shall bestow upon thee any great and choice blessing;
+
+24. Or, in His abundant charity, shall deliver thee from any great calamity, thou shalt assemble together thy wives, and thy children; thy friends, and thy neighbors and shalt celebrate His glorious goodness with thank offerings, and feastings, and music, and dancing.
+
+25. And for the chief blessings of YHVH to thee, thou shalt keep it in remembrance from year to year, and teach it to thy children,
+
+26. That they who inherit the blessing may not forget gratitude to the giver, and the remembrance of the goodness of thy Elohim be preserved throughout all generations; So mote it be, Amen.
+
+27. And these are the words which Moses gave unto Israel, which are the Torah which YHVH did give unto Moses, in that day that he ascended into the mountain.
+
+

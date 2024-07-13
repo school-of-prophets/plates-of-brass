@@ -1,0 +1,3027 @@
+collection-of-books: Dictionary
+
+book: A
+
+viewer-path: /plates-of-brass/dictionary/a
+
+
+chapter: Abib / Aviv
+
+viewer-path: /plates-of-brass/dictionary/abib-aviv
+
+. The first month on the Hebrew calendar, called Nisan (from the Babylonian calendar), the seventh civil month, today. It is the first month of the year, according to the Torah, and is the month of the first fruits and of Passover. Abib/Nisan occurs in March–April on the Gregorian calendar. 
+
+. //See 2 Moses 23:13; 3 Moses 33:13, 39:13, 40:1, 50:1; 4 Moses 1:1, 8:9, 9:1-4; 5 Moses 14:1-4; Exodus 12:1-2.//
+
+
+chapter: Abomination
+
+viewer-path: /plates-of-brass/dictionary/abomination
+
+. Hebrew feminine noun identifying a selfish desire; sin, detestable act, or object of loathing: anything that takes us away from teshuvah, the love of God.
+
+
+chapter: Adam
+
+viewer-path: /plates-of-brass/dictionary/adam
+
+. Hebrew אדם, "human,” or “mankind.” This can denote the man Adam, the couple Adam and Eve, a man, mankind generally, a person, or people. As the human race, this is Adam Kadmon (premortal beings) that becomes, through Christ, Adam Elyon (resurrected and perfected beings). As Adam, he is Michael the archangel (Doctrines of the Saints Appendix 1:11, 2:7, 7 Joseph 5:11, Book of Remembrance 7:15). He may be the Holy Ghost, the Apostle Brigham Young taught, “It is true that the earth was organized by three distinct characters, namely, Eloheim, Yahovah, and Michael, these three forming a quorum, as in all heavenly bodies, and in organizing element, perfectly represented in the Deity, as Father, Son, and Holy Ghost” (Journal of Discourses 1:51). While this echoes the Book of Remembrance, it may merely be symbolic. As the human race, we are Adam Kadmon (premortal beings), and become, through Christ, Adam Elyon (resurrected and perfected beings). 
+
+. The Hebrew translated as “Adam” is connected with other Hebrew words, helping to clarify the meaning. Two of the words connected with Adam are אָדֹם (adom) meaning “red” and אַדְמָה) adamah) “ground,” or “earth.” This tells us that Adam or mankind is somehow associated with both the color redness and the earth, as to say that we, Adam, belong to the earth.
+
+. In the Hebrew there is a difference between the creation of Adam and the creation of Eve. While Adam is created (Hebrew, yatzar, Genesis 2:7, meaning “fashioned”) similar to a potter fashioning vessels from clay. Eve is created (Hebrew, banah, Genesis 2:22, meaning “built”) as a divine creation. This term is used throughout the first chapters of Genesis. The Hebrew verb banah is from the word binah, “intelligence.” This suggests that from the beginning woman was endowed with a superior sense of wisdom, tying Eve to the Shekinah. 
+
+. //See also 1 Moses 2:12; Genesis 2:19; 1 Corinthians 15:22, 45; Doctrines of the Saints Appendix 1:11, 2:7; 7 Joseph 5:11; Book of Remembrance 7:15; Journal of Discourses 1:51; Eve, Male and Female, Ruach HaKodesh.//
+
+
+chapter: Adar
+
+viewer-path: /plates-of-brass/dictionary/adar
+
+. The twelfth month on the Hebrew calendar, the sixth civil month today. In leap years, it becomes the thirteenth month, Adar-bet or Adar II. It is known as a month of celebration and happiness. Adar occurs in February–March on the Gregorian calendar. 
+
+. //See 2 Moses 26:4, 32:13.//
+
+
+chapter: Adar-aleph
+
+viewer-path: /plates-of-brass/dictionary/adar-aleph
+
+. The twelfth month on the Hebrew calendar is Adar-aleph or Adar I, which is the sixth civil month today. 
+
+. In leap years, Adar-bet or Adar II becomes the thirteenth month, keeping the holy days of this month. The leap year is determined by the harvest.
+
+. //See 2 Moses 32:13.//
+
+
+chapter: Adar-bet
+
+viewer-path: /plates-of-brass/dictionary/adar-bet
+
+. In leap years, Adar-bet or Adar II becomes the thirteenth month, keeping the holy days of this month. The leap year is determined by the harvest.
+
+. //See 2 Moses 26:4, 32:13.//
+
+
+chapter: Adonai
+
+viewer-path: /plates-of-brass/dictionary/adonai
+
+. Hebrew, “Lord.” In the Jewish Bible this term is used rather than YHVH when reading the Hebrew text. Its root is “shalam,” meaning “to be complete” or “sound.” Adonai should not to be confused with “adon,” “mare,” or gebir, which also mean “Lord,” but in the sense of domineering, and in a master, or “rabreban,” which means “lord,” or “noble.” At times, people in the scriptures call the angel of the Lord Adonai. This is likely to show respect without worshipping the angel. 
+
+. After the fall of Judea to Babylon, the people stopped using the name, YHVH, for God. Adonai was one of the replacement terms used in place of the name in the scriptures. 
+
+
+chapter: Adultery
+
+viewer-path: /plates-of-brass/dictionary/adultery
+
+. Hebrew masculine noun, נאף” ,naaph,” can refer to a man having sex or a sexual relationship with a married woman; also used to describe the worship of idols as God views our relationship/covenant with Him as a marriage covenant.
+
+
+chapter: Adversary
+
+viewer-path: /plates-of-brass/dictionary/adversary
+
+. //See Satan.//
+
+
+chapter: Ahyeh Asher Ahyeh
+
+viewer-path: /plates-of-brass/dictionary/ahyeh-asher-ahyeh
+
+. Hebrew אהיה שרׁא אהיה. “The Creator,” or “I AM that I AM,” “I AM (the One) that Makes/Creates.” or “I am the Existing One.” The modern pronunciation is ’ehye ’ăšer ’ehye. This appears to be a name for YHVH, Jesus Christ. 
+
+. //See 1 Moses 1:1, 3 Moses 3:20, Exodus 3:14, John 8:58, Doctrines of the Saints 15d:4, Book of Remembrance 23:62.//
+
+
+chapter: Air
+
+viewer-path: /plates-of-brass/dictionary/air
+
+. Can denote the wind or air in the classical sense, the Holy Spirit as the wind or breath of God. The element of air is represented as the Sefirot Da’at, or knowledge—Heavenly Father, or the Divine Masculine.
+
+. //See 5 Moses 2:7, 12:16; Book of Remembrance 33:9.//
+
+
+chapter: Aleph/1
+
+viewer-path: /plates-of-brass/dictionary/aleph
+
+. Aleph (or alef, or alif) is the first letter of the Hebrew Alphabet. It signifies the number one, or 1,000 when referring to years. Aleph shows us the Oneness and Unity of God, either as the trinity, one God acting as many, or as the Godhead, many Gods acting as one. The unity of God cannot be divided. This perfect unity, being one as Christ pleaded for his disciples to be one, represents perfection beyond human comprehension (John 17:11). It also represents the fact that God, as the Creator, is the source of everything. 
+
+. Some draw Aleph is two Yods; one above and one below, with a diagonal line, Vav, between them. This represents the sealing power: as above so below, as below so above, as Christ ask in his introductory prayer (Matthew 6:9-13). This teaches us that the higher world and the lower world are connected. Aleph is the essential symbol of beginnings: the Alpha. Jewish Kabbalah ties aleph to the element of air, and thus El Abba and Da’at. It signifies the path between Keter and Chokhma in the Tree of Life. Aleph also represents the Fool in the tarot’s major arcana. 
+
+. It is said by the Midrash that Aleph is humble, because though it is the first letter, it was not the letter to start the Torah.
+
+
+chapter: Aleph Tav
+
+viewer-path: /plates-of-brass/dictionary/aleph-tav
+
+. The first and last letters of the Hebrew Alphabet; the Beginning and the End. Some see it as a symbol or signature of Jesus Christ found in the Hebrew Bible (the Torah or Old Testament). In Hebrew, Aleph Tav serves as the preposition like the Hebrew עם) eem), meaning “with.” It is also a feminine pronoun. Based on the Biblical text, both may be correct, depending on its use in the writings. 
+
+
+chapter: Allah
+
+viewer-path: /plates-of-brass/dictionary/allah
+
+. Arabic, “God;” name for God used by Arabic people of different religions since pre-Islamic times. It is commonly known as the term for God by both Arab and non-Arab Muslims and Arab Christians. In 1 Moses 30:20 the term “God” is translated to “Allah” is the hieroglyphs Heka-ka in Egyptian, which can be translated as Heka: “magic” and ka: “vital force,” denoting the power or being(s) that existed before the creation and division of the heavens and the earth. 
+
+. The hieroglyph for Heka-ka appears as a man in temple garb holding a staff with two snakes, much like Moses in the Torah (see Numbers 21:8) with two arms above his head forming a square. In the flames (God's translation to Hebrew) over this hieroglyph is “Elohim” which is Hebrew for “Gods” which can denote the Godhead or Trinity as a whole, God the Father & Mother, or the Masculine and Feminine aspects of God. 
+
+. However, when translating David was moved by the Holy 
+
+. Spirit to translate Heka/Elohim to Allah here to denote that the Elohim of Abraham, Isaac, and Jacob is the same Elohim of Abraham and Ishmael, called “Allah” in their tongue.
+
+
+chapter: Amarutu
+
+viewer-path: /plates-of-brass/dictionary/amarutu
+
+. //See Mahan//
+
+
+chapter: Amen/So mote it be, Amen
+
+viewer-path: /plates-of-brass/dictionary/amen-so-mote-it-be-amen
+
+. Hebrew (אמן) “verily,” “truth,” “truly.” “So Mote it be” is from the Old English “so mot hyt be” (so it must be), a way of saying “Amen” still used by Masons and other groups today. “So mote it be, Amen” is the same as saying “Amen, and amen.”
+
+
+chapter: Amethyst
+
+viewer-path: /plates-of-brass/dictionary/amethyst
+
+. The stone of Gad, in Kabbalah this stone is believed to bring patience and peace to oneself. It is a stone of healing and said to connect mankind to the divine.
+
+. //See 2 Moses 26:8; 3 Moses 38:12; 4 Moses 41:10; Exodus 28:19, 39:12; Revelation 21:20.//
+
+
+chapter: Angel of YHVH
+
+viewer-path: /plates-of-brass/dictionary/angel-of-yhvh
+
+. a messenger of YHVH that appears repeatedly throughout the first four Books of Moses, the Tanakh or Old Testament, and the New Testament on behalf of YHVH. Some believe this may also be the Angel of the Presence mentioned in Isaiah 63:9, though this is more likely Raphael, as the Presence is a reference to the Divine Feminine, of which Raphael is the representative. Although it is believed by some that this angel is the premortal Jesus Christ, YHVH Himself, this angel tells Moses not to make supplication with him, and places himself below the Divine Council in 4 Moses 37:4. Some Rabbinical traditions hold that Zadkiel is the angel of YHVH, it may be they Zadkiel reports to the Angel of YHVH. 
+
+. //See Zadikiel. //
+
+
+chapter: Anoint
+
+viewer-path: /plates-of-brass/dictionary/anoint
+
+. Hebrew, “mishchah,” “to consecrate a portion.” The ritual act of sprinkling, dousing, or “washing” a person or object with any perfumed oil. This can be done to introduce a divine influence or presence, or as a part of an initiation ritual. It may also be used as a form of medicine for healing (sometimes known as unction), or to rid a person or items of dangerous spirits or demons. Jesus, the Christ, is “The Anointed One.”
+
+
+chapter: Ariel
+
+viewer-path: /plates-of-brass/dictionary/ariel
+
+. Hebrew, “lion of God” also known as Uriel “God is my light” or Malachim; an archangel, divine messenger of the Holy Spirit. Ariel represents the Sefirot Tif’eret and is likely Joseph Smith Jr., prophet of the restoration. 
+
+. //See 2 Moses 2:34-38; 4 Moses 30:11, 32:57, 39:6; Zenos 10.//
+
+
+chapter: Ark
+
+viewer-path: /plates-of-brass/dictionary/ark
+
+. There are two types of arks mentioned in the scriptures. 
+
+. One is the Hebrew “aron,” meaning “coffin” or “chest” used for the ark of the covenant. The other well known ark is Noah’s ark; Hebrew, “tebah,” meaning “box” or “chest.”
+
+. //See Ark of the Covenant, Noah's Ark.//
+
+. Ark of the Covenant, Ark of God, or Ark of the Testimony: Hebrew “aron,” meaning “coffin” or “chest.” A sacred relic of the Israelite peoples. It has been described as a wooden chest covered by pure gold with an elaborate lid called the Mercy seat. It is believed to have housed the two stone tablets of the Ten Commandments, Aaron's rod, and a pot of manna. This Ark was created according to the pattern given to Moses by God when the Israelites were encamped at the foot of Mount of Elohim, called Mount Sinai in the Torah/Old Testament.
+
+. //See 3 Moses 37:1-9, 39:4, 13-16, 35-36; 5 Moses 6:1-6; Exodus 25:10-22, 26:33; 30:6, 40:20-21; Numbers 7:89; Deuteronomy 31:25- 26; Jeremiah 3:15-17; Hebrews 9:3-5, Revelation 11:19.//
+
+
+chapter: Astrology
+
+viewer-path: /plates-of-brass/dictionary/astrology
+
+. From the Hebrew, "nakh’ash;" "to practice divination, or observe signs." This can refer to the idea that the stars take away human free will. According to the Zohar, " Everything is dependent upon astral influences, even the Torah" (Idra Rabba).
+
+. Israelite astrology teaches that the stars can speak to mankind, but that they cannot rule Israel, as YHVH has given the Israelites free agency. It is forbidden for one to let the stars dictate one's life, yet there are times with God will speak to us though them by prophecy and revelation. We must see the clear divide between gaining the stars' "influence" on people (permitted) and the worshipping of the stars or any heavenly bodies (prohibited). 
+
+. In Jewish/Israel astrology there are 12 constellations, like Greek astrology. These break down to: Nisan (ṭaleh) Aries, Iyar (shor) Taurus, Sivan (te’umim) Gemini, Tammuz (sarṭan) Cancer Av (arieh) Leo, Elul (betulah) Virgo, Tishri (moznayim) Libra, Cheshvan ('akrab) Scorpio, Kislev (keshet) Sagittarius, Tevet (gedi) Capricorn, Shevat (deli) Aquarius, and Adar (dagim) Pisces.
+
+. //See 4 Moses 19:14, 20:23, 35:2, 38:4; Genesis 1:14; Ezekiel; 1:1; Matthew 2:9-10, Revelation 12:1-6.//
+
+
+chapter: Athame
+
+viewer-path: /plates-of-brass/dictionary/athame
+
+. A sacrificial knife dedicated to God. The Smith family is known to have at least one athame, the Mars Dagger. This was a silver dagger with the symbol of Mars that belonged to Hyrum Smith (See Early Mormonism and the Magical World View, Quinn, Figure 43). Before Christ, the athame was used to sacrifice animals. 
+
+. It represents judgment, fire, and the Holy Spirit. With the exception of Levites, modern athames should be made with a covenant not to be used to shed blood and are desecrated if blood touches them. 
+
+. In temples of the Church of Jesus Christ of Latter-day Saints, for example, a finger is used in place of an athame for cutting the prayer circle to add someone entering after the circle has been closed.
+
+. //See 1 Moses 31:19, Book of Remembrance 33:42.//
+
+
+chapter: Atonement
+
+viewer-path: /plates-of-brass/dictionary/atonement
+
+. Hebrew, “kippur” from “kaphar;” “to cover over,” or “to pacify.” Atonement is a spiritual concept taught in scriptural and Kabbalistic texts. The process of atoning allows for a transgression to be forgiven or pardoned. People can achieve atonement through teshuvah, repentance, which is followed by a confession to God and sometimes to the person harmed and restitution. The atonement of Jesus Christ both acts as our restitution and encourages us to take action to right wrongs when harm has been committed. It should be understood that Jesus, being the Savior of the world, has allowed for universal forgiveness through His death. Doctrines of the Saints 42 teaches that the atonement is unlimited in extent, offering universal reconciliation, meaning that all but perdition will eventually come to salvation through the atonement of Jesus Christ.
+
+. //See Leviticus 23:28 Alma 19:97 RAV, 42:15 OPV; Romans 5:11 Sin, Teshuvah.//
+
+
+chapter: Av
+
+viewer-path: /plates-of-brass/dictionary/av
+
+. The fifth month on the Hebrew calendar, the eleventh civil month today. It is sometimes referred to as Menachem Av, “Comfort of Fathers.” Av occurs in July–August on the Gregorian calendar.
+
+
+chapter: Avinu
+
+viewer-path: /plates-of-brass/dictionary/avinu
+
+. Hebrew, “Our Father,” a name for God, mainly the Divine Masculine. Similar to Abba. 
+
+
+chapter: Awmen/Ahman, Son Awmen/Son Ahman
+
+viewer-path: /plates-of-brass/dictionary/awmen-ahman-son-awmen-son ahman
+
+. According to Doctrines of the Saints 45b, Awmen is the true name for God the Father and means “the being which made all things in all its parts” (vs 2). The Son Awmen “is the greatest of all the parts of Awmen which is the Godhead the First Born” (vs 4). This word, Awmen, has been spelled a number of ways, including Ahman. 
+
+. //See 1 Moses 45:12; Doctrines of the Saints 45b.//
+
+
+chapter: Ayin/70
+
+viewer-path: /plates-of-brass/dictionary/ayin-70
+
+. is the sixteenth letter of the Hebrew Alphabet. It signifies the number sixteen. Ayin means “eye” or “to see” in Hebrew. This letter represents the light itself; not physical light, but the spiritual light that came from YHVH, the light of the creation. The top of the letter represents our two eyes, how we see. In Kabbalah, there are three different forms of light: 
+
+. . • Ain Soph at the top of the Tree of Life, the “uncreated light,” or the light from before the creation
+
+. . • Ain Soph Aur, the Ray of Creation, Jesus Christ, the light of the world
+
+. . • Ain Soph as the Ray of Creation, the light shining in the darkness to heal the creation, the light of the unconsciousness, subconsciousness, in the depths of the mind
+
+. Ayin asks us to see beyond the physical, opening our eyes to truth, taking us from darkness to the light. Through this letter, we can break through the walls of our finite limitations to see God's truths.
+
+
+---
+book: B
+
+viewer-path: /plates-of-brass/dictionary/b
+
+chapter: Babel
+
+viewer-path: /plates-of-brass/dictionary/babel
+
+. This term is a play on words as in Akkadian the term is Bāb-ilim, meaning “gate of God,” while in Hebrew it is bālal , “confusion,” or “jumbled.”
+
+
+chapter: Baptism
+
+viewer-path: /plates-of-brass/dictionary/baptism
+
+. //See Tevilah.//
+
+
+chapter: Behold
+
+viewer-path: /plates-of-brass/dictionary/behold
+
+. //See Hinneh.//
+
+
+chapter: Berith
+
+viewer-path: /plates-of-brass/dictionary/berith
+
+. Hebrew, “covenant;” a feminine noun referring to the agreement between mankind and God. 
+
+. //See Everlasting covenant. //
+
+
+chapter: Bet/2
+
+viewer-path: /plates-of-brass/dictionary/bet-2
+
+. Bet (or Beth, Beith, Beh, or Vet) is the second letter of the Hebrew Alphabet. It signifies the number two. Bet is the first letter of the story of creation, starting the entire Torah with Bereshit; “In the beginning…” Thus Bet represents duality; a Creator and the created, a giver (God) and a receiver (the creation). This duality creates the possibility for opposites; good and evil, heaven and hell, hot and cold, yes and no, man and woman, etc. 
+
+. Bet literally means house, and even looks like a type of dwelling. It is used to represent our kli, vessel that holds darkness until filled by God’s light. Within us it represents the “house” or temple of the Holy Spirit (1 Corinthians 3:16). According to Jewish legend, Bet was chosen by God to begin the Torah. 
+
+. Thus Bet is the tool bringing forth all of the other letters, which is to say first we build a temple for the Holy Spirit, then his fire cleans us and helps us grow in Christ’s grace.
+
+
+chapter: Born again
+
+viewer-path: /plates-of-brass/dictionary/born-again
+
+. Also known as the pierced heart denoting that a thing is capable of serving God. Being born again is a type of spiritual rebirth, or the birth or the soul. The pierced heart is a prayer, the true prayer. I is not a vocal prayer, or a prayer recited in our minds. It is a prayer in our hearts; it is a sincere plea to God inscribed in our very souls. This prayer comes to us the moment, in our most desperate hour, we realize we are nothing without God and desire nothing more than to be one with God (Avahr 2:11-17). In this moment we are Born Again.
+
+. Being born again mergers our eternal spiritual selves and our mortal, physically selves giving birth to the soul. God answers this plea the moment one’s heart is broken. We pray in our hearts for deliverance, and God obliges us immediately (Alma 3:25-29 RAV, 5:12-14 OPV). Christ’s Grace will continue to help unify us until he has fully perfected us, body and soul, at the resurrection.
+
+. //See 1 Moses 4:8; 4 Moses 23:1; Mosiah 11:187-188 RAV, 25-26 OPV; Alma 3:85-88 RAV, 49-50 OPV; John 3:3-7; 1 Peter 1:23.//
+
+
+chapter: Binah
+
+viewer-path: /plates-of-brass/dictionary/binah
+
+. Hebrew, “Understanding.” Resting between but below Da’at and Chokhma, and between but above Chesed and Gevurah, Binah is the understanding that comes from Da’at (knowledge) and Chokhma (wisdom). It can only be reached after one is cleansed by Chesed (God’s mercy) and Gevurah (God’s Holy Fire/Judgement). Binah is the Holy Spirit giving us intuitive understanding, contemplation by Christ’s Grace. It is the womb, a temple inside us housing the Spirit of God. It is the birth of the soul.
+
+. In a mundane way, Binah may also be seen as deductive reasoning. It is God helping us understanding one idea pondering or gazing at another one. Binah can be a rational process that within a person which guides us to develop an idea to its fruition. Thus scientific breakthroughs and revelation giving us guidance can both be Binah; understanding from divine knowledge and wisdom given us by God.
+
+. //See Book of Remembrance 1:21, 33:35-37.//
+
+
+chapter: Black, face or skin
+
+viewer-path: /plates-of-brass/dictionary/black-face-or-skin
+
+. The term “black” in the scriptures refers to the presence of pride, egoism, or sin. This is a male (selfish) and fallen presence. When the scriptures refer to dark skin in a negative way, it refers to someone or a people that once had the light of God, the Shekinah, but lost this light. As modern readers we should remember that the people of both the Bible and the Book of Mormon had literal dark skin. 
+
+. //See 1 Moses 7:13; 27:23; Alma 1:103-104 RAV, 3:5-6 OPV; //
+
+
+chapter: The Breath or The Breath of Elohim
+
+viewer-path: /plates-of-brass/dictionary/breath-or-the-breath-of-elohim
+
+. //See Rauch HaKodesh.//
+
+
+chapter: The Breath of Life
+
+viewer-path: /plates-of-brass/dictionary/breath-of-life
+
+. This denotes life in God, being Born Again, or the pierced heart.
+
+. //See Born again.//
+
+
+chapter: Bridegroom
+
+viewer-path: /plates-of-brass/dictionary/bridegroom
+
+. In the scripture this can be a title for Jesus Christ, the Bridegroom of the Church (Christians). 
+
+. //See Jeramiah 31:31-33; Isaiah 54:4-6, 3 Nephi 10:12-14 RAV, 22:4-6 OPV; Ezekiel 16:8-14, 60; Hosea 2:13-16.//
+
+
+chapter: Bul
+
+viewer-path: /plates-of-brass/dictionary/bul
+
+. The eighth month on the Hebrew calendar, known as Marcheshvan or Cheshvan and is the second civil month today. 
+
+. It is seen as a month of darkness and decay. Cheshvan occurs in October–November on the Gregorian calendar.
+
+
+---
+book: C
+
+viewer-path: /plates-of-brass/dictionary/c
+
+chapter: Cardinal Directions
+
+viewer-path: /plates-of-brass/dictionary/cardinal-directions
+
+. East, North, West, South; the four aspects of God- Y: Da’at: Knowledge~Air~East~Avinu (God the Father); H: Chokhmah:~Wisdom~Earth~North~Shekinah (God the Mother); V: Chesed:~Mercy~Water~West~YHVH (Jesus Christ); and H: Gevurah:~Judgement~Fire~South~Michael (Holy Ghost). 
+
+. The East represents the knowledge of God given to mankind. 
+
+. The North represents the Presence of God, or God receiving our prayers. The West represents the Mercy of God. The South represents the fire of God’s judgment, the fire that purifies the righteous and the hellfire that burns the damned.
+
+
+chapter: Chag HaAsif
+
+viewer-path: /plates-of-brass/dictionary/chag-haasif
+
+. //See Sabbath of Chag HaAsif.//
+
+
+chapter: Chereb
+
+viewer-path: /plates-of-brass/dictionary/chereb
+
+. Hebrew, “sword” or “tool.” In the plates of brass, Moses is given the chereb by God via the angel of YHVH (3 Moses 3:29). Later the Chereb of Moses appears to be laid out in 4 Moses 30- 36, which is titled “The Chereb of Moses.”
+
+. The Sword of Moses is also the title of an apocryphal Jewish book of magic edited by Moses Gaster in Israel in 1896. This “sword” is a list of magical names divided into 136 sections, for various magical uses. This should not be confused with the Chereb of Moses, 4 Moses 30-36. 
+
+
+chapter: Chereb of truth
+
+viewer-path: /plates-of-brass/dictionary/chereb-of-truth
+
+. Hebrew “Chereb emeth,” meaning “sword of truth,” “tool of truth,” “sword of faithfulness,” or “tool of faithfulness.”
+
+. //See 2 Corinthians 6:7, Ephesians 6:17, Doctrine of the Saints 118g:5-8; Chereb.//
+
+
+chapter: Cherubim
+
+viewer-path: /plates-of-brass/dictionary/cherubim
+
+. Hebrew: כְּורּב ,the ninth or lowest class of angels. According to the Book of Ezekiel they are represented to have two pairs of wings, and four faces: a lion, an ox, a human, and an eagle with straight legs, and the soles of their feet hooved, like a bull, gleaming like polished brass.
+
+. When creating the ark of the covenant, the text of the plates of brass are clear that the cherubim were one male and one female in a sexual embrace. This is also mentioned in the Talmud, which explains this as God loving Israel “as the love between a man and a woman” (Yoma 54a).
+
+. //See Ezekiel 10:14//
+
+
+chapter: Cheshvan
+
+viewer-path: /plates-of-brass/dictionary/cheshvan
+
+. //See Bul.//
+
+
+chapter: Chesed
+
+viewer-path: /plates-of-brass/dictionary/chesed
+
+. Hebrew, “mercy.” Chesed is the first Sefirot in the attribute of action in the Kabbalistic Tree of life. The Bahir states, “The fourth is the charity of God, His merit and his Kindness (Chesed) to all the world. This is the Right Hand of the Blessed Holy One” (Bahir IV:144). As Christians, we see God’s Mercy as the right hand of God as Jesus Christ. Chesed then is the Sefirot that manifests God’s absolute, unlimited benevolence and kindness. 
+
+. Chesed is the Alpha and the Omega, the Beginning and the Ending of the Law.
+
+. Chesed teaches extend mercy to others as God has extended mercy to us. We go the extra mile, are faithful to our covenants with God and are forgiven of past deeds (Mosiah 2 RAV, 4 OPV). Chesed enables us to pick up our cross and follow Christ, as he makes our burdens light.
+
+. //See Book of Remembrance 17:20, 29:6-8, 33:13-15,//
+
+
+chapter: Chet/8
+
+viewer-path: /plates-of-brass/dictionary/chet-8
+
+. Chet (or Cheth, or Het, or Heth, or Khet, or Kheth) is the eighth letter the Hebrew Alphabet. It signifies the number eight. Het represents infinite possibilities, reminding us of our ability to rise and go beyond our human nature. In Kabbalah it is related to “neshamah,” the Hebrew term for soul, literally translated as “breath” (Genesis 2:7). Thus it also represents our free agency to choose good (light, freedom) or evil (darkness and slavery to Ego). 
+
+. Chet is an eternal revolving gateway, it gives us the power to enter the higher levels, and access to the mysteries of God, and a return to human consciousness. In the ancient world, Chet actually looked like a ladder, as in Jacob’s ladder. Representing the number 8, it also signifies transcending nature, moving to the next stage of teshuvah. in the form of the seven days of the creation. It is essential that we humans break through Ego, to spiritual realization. As we grow in Christ, Chet may be used to guide us from Grace to Grace.
+
+
+chapter: Children of Elohim
+
+viewer-path: /plates-of-brass/dictionary/children-of-elohim
+
+. In the original text of 1 Moses 9:8, “children of Elohim” would be translated to children of God (or Gods) in pure English, but a better translation may be Children of Christ, or Christians. These are the opposite of the children of man, or those that do not have a relationship with God through Jesus. Unlike the Book of Mormon, this translation did not Christianize the text.
+
+
+chapter: Children of man
+
+viewer-path: /plates-of-brass/dictionary/children-of-man
+
+. Or “children of men,” or “sons and daughters of man.” A term denoting humans that do not know, reject, or do not accept God; gentiles. Also can be those that lead others away from God. 
+
+. //See 1 Moses 4:5, 8:23, 9:23, 64, Genesis 6:1-4.//
+
+
+chapter: Chokhmah
+
+viewer-path: /plates-of-brass/dictionary/chokhmah
+
+. Hebrew, “wisdom.” Chokhmah is the uppermost of the Sefirot of the right line or kav yamin (Hebrew for “Right Line”) in the Tree of Life. This Sefirot possesses two faces: the higher being the feminine half of Abba Ila’ah (“the higher father”), or in other words, our Heavenly Mother, the Queen of Heaven. The lower being the Mother of Yisrael/Israel, which is to say the mother of the Body of Christ, or the Church of God (Revelation 12:1-2). Chokhma is associated with Eden and the tree of knowledge of good and evil (wisdom, knowing right from wrong). This wisdom holds the keys to God’s light and must be “unlocked” by Da’at, knowledge (God the Father). Together, the male and female haves unite to create within us Binah; understanding, through the mercy of Christ and the fire of the Holy Ghost.
+
+. More than merely meaning wisdom, Chokhma breaks down into two words: koach (potential) and ma (what is). Just as God said in Genesis, “man has become like us, able to know good from evil”, Chokhma sees the divine potential in us to, through Christ, inherit all that the Father and Mother have.
+
+
+chapter: Circumcised/Circumcision
+
+viewer-path: /plates-of-brass/dictionary/circumcised-circumcision
+
+. Hebrew “mul.” Circumcising the flesh of their foreskin. Referring to cutting off a part of the foreskin of the penis. This is forbidden in the Jewish Torah, Leviticus 19:28 which reads in part, “Do not make incisions or cuts in your bodies for the soul…” Circumcision was done not as a part of the covenant, but as a reminder that one's heart should be circumcised. What God wants from us, men and women, is a circumcised heart. 
+
+. //See 1 Moses 27:21; Book of the Law of the Lord 9; Genesis 17:1- 27; Deuteronomy 10:16, 30:6; Jeremiah 4:4; Acts 15:1-41; Romans 2:29; Doctrines of the Saints 14b; Book of Remembrance 13:37, 29:6-8, 33:5-8.//
+
+
+chapter: Circumcised the flesh of their foreskin
+
+viewer-path: /plates-of-brass/dictionary/circumcised-the-flesh-of-their-foreskin
+
+. Hebrew, “mul” (male), “mulah” (female). Referring to cutting off a part of the foreskin of the penis. Evidence suggests that circumcision was practiced in the Middle East as early as the 4th millennium BC by the Sumerians and the Semites. Circumcision was also done by the Egyptians, possibly as early as 2400–2300 BC. 1 Moses 28 and Genesis 17 describes the circumcision of Abraham and the males in his house. However, 1 Moses 27 implies that what God is actually looking for is the circumcision of the heart. With circumcision being a common practice in his time, Abraham may have misunderstood. 
+
+. Circumcision is technically forbidden in the Jewish Torah, Leviticus 19:28 which reads in part, “Do not make incisions or cuts in your bodies for the soul…” However, it is a tradition in many parts of Judaism, even at the time of Jesus Christ.
+
+. //See Circumcision of the heart.//
+
+
+chapter: Circumcision of the heart
+
+viewer-path: /plates-of-brass/dictionary/circumcision-of-the-heart
+
+. Hebrew: “circumcise the foreskin your heart.” God is asking for a broken or contrite heart. In the scriptures we are told to “circumcise” our hearts. God wants us to come to Him willingly, to choose to follow Him because of our love for Him. And with that love He wants us to have a heart that will do as He asks.
+
+. //See Deuteronomy 10:16, 30:6; 2 Nephi 6:67 RAV, 9:33 OPV; Jeremiah 4:4; 3 Nephi 4:49 RAV, 9:20 OPV; Romans 2:25-29, 1 Corinthians 7:19; Colossians 2:10-1; Born again.//
+
+
+chapter: Coat of many colors
+
+viewer-path: /plates-of-brass/dictionary/coat-of-many-colors
+
+. Hebrew, “kuttoneth,” feminine noun referring to a tunic, or garment or coat, or cloak, and “passim,” meaning both long-sleeve and many colors. This tunic is the coat of many colors given to Joseph by his father, Jacob when he was endowed. This phrase likely refers to the length of the tunic, and its design. The text also implies that it was long enough to go past the knees. 
+
+. //See 2 Moses 2:14, 3:17, 26, 4:17, 21, 8:41; Genesis 37:3, 23, 32. //
+
+. //See also, Tunic.//
+
+
+chapter: Covenant
+
+viewer-path: /plates-of-brass/dictionary/covenant
+
+. Hebrew, “berith;” an alliance or treaty; a divine constitution or ordinance with signs or pledges. In the scriptures, we see God making a number of covenants with mankind. These begin with covenants with Adam and Eve, and continue with Enoch, then the Noahic Covenant, a number of specific covenants with Abraham, and then again with all of the Israelite people. 
+
+. We also see other covenants in the scriptures between people, various treaties and agreements between people and nations in the ancient world. In the Book of Mormon, the New Testament, and Doctrines of the Saints (Book of Commandments/Doctrines and Covenants) we find a new covenant with the house of Israel, this New Covenant is the “replacement” or “final fulfilment” of the Old Covenant preJesus Christ, which exists to help us understand and fulfill the covenants between Israel and God. See also Everlasting covenant, and New and everlasting covenant.
+
+
+chapter: Complete
+
+viewer-path: /plates-of-brass/dictionary/complete
+
+. Hebrew, “tamim;” “Complete,” “blameless,” “whole,” or “intact.” 
+
+. //See Matthew 5:43-48, 9:12; Enos 1:10-11 RAV, 1:8 OPV; 3 Nephi 5:89-92 RAV, 12:43-48 OPV.//
+
+
+chapter: Cup of Elohim
+
+viewer-path: /plates-of-brass/dictionary/cup-of-elohim
+
+. In the ancient Near East, “cup” was used as a metaphor for fate. It is a feminine noun, representing both the Divine Feminine and the will of God.
+
+. //See 2 Moses 25:20, 30:13.//
+
+
+chapter: Curse
+
+viewer-path: /plates-of-brass/dictionary/curse
+
+. To wish or desire evil against someone, or to call for mischief or injury to fall upon an object, a person or a group of people. 
+
+. //See Genesis 3:14-17, 4:11; Alma 1:120-115 RAV, 3:14b-19, OPV, 12:25 RAV, 17:15 OPV; Helaman 5:41-49 RAV, 13:30-37a OPV; Matthew 25:41; Mark 11:14; Revelation 22:3; Doctrines of the Saints 21:38, 26a:4-6, 35b:21, 64c:21, 78:95, 89:3-4, 93a:28, 106:47, 113:23//
+
+---
+book: D
+
+viewer-path: /plates-of-brass/dictionary/d
+chapter: Da'at
+
+viewer-path: /plates-of-brass/dictionary/daat
+
+. Hebrew, “knowledge.” Da’at is the uppermost of the Sefirot of the Left line or kav smol (Hebrew for left line), the line severity in the Tree of Life. It is associated with memory and concentration, powers which rely upon one’s recognition. 
+
+. In the Zohar, Da’at is referred to as “the key that includes six.” This “key” opens all six attributes of the heart. Combining with Chokhmah (Hebrew, “wisdom”) creates Binah (Hebrew, “understanding”). Knowledge may be gained by all, and wisdom may be obtained as well. Only by combining the two, through Christ’s grace and the Holy Spirit can we see with our third eye and gain true understanding. With the knowledge of God, and the six attributes open, our kli spills God’s light into the invisible Sefirot, Binah (understanding) and into the world.
+
+. Da’at helps us then on two levels: the lower level (mundane) and the higher level, Da’at Elyon (Hebrew for higher knowledge) or Da’at hane’elam (Hebrew for hidden knowledge). 
+
+. The lower connects us to the intellect within the realm of emotion. This enhances one’s ability to act in accordance with the Law in truth and righteousness. The higher knowledge helps us on the mortal plain by giving us hidden knowledge from Keter, above Da’at on the Tree.
+
+. //See Book of Remembrance 1:20-21, 29:7-8, 33:9-12.//
+
+
+chapter: Dalet/4
+
+viewer-path: /plates-of-brass/dictionary/dalet-4
+
+. Dalet (dāleth, Daleth or Daled, or Dallet) is the fourth letter of the Hebrew Alphabet. It signifies the number four. 
+
+. Dalet literally means “door” or “gate,” representing the doorway between Ego (the sin, or general state of selflessness) and the altruism/humility we must obtain to pass through it (2 Nephi 14:5 RAV/32:4 OPV, Matthew 7:7, Revelation 3:20). Through our internal Dalet we pass through the gates and return to the power of the Aleph, becoming a part of the oneness and unity of God. 
+
+. Dalet is shaped as a man bent over in humility and receptiveness. It represents the nullification of Ego. It is through this humility we gain the understanding that as humans, we have nothing of our own (Mosiah 2:28-36 RAV, 4:16-21 OPV). We are dependent entirely on God. With this understanding we gain the diligence required to receive the light. Representing structure, Dalet is in the form of a grid; a horizontal and vertical line. It gives us structure and form, which represent the need to study and learn. This also gives it a stair-step-like appearance. 
+
+. Our knowledge and growth builds the stairway within us to heaven. Dalet is one of the names of God in Judaism. Four is also the actual number of Gods in the trinity or Godhead. It denotes the four elements and the four corners of the earth.
+
+
+chapter: Daughter of Zion
+
+viewer-path: /plates-of-brass/dictionary/daughter-of-zion
+
+. This phrase typically refers to Israel, the term “daughter” implying that God is a loving father to His people. However, Book of the Law of the Lord 35:4a calls the daughter of Zion to arise, and calls upon the “Tower of the Flock,” a term for the Magdalene Priesthood. Section 118d:9, 1183:10, and 118g:28 of Doctrines of the Saints calls apostles Victoria Ramirez and FayEllen Ely, and matriarch Anni Rose daughters of Zion. Section 124:45 calls for three women (or one woman with three titles) to represent the Divine Feminine, one being the Daughter of Zion. This may refer to all of Israel, the women of Israel, a prophetess, or a variety of these.
+
+. //See 2 Moses 30:13; Book of the Law of the Lord 35:4-6; 2 Kings 19:21; Isaiah 1:8, 44, 52:2, 10:32, 62:11, Jeremiah 4:31; Zechariah 2:10, Zechariah 9:9; 3 Nephi 9:75 RAV, 20:37 OPV; Moroni 10:28 RAV, 10:31 OPV; Writings of Moroni 11:41; Lectures 4:7; Book of the Law of the Lord 35:4-6; Doctrines of the Saints 78:14, 118d:9, 118e:10, 118g:28, 124:45.//
+
+
+chapter: Degree
+
+viewer-path: /plates-of-brass/dictionary/degree
+
+. Hebrew feminine noun, in Mormon Kabbalah it represents elevation or growth in Grace. Grace grants us salvation, moving us to do the works of exaltation. According to Jewish Kabbalah there are 125 degrees we may grow in. Mormon Kabbalah teaches there are 1,000 degrees and the atonement of Jesus Christ takes us through all of these. The number 125 would then be the most anyone may obtain one their own, through Christ. 
+
+
+chapter: Desires
+
+viewer-path: /plates-of-brass/dictionary/desires
+
+. In Kabbalah the male represent the will to bestow and female the desire to receive. Our first desire should be to bestow and receive should be for and to God. Our desires grow in strength as represented by plants (lowest), animals (lesser) people (greater) and family members (greatest).
+
+. //See 3 Moses 33:14-16.//
+
+
+chapter: Devil
+
+viewer-path: /plates-of-brass/dictionary/devil
+
+. one unworthy of worship, a head demon; one who leads humans astray, a tempter. See Satan.
+
+
+chapter: Dispensations
+
+viewer-path: /plates-of-brass/dictionary/dispensations
+
+. The concept of dispensations can include the arrangement of divisions in Biblical history, and periods of time when God gave or restored priesthood authority to men and women on the Earth. The Visions and Parables of Zenos break these times into eight dispensations:
+
+. . 1. Adam and Eve
+
+. . 2. Enoch and Aadani, Yydnah, and Ydris
+
+. . 3. Noah and Na’amah
+
+. . 4. Melchizedek and his wife (wives?)
+
+. . 5. Moses and Zophorah, and Moses' sister Miriam
+
+. . 6. John the Baptist and Mary Magdalene (wife of Jesus)
+
+. . 7. Joseph Smith Jr. and Emma Smith
+
+. . 8. The eternal reign of Jesus Christ (the eighth day of creation)
+
+
+chapter: Divine/Divination
+
+viewer-path: /plates-of-brass/dictionary/divine-divination
+
+. While many like to quote such passages as Exodus 22:18, Leviticus 19:26, 20:27, and Deuteronomy 18:10-11 to condemn divination, the reality is that there were two types of divination: good (spiritual gifts of God) and evil (tapping into demons or the spirits of the dead). It appears that the types of divination mentioned in Deuteronomy 18, for example, are foreign or used by worshipers of other gods. Also, the terms in Hebrew translated into English as “witch,” “enchantment,” “wizard,” etc. have lost their meaning and are not translated correctly. 4th and 5th Moses correct this problem. 
+
+. There are many examples of righteous divination in the scriptures. The stars appear to exist to tell us the will of God in Genesis 1:14. The silver chalice placed in Benjamin's sack as he leaves Egypt was used for scrying (2 Moses 13:2, Genesis 44:2). 
+
+. Numbers 5:11-31 uses a form of divination to prove a woman's faithfulness to her husband. Deuteronomy 33:8-10 requires Levites to use an Urim and Thummim and even various forms of sacrifice for divination. In Christianity divination uses different terms, such as dreams and visions, miracle working, and spiritual gifts to avoid the use of terms translators used for common forms of divination practices. 
+
+
+chapter: Divine Council
+
+viewer-path: /plates-of-brass/dictionary/divine-council
+
+. //See Hosts of Heaven, Ha'Elohim.//
+
+
+chapter: Dust of the earth
+
+viewer-path: /plates-of-brass/dictionary/dust-of-the-earth
+
+. Can denote the ground in the classical sense or in the lowest form of wisdom, the Sefirot Chokhmah, another term for Shekinah, to those seeking the Living God.
+
+
+chapter: Dybbuk
+
+viewer-path: /plates-of-brass/dictionary/dybbuk
+
+. The term “dybbuk” is derived from the Hebrew words, “dibbūq.” “the act of sticking” and “dābaq,” “to cling.” In Judaism a dybbuk is a malicious spirit that possesses the living. This spirit is believed to be the soul of a dead person. However, the evil spirit may be a son or daughter of perdition. 
+
+
+---
+book: E
+
+viewer-path: /plates-of-brass/dictionary/e
+
+chapter: Earth
+
+viewer-path: /plates-of-brass/dictionary/earth
+
+. The term “earth” can denote the land, this planet, other earths or planets that hold life, or the Sephirot Chokhmah (wisdom), the Divine Feminine.
+
+
+chapter: Eden
+
+viewer-path: /plates-of-brass/dictionary/eden
+
+. A name for the Divine Feminine, the Creation, and the Earth. The name comes from the Akkadian term “edinnu," and the Sumerian word “edin” meaning “plain” or “steppe.” It is also closely related to the Aramaic word meaning “fruitful,” or “well-watered.” In Abrahamic religions, the Garden of Eden, also referred to as the Garden of God, or the Terrestrial Paradise, is described in 1 Moses 4-5. 
+
+. Some ideas on the location of the Garden of Eden include:
+
+. . • The head of the Persian Gulf
+
+. . • Southern Mesopotamia where the Tigris and Euphrates rivers run into the sea
+
+. . • The Armenian Highlands
+
+. . • The Armenian Plateau
+
+. . • Iran, in or around Tabriz
+
+. . • Jerusalem
+
+. . • Bedford, England
+
+. . • Jackson County, Missouri
+
+. . • Near the town of Bristol, on the Apalachicola River in Florida
+
+. . • South American mainland It is said that the Garden of Eden was the first Temple. 
+
+. The Israelite temples had the Holy of Holies as representing teshuvah, the journey of the temple is the return back to God.
+
+. //See 1 Moses 4-5; Genesis 2-3; Ezekiel 28 and 31; 2 Nephi 1:105-118 RAV, 2:19-26 OPV; Book of Remembrance 5-15, 20:35, 30:1.//
+
+
+chapter: Egypt
+
+viewer-path: /plates-of-brass/dictionary/egypt
+
+. A nation in the Middle East that was populated sometime around or between 8000 and 6000 BC. In the Bible and the plates of brass, Egypt is mentioned as a great nation. In Mormon Kabbalah, Egypt can represent the world or worldliness; the desire to receive for one’s self alone; egoism.
+
+
+chapter: El/Ha'El
+
+viewer-path: /plates-of-brass/dictionary/el-ha-el
+
+. Hebrew, “god/the god,” or “god/the god.” This masculine term is from the Semitic word meaning “god” or “deity,” or referring the ancient Near Eastern deity, El. There are a few times when El is used for YHVH, rather than the normal Elohim (gods). The plural of El is Elim, “(male) gods.” El was the supreme god of the ancient Canaanite religion, and the name of and the supreme god in Mesopotamia's Early Dynastic Period. Many times in the Bible, El is used as a generic word for any singular god or idol, though it is used at times for YHVH. 
+
+. //See 1 Moses 14:13; 2 Moses 16:18; 3 Moses 21:3, 28:6, 33:8, 45:15; 5 Moses 1:9; Deuteronomy 32:12; Psalm 44:20, 80:10, 82:1; Isaiah 57:5; Ezekiel 32:21; Malachi 2:11; Alma 12:101 RAV, 18:24 OPV.//
+
+
+chapter: El Elyon
+
+viewer-path: /plates-of-brass/dictionary/el-elyon
+
+. Hebrew, “The Most High God,” or “the highest God,” or “the highest of the gods.” 
+
+. //See El Shaddai.//
+
+
+chapter: Elements
+
+viewer-path: /plates-of-brass/dictionary/elements
+
+. Air, Earth, Water, Fire. Air represents knowledge and the Divine Masculine; Earth represents wisdom and the Divine Feminine. Water represents mercy and the Divine Son of God. Fire represents strength and judgement, the Holy Spirit. That fire becomes a cleansing fire when used with the water of Christ's mercy, but hell fire to the wicked. 
+
+
+chapter: Eloh
+
+viewer-path: /plates-of-brass/dictionary/eloh
+
+. Hebrew, “goddess.” 
+
+
+chapter: Elohim
+
+viewer-path: /plates-of-brass/dictionary/elohim
+
+. “Gods.” Can denote the Godhead or Trinity as a whole, God the Father & Mother, or the Masculine and Feminine aspects of God. Elohim is a combination of the feminine singular (Eloh) with the masculine plural (im). Based on the texts found in both the Torah of Judea and the plates of brass, elohim is also used at times to reference lesser gods or a council of gods, and at other times foreign gods.
+
+. //See also Ha'Elohim.//
+
+
+chapter: Elohim as the Children of God
+
+viewer-path: /plates-of-brass/dictionary/elohim-as-the-children-of-god
+
+. “gods,” here denoting the Children of Elohim (the children of Yah, God the Father & Mother, or the Masculine and Feminine aspects of God.), or the Children of God. Can also denote the council of gods. 
+
+. //See 1 Moses 3:2; 1 Kings 22:19; Job 1-2; Psalm 82:6; Acts 17:29; Romans 8:16; Alma 19:42 RAV, 40:11c OPV, Doctrines of the Saints 42:21; 53c:10.//
+
+
+chapter: Elohim Chaiyim
+
+viewer-path: /plates-of-brass/dictionary/elohim-chaiyim
+
+. Hebrew, “the living God.”
+
+
+chapter: Elohim of man, or elohim made of the hands of men
+
+viewer-path: /plates-of-brass/dictionary/elohim-of-man-or-elohim-made-of-the-hands-of-men
+
+. Hebrew: “gods.” Typically referring to pagan gods made of human hands, idols, or lesser deities unworthy or worship. These lesser gods are likely not associated with YHVH or His council of gods. 
+
+
+chapter: Elohim Shaddai
+
+viewer-path: /plates-of-brass/dictionary/elohim-shaddai
+
+. “the Almighty Gods.” Elohim is Hebrew for “Gods.” Elohim can denote the Godhead or Trinity as a whole, God the Father & Mother, or the Masculine and Feminine aspects of God. Shaddai is generally translated as “almighty,” but means “land.” This name for God could mean “Gods of this land,” or reflect God’s role as the creator of the earth, the creation. 
+
+
+chapter: El’Olam
+
+viewer-path: /plates-of-brass/dictionary/el-olam
+
+. Hebrew, “the Everlasting God” or “Eternal God.”
+
+
+chapter: Elul
+
+viewer-path: /plates-of-brass/dictionary/elul
+
+. The Sixth month on the Hebrew calendar, the twelfth civil month today. It is known as the month of harvest. Elul occurs in August–September on the Gregorian calendar.
+
+
+chapter: Ethanim
+
+viewer-path: /plates-of-brass/dictionary/ethanim
+
+. The seventh month on the Hebrew calendar, the first civil month, called Tishrei today. Ethanim is the month of Rosh Hashanah. Tishrei occurs in September–October on the Gregorian calendar.
+
+
+chapter: Elolaum
+
+viewer-path: /plates-of-brass/dictionary/elolaum
+
+. “Endless Perfection,” “Eternal God” or “Never ending God.”
+
+
+chapter: El Roi
+
+viewer-path: /plates-of-brass/dictionary/el-roi
+
+. Hebrew, “The God who sees me.”
+
+
+chapter: El Shaddai
+
+viewer-path: /plates-of-brass/dictionary/el-shaddai
+
+. “the Almighty God.” El is Hebrew for “God.” El can denote any member of the Godhead or Trinity individually, but most likely is used to represent YHVH. Shaddai is generally translated as “almighty,” but means “land.” This name for God could mean “Gods of this land,” or reflect God’s role as the creator of the earth, the creation. 
+
+. //See El Elyon.//
+
+
+chapter: Enmer or Enmer Kar
+
+viewer-path: /plates-of-brass/dictionary/enmer-or-enmer-kar
+
+. //See Nimrod.//
+
+
+chapter: Eve
+
+viewer-path: /plates-of-brass/dictionary/eve
+
+. Hebrew, Havah or Chavah. One of Adam's first wives. 
+
+. There is some debate within Judaism as to who Adam's first wife was, Eve or Lilith. According to Genesis 2 Eve was created by YHVH by taking her from Adam's side. In some English translations, this is changed to “rib.” 
+
+. In the Hebrew there is a difference between the creation of Adam and the creation of Eve. While Adam is created (Hebrew, yatzar, Genesis 2:7, meaning “fashioned”) similar to a potter, fashioning a vessel from clay. Eve is created (Hebrew, banah, Genesis 2:22, meaning “built”) as a divine creation. This term is used throughout the first chapters of Genesis. The Hebrew verb banah is from the word binah, “intelligence.” This suggests that from the beginning woman was endowed with a superior sense of wisdom, tying Eve to the Shekinah.
+
+. Eve is said to be the mother of all living. Seeing that Adam and Eve were the first humans that we are aware of that God worked with, it is unclear if this refers to her physically baring children, or spiritually introducing God and salvation to mankind. 
+
+. //See Adam, Man and Woman, Lilith. //
+
+
+chapter: Everlasting covenant
+
+viewer-path: /plates-of-brass/dictionary/everlasting-covenant
+
+. A covenant passed down from generation to generation. A covenant of the earth from the heavens. See also Covenant, and New and Everlasting covenant.
+
+
+---
+book: F
+
+viewer-path: /plates-of-brass/dictionary/f
+
+chapter: The Feast of Booths
+
+viewer-path: /plates-of-brass/dictionary/feast-of-booths
+
+. //See Sabbath of Chag HaAsif.//
+
+
+chapter: The Feast of Unleavened Bread
+
+viewer-path: /plates-of-brass/dictionary/feast-of-unleavened-bread
+
+. //See Sabbath of Passover.//
+
+
+chapter: Feast of Weeks
+
+viewer-path: /plates-of-brass/dictionary/feast-of-weeks
+
+. //See Sabbath of Yom HaBikkurim.//
+
+
+chapter: Feh
+
+viewer-path: /plates-of-brass/dictionary/feh
+
+. //See Peh.//
+
+
+chapter: The first born
+
+viewer-path: /plates-of-brass/dictionary/first-born
+
+. Taken as a carnal commandment, this idea of a first born is understood as literally the child, typically the first son. However, in Kabbalah this would be one’s first desire. In Kabbalah males represent the will to bestow and females the desire to receive. Any instruction given in regards to the first born requires that our first desire to bestow and receive be for and to YHVH. Our desires grow in strength as represented by earth (basic) plants (low), animals (mid) people (greater) and family members (greatest).
+
+
+chapter: Flood
+
+viewer-path: /plates-of-brass/dictionary/flood
+
+. Hebrew masculine noun, referring to drowning in Chesed because we are not worthy and will not accept Christ’s Grace. The floods destroy our wicked desires while preserving our righteous desires aboard the “ark.” 
+
+
+chapter: Forty days and forty nights
+
+viewer-path: /plates-of-brass/dictionary/forty-days-and-forty-nights
+
+. In the Egyptian this is represented by a symbol like a gecko, signifying a long period of time. 
+
+. The number 40 represents a period of probation, trial, and chastisement. The numbers that are divided from 40 are 5 and 8, these signify (5) grace, ending of a period in (8) revival or other words, (8) a new beginning. The other numbers that are divided from 40, 4 and 10, are also significant representing (4) the creation of something new and (10) perfection or completeness. 
+
+. In the forty days and nights of Noah's flood, the flood then represents our baptism after conversion, the grace we received and the new beginning of our perfection in Jesus Christ.
+
+
+chapter: Fowls
+
+viewer-path: /plates-of-brass/dictionary/fowls
+
+. Flying creatures, Hebrew masculine noun, that touch the air, the earth, and in some cases also the water. 
+
+
+chapter: Full Moon
+
+viewer-path: /plates-of-brass/dictionary/full-moon
+
+. The Hebrew word for moon, “lebanah,” is a feminine noun. The Hebrew for “full,” “maw-lay,” is male yet can mean “pregnant woman.” While the New Moon Sabbath was overseen by the male Levite Priests, it is believed that the Full Moon Sabbath may have been overseen by the Levite Priestess until these daughters of Miriam were shut away. 
+
+. In modern Judaism, there are two full moon holy days. 
+
+. The first is Tu B'Av (literally “the fifteenth of Av”), a holy day of love. The second is Tu BiShvat in Shevat, the New Year of the Trees. These likely reflect ancient Mother Goddess holy days that were rejected when Judea became monotheistic. 
+
+. //See 2 Moses 26:22, 29:5; 4 Moses 34:30-32, 38:7-8, 11-12; Psalm 81:3; Doctrines of the Saints 123.//
+
+
+---
+book: G
+
+viewer-path: /plates-of-brass/dictionary/g
+
+chapter: Gazelem/Gazelam
+
+viewer-path: /plates-of-brass/dictionary/gazelem-gazelam
+
+. A gazelem is “a stone, which shall shine forth in darkness unto light” (Alma 17:55 RAV, 37:23 OPV). It appears to be a type of or another name for a seer stone, as Alma states the stone will allow the user to see secret works, works of darkness, and wickedness and abominations. This is likely an ancient term for a seer stone. 
+
+. Joseph Smith used the name Gazelam (with an “a”) as one of his code names in certain Sections of the Doctrine and Covenants for the Church of Latter Day Saints. This name was likely based on this stone.
+
+. //See 4 Moses 30:9, 33:10, 41:6-12; Alma 17:55 RAV, 37:23 OPV; Doctrines of the Saints 43:6, 47:12. See also Seer stone. //
+
+
+chapter: Gevurah
+
+viewer-path: /plates-of-brass/dictionary/gevurah
+
+. Hebrew, “Judgement.” Gevurah is Din, the essence of judgment. If we are saved, the Holy Spirit cleanses us with Fire. However, if we are wicked we are burned as those same flames become Hellfire. Gevurah then is both God’s mode of perfecting the Saints and punishing the wicked; judging humanity in general. It is the fulfillment of the Law, and strict meting out of justice. It stands in contrast to Chesed, though Christ’s mercy in Chesed will protect us from Genurah’s fire.
+
+. It is because of Chesed that Gevurah is associated with the power to bestow goodness upon others, the cleansing fire becoming Christ’s light of Creation. Gevurah allows one to overcome the true enemies, be they from without (Satan) or from within (Ego).
+
+. //See Book of Remembrance 4:59, 29:5, 9, 33:16-18. //
+
+
+chapter: Gimel/3
+
+viewer-path: /plates-of-brass/dictionary/gimel-3
+
+. Gimel is the third letter of the Hebrew Alphabet. 
+
+. It signifies the number three. Bet represents duality, which can create conflict, thus Ghimel becomes the resolution, the harmonizing of opposites. Aleph is the oneness of God, Bet the Father and Mother, Father and Son, Father and Mother, Christ and the Holy Spirit, etc. Ghimel links and balances these, creating the trinity or Godhead. Now we can see the Father & Mother, Son, and Holy Spirit. Ghimel is the balance between opposing powers, a letter of constant transformation. It is the change within us as we grow in Grace. It translates literally as “camel,” an animal humans use for travel. Thus, it carries us on our journey (teshuvah) back to God. 
+
+. Gimel also introduces us to the opposites of giving and receiving, reward and punishment. It gives us both a balance and motion between these opposite ideas. It represents dual ideologies such as kindness and cultivation. It is said that Ghimel is shaped like a foot to represent a rich man running after a poor man to give him charity. This can be both God as the rich man giving us charity in salvation, or a human following God’s command to selflessly give of all we have (Mosiah 2:28-36 RAV, 4:16-21 OPV).
+
+
+chapter: Glory of YHVH
+
+viewer-path: /plates-of-brass/dictionary/glory-of-yhvh
+
+. The Glory of God is portion of God's essence visible here on the earth, the terrestrial plane. This term can be used to state one is in the Presence of God, the Shekinah, or filled with the Holy Spirit. Example, the glory of YHVH filling the tabernacle in Exodus 34-35/3 Moses 46-47. It should not be seen as honor, wealth, or status, as that would be the finite, human understanding. 
+
+
+---
+book: H
+
+viewer-path: /plates-of-brass/dictionary/h
+chapter: Ha'El
+
+viewer-path: /plates-of-brass/dictionary/ha-el
+
+. Hebrew, “The God.” Used as a term for God when speaking of one deity. 
+
+
+chapter: Ha’Elohim
+
+viewer-path: /plates-of-brass/dictionary/ha-elohim
+
+. Hebrew, “the Gods.” Can denote the Godhead or Trinity as a whole, God the Father & Mother, or the Masculine and Feminine aspects of God. It can also refer to the council of lesser gods. 
+
+. In the Old Testament, there are descriptions of YHVH presiding over a the assembly of Heavenly Hosts. Some interpret these assemblies as examples of Divine Council of lesser gods. Context and the Holy Spirit will guide us to the meaning of this term in its various uses. 
+
+. //See 1 Kings 22:19, Job 38:7, Psalm 82:6, Abraham 3:2 (Pearl of Great Price); Hosts of Heavens.//
+
+
+chapter: Ha’Elim
+
+viewer-path: /plates-of-brass/dictionary/ha-elim
+
+. Hebrew, “gods” (masculine). Ha is the Hebrew equivalent of “the,” El is masculine form of “god,” and “im” is masculine plural.
+
+
+chapter: Hand of YHVH
+
+viewer-path: /plates-of-brass/dictionary/hand-of-yhvh
+
+. The Hand of Creation, or the Hand of the Creator. God’s hand is all powerful, and at times shows mercy, and others judgment. 
+
+. //See 2 Moses 1:16, 8:30, 35:31; 3 Moses 5:6, 3:2, 22:17, 44:27; Isaiah 19:16, 51:17, 66:2; 4 Nephi 1:19 RAV, 1:16b OPV.//
+
+
+chapter: Haniel
+
+viewer-path: /plates-of-brass/dictionary/haniel
+
+. One of the seven archangels, associated with the Sefirot Netzach. His name means “Joy of God” or “Grace of God.” He is also known as Jophiel meaning “beauty of God” or “divine beauty.” He was Moses in the flesh. 
+
+. //See 2 Moses 15:24-28; 3 Moses 2:10-11; 4 Moses 30:12, 39:6; Zenos 8, 10:30.//
+
+
+chapter: HaShem
+
+viewer-path: /plates-of-brass/dictionary/hashem
+
+. Hebrew, literally “The Name.” In the Egyptian, this could be translated as “the name of ntr Ra,” Ra is the Egyptian creator god. In Hebrew the translation would be “the name El.” 
+
+. The translation used, HaShem is incorrect for the time period this was written in, but corrected based on inspiration from the Lord to the translator.
+
+
+chapter: Heart
+
+viewer-path: /plates-of-brass/dictionary/heart
+
+. In the ancient world the heart was understood to be the inner part, referring to one’s will, mind, consciousness, emotions and understanding; one’s moral character and determination; the place of knowledge, memory and reflection.
+
+
+chapter: Hei/5
+
+viewer-path: /plates-of-brass/dictionary/hei-5
+
+. Hei (or He) is the fifth letter in the Hebrew Alphabet. It signifies the number 5, or 5,000 when referring to years. 
+
+. Representing divine revelation, it is said the world was created with the utterance of Hei. In this way Hei is the feminine Goddess, the revelation. It is through the feminine we gain wisdom, and thus free will—the freedom of choice. It represents the gift of life, both created and spiritual life. 
+
+. In Kabbalah, it is the symbol of feminine divinity, gentility, and specificity. In Judaism, some Jews use Hei as a way of saying “God” without actually saying the name of God. It is an abbreviation of the term “Hashem,” which means “The Name.” 
+
+. Through Hei we gain the freedom of choice. We have walked through the doorway and climbed the stairway of Delet. We now gain an audience with God. No longer trapped by sin, we have regained our free agency.
+
+
+chapter: High Priesthood
+
+viewer-path: /plates-of-brass/dictionary/high-priesthood
+
+. Also known as the Melchizedek Priesthood, male, and the Magdalene Priesthood, female (Doctrines of the Saints 119:16). In Abrahamic religions, the High Priesthood is named after Melchizedek (Hebrew, “king of righteousness”), the king of Salem and High Priest of El Elyon (Hebrew, “Most High God”). 
+
+. This is because the High Priesthood combines the dual position of king and Priest. 
+
+. The Lord has identified the High Priesthood for women as the Magdalene Priesthood, as these women are set apart as both queens and High Priestesses. This High Priesthood, both the male and the female, are led by Jesus Christ, the One High Priest over all the earth (Psalm 110:4). All members of the High Priesthood are both representatives of and servants to Jesus Christ (Hebrews 5:6-10). 
+
+. While in the time between Moses giving the Torah to Israel and the crucifixion and resurrection of Jesus Christ the Levites were the only ones with the proper authority in Israel to fill the roles of the Low or Levitical Priesthood (with the exception of times and places where there were no Levites, as seen in the Book of Mormon), the High Priesthood was available to any called of God. The High Priesthood has been on the earth at least from the time of Adam and Eve, the first High Priest and High Priestess that we are aware of. 
+
+. The purpose of the High Priesthood is to bring the Heavens to the Earth, uniting the Creator and the Creation in Jesus Christ (Doctrines of the Saints 119:10). While all those that hold the High Priesthood are High Priest/High Priestesses, the offices of these brothers and sisters are divided up based on callings: Elder, High Priest, Evangelists, Patriarch/Matriarch, Seventy (Elder), Seventy (High Priest), and four degrees of Apostles.
+
+. //See 1 Moses 25:24; 2 Moses 28:15; Book of the Law of the Lord 36; Genesis 14:18–20; Psalm 110:4; Zenos 9 header; Alma 10:7-15 RAV, 13:14-19 OPV; Luke 8:2; John 20:1-18; Doctrines of the Saints 5a-5b, 5g:22, 8b:32, 10b:4-6, 13b:31-32, 15d:17, 42:45, 118g:13, 119:3, 16; Michelle 1:60; Hebrews 5:6-10, 6:20, 7:1-21; Levitical Priesthood, Magdalene, Melchizedek. //
+
+
+chapter: Hinneh
+
+viewer-path: /plates-of-brass/dictionary/hinneh
+
+. Hebrew, “Lo!” or “Behold,” or “Here am I.” This term is the combination of two Hebrew words: “hineh” and “ani,” meaning “here” and “I.” The term has a special meaning or connotation in Hebrew as it is a way of expressing readiness to fully give of one’s self. Another translation would be, “I’m at Your service!” See Hineni.
+
+
+chapter: Hod
+
+viewer-path: /plates-of-brass/dictionary/hod
+
+. Hebrew, “Glory.” Hod is connected to prayer and submission. Rather than conqueror, Hod teaches us to subdue our passions. And, at times our prayers aren’t answered the way we want. We must submit to God’s will. What may seem like defeat in the mundane world can lead to greater success in the spiritual world.
+
+. Being a “foot,” attributes become actions to move us forward rather than backward in defeat. Hod is a “tactical” Sefirot. Hod can at times teach us what to do when “the wicked prosper,” understanding that God will ultimately win in the end. We saw this when Moroni, the last Nephite, buried the gold plates, watching over them to give them to us in the Last Days. Hod is the group, the team; the work needed to follow through on ideas and make them happen.
+
+
+chapter: Holy of Holies
+
+viewer-path: /plates-of-brass/dictionary/holy-of-holies
+
+. Hebrew, “Qodesh HaQodasimt,” meaning “the sacred of the sacred,” “the inside of the inside,” or “the Sanctuary” a room or place in a tabernacle where God appeared, or temples dedicated to meeting with God.
+
+. The Holy of Holies was covered by a veil,[8] and no one was allowed to enter except the High Priest, and even he would only enter once a year on Yom Kippur,[9] to offer the blood of sacrifice and incense. 
+
+. The Holy of Holies was originally covered by a veil, and only the High Priest could enter, and once a year on Yom Kippur, the Day of Atonement. After the death of Jesus Christ the veil was torn and now all many enter. Coming into the Holy of Holies represents re-entering the Garden of Eden, returning to the Presence of God.
+
+
+chapter: Holy Place
+
+viewer-path: /plates-of-brass/dictionary/holy-place
+
+. An outer sanctuary in the Tabernacle that contained a gold candlestick to the East, the show-bread to the North, the Menorah to the South, and the golden altar of incense to the West. Before the coming of Jesus Christ, only the Priest and Priestesses (eventually only the Priests) were allowed inside this room. There the Priests and Priestesses acted as representatives of the people of Israel before God. 
+
+. The idea of the Tabernacle was the return of Adam and Eve (mankind) to the Garden of Eden, represented by the Holy of Holies. The Holy Place was the area just outside the Garden, where God's voice could still be heard. 
+
+
+chapter: Holy song and dance
+
+viewer-path: /plates-of-brass/dictionary/holy-song-and-dance
+
+. Prophetic song and dance is a ritual used to open communication between mankind and God to worship or to receive revelation. “When the prophet or the prophetess dance to hear the will of YHVH, and the will of Ha’Elohim, let the Priests or the Priestess praise YHVH in dance: let them sing praises unto El Elyon with the timbrel and harp; let the praises of Ha’Elohim be in their mouths” (4 Moses 33:1-2). 
+
+. When Jacob build the altar in El-Bethel the women “planted walnuts and certain flowers; and they did dance all around it” (1 Moses 47:13). In 2 Moses, Levi is told that his daughters would “sing the holy songs and dance the holy dances before YHVH” (23:17). Miriam (and Zipporah according to the plates of brass) led the women of Israel in song and dance to worship God after they crossed the red sea (Exodus 15:20/3 Moses 21:22). In 3 Moses 25: 18, “Miriam and Zipporah led the daughters of Israel in song and dance, and offered libations before YHVH.” According to 2 Samuel 6:5, King David danced “before the Lord” in worship. In the Apocryphal Acts of John 95 we read “Grace danceth. I would pipe; dance ye all. Amen. I would mourn: lament ye all. Amen.” 
+
+. //See 3 Moses 38:40, 40:21; 4 Moses 38:7; Psalms 149:3, Psalms 150:4; Ecclesiastes 3:4. //
+
+
+chapter: Hosts of Heaven / Hosts of the Heavens or Heavenly Hosts
+
+viewer-path: /plates-of-brass/dictionary/hosts-of-heaven
+
+. Depending on the translators, the Old Testament indicates in various places that there is a council of lesser gods that reports to YHVH. This council can be seen in the first two chapters of the Job where the sons of god assemble before YHVH. Psalm 82:1 also speaks of this divine assembly, even pointing out that these are gods (elohim) in verse 6. 
+
+. Not only are these gods, but Jesus states in John 10:34 that these gods are in fact us. This is echoed in the Book of Abraham found in the CJCLdS Pearl of Great Price where, in chapter 3, “one who is like God” (vs 34) offers a plan. Here God is likely YHVH and “one who is like God” is likely Michael, as Michael is Hebrew for [one] “who is like God.” This is echoed in 1 Moses 3:3 where God creates the gods, the Heavens, and this earth. 
+
+. The Host of Heavens can also refer to the army of God's angels. In Joshua 5:13–15, Joshua encounters the “captain of the host of YHVH,” likely Michael. He is holding a sword, appearing as a military officer. In the Book of Revelation Michael leads this army of God to victory against Satan and his forces (Revelation 12:7). 
+
+. //See Abraham 4:26, 5:2; 1 Moses 3:3; Genesis 2:1; Joshua 5:13- 15; Job 1-2, 38:7; Psalm 33:6, 82; Nehemiah 9:6; Daniel 8:10; Luke 2:13; Lectures on Faith 7:6; Doctrines of the Saints 12c:14-16 & 45, 24:14-16, 68:38.//
+
+
+chapter: Hineni
+
+viewer-path: /plates-of-brass/dictionary/hineni
+
+. Hebrew term typically translated as “Here am I.” However, this term has a deeper meaning, one of devotion. A better translation would be: “I heed your call, I am prepared to do whatever you ask, no matter how hard, and I understand that it will be difficult.” See Hinneh.
+
+. //See 1 Nephi 1:65 RAV, 37 OPV.//
+
+
+---
+book: I
+
+viewer-path: /plates-of-brass/dictionary/i
+chapter: Idols
+
+viewer-path: /plates-of-brass/dictionary/idols
+
+. //See Elohim of man.//
+
+
+chapter: Immortality and eternal life
+
+viewer-path: /plates-of-brass/dictionary/immortality-and-eternal-life
+
+. both Immorality (“perpetuity” or “antiquity”) and eternal (“permanently moving forward”) are masculine nouns, showing this is what The Creator gives; life is a feminine noun, showing what the Creation receives.
+
+
+chapter: Israel
+
+viewer-path: /plates-of-brass/dictionary/israel
+
+. Hebrew, “Straight to God.” The patriarch Jacob was given the new name Israel after he wrestled with an angel according to Genesis 32:28 and again by God in Genesis 35:10. In 1 Moses 45:8, “he who is a man but not a man” blessed Jacob, giving him the new name of Israel. While we do not know who this is, it is easy to speculate that this may be a name for the pre-mortal Jesus. Later, in 2 Moses 46:4 Jacob also gives Jacob this new name by revelation as a part of his endowment. While in the Old Testament Jacob is called Israel going forward, in the plates of brass he is still called Jacob and the people of God are called Israel. 
+
+. While some say that Israel comes from the root śarah (Hebrew), “to rule, contend, have power, prevail over,” others say it means “a prince hast thou power with God” (KJV,) or “El (God) rules” or “judges,” or “struggles,” or “fights.” The Lord has told us in Doctrines of the Saints 2g:20-26 that Israel is “Yashar-El, the path Straight to God,” which could also be interpreted as “the straight path to God.” 
+
+. //See Yashar-El.//
+
+
+chapter: Iyar
+
+viewer-path: /plates-of-brass/dictionary/iyar
+
+. //See Ziv. //
+
+
+chapter: Iyrin
+
+viewer-path: /plates-of-brass/dictionary/iyrin
+
+. Hebrew, from the root “ir,” meaning “awake.” The term likely means “perdition” as these are a class of fallen angels or demons. According to the Book of Enoch, these are the demons that gave humans knowledge of magick and priestcraft.
+
+
+---
+book: J
+
+viewer-path: /plates-of-brass/dictionary/j
+
+chapter: Jehovah
+
+viewer-path: /plates-of-brass/dictionary/jehovah
+
+. //See YHVH.//
+
+
+chapter: Jesus Christ
+
+viewer-path: /plates-of-brass/dictionary/jesus-christ
+
+. Likely referred to as "Jesus of Nazareth" in his lifetime. Jews of that time only had a first name, perhaps followed by the phrase "son of [their father's name]", or, as in Jesus’ case, the individual's hometown. He was also known as "the carpenter's son" or "Joseph's son." He may have also been known as "Jesus, son of Joseph from Nazareth." In Hebrew, his name would have been “Yeshua,” the Hebrew form of Joshua. 
+
+. The modern Jesus comes from the Latin Iesus, which is from the Greek “Iēsoûs.” His name means, “YHVH is salvation.” 
+
+. Jesus is the Christ, with Christ being a title or office as He is the Messiah. His life, death, and resurrection was prophesied from Adam’s day until His birth. 
+
+. Jesus taught followers that the true kingdom was not an earthly government, but an internal state of being (Luke 17:21). 
+
+. He lived the exemplar life; He was and is the Torah lived. His teachings were not replacing the Torah, but to clarify its original meaning and purpose. Beyond teaching mankind the Torah, Jesus came to earth to give the greatest of gifts, the atonement. 
+
+. After His final teachings, given at the Last Supper, Jesus goes to the garden Gethsemane, where He prays and takes upon himself the sins of the world. He is then tried by the Sanhedrin, Herod, and Pilate. Though he is not found guilty, the people chose to free Barabbas, a false Christ, rather than Jesus. Jesus is then beaten and taunted before made to carry His cross to Calvary or Golgotha for crucifixion. Above His head, on the cross, is the inscription, “Jesus of Nazareth, the King of the Jews.” At the end, Jesus gives up the ghost, ending his own life, as no human had the power to take his life. Three days later, the atonement is completed as He returns in His true, perfected form as the God that He is. Jesus first appears to Mary and other women, but the men do not believe them until they see Him with their own eyes. After this, Jesus goes to other sheep, including those in the Book of Mormon, teaching them the Torah as he had the Jews. 
+
+. In the spring of 1820, Jesus returned as predicted in the Book of Acts, coming back down from the Heavens to the young prophet, Joseph Smith Jr. This set the stage for His second coming, when he will come in glory to make the earth a paradise, returning the creation to Eden once again. 
+
+. //See Matthew, Mark, Luke, John; Acts 1; 3 Nephi 4-14 RAV, 8-30 OPV; Avahr 5.//
+
+
+chapter: Jophiel
+
+viewer-path: /plates-of-brass/dictionary/jophiel
+
+. //See Haniel.//
+
+
+---
+book: K
+
+viewer-path: /plates-of-brass/dictionary/k
+
+chapter: Kaf/20
+
+viewer-path: /plates-of-brass/dictionary/kaf-20
+
+. Kaf (or khaf, or kaph) is the eleventh letter of the Hebrew Alphabet. It signifies the number 20, or 500 when in its final form. Khaf literally means “palm of the hand.” It is like a cupped outstretched palm, ready to receive, like the right hand portion of the Second Token of the Lesser Priesthood, and the left hand portion of the First Token of the Higher Priesthood mudras. Kaf represents form, a form that contains the life and energy of the person using it. Being a chalice sign, it also represents Jesus Christ, and the element of water. The letter of formation, bending the straight line into a curved shape, symbolizes the crown of the Torah which is Keter. 
+
+. Kaf teaches us to shape ourselves, we are liquid bending the ego to the shape our character, Christ. Kaf (representing Christ) is what gives us form. As we bend and govern our tendencies, we shape our character. We can only do this by rejecting Ego for humility. Like a potter shaping clay, Kaf recreates us in God’s image. All possibilities of containing, building, and the formation of all existence are represented. 
+
+. Christ is the creator of worlds. We recreate ourselves through his mercy, if not then the fire of the Holy Spirit would burn us to cinder. Thus Kaf changes us by reminding us of who we really are.
+
+
+chapter: Keter
+
+viewer-path: /plates-of-brass/dictionary/keter
+
+. Hebrew, “crown.” Keter is the uppermost of the Sefirot of the middle line or kav emtsaee (Hebrew for “middle line”), the line of mildness or balance in the Tree of Life. In the Zohar, Keter is known as “the most hidden of all hidden things,” being incomprehensible to man. Only through God may the incomprehensible be known. Keter teaches us humility, “the last shall be first, and the first last” (Matthew 20:16). To see the world through the Sefirot Keter:
+
+. . • one’s thoughts should be pure
+
+. . • one’s temperament should be gentle
+
+. . • one’s face always shining
+
+. . • one’s ears should listen to hear the good in all places
+
+. . • one’s eyes should not seek evil, always looking for the good in all things
+
+. . • one’s nose should be free from the breath of anger
+
+. . • one’s mouth speaking nothing but good, righteousness.
+
+. We see Keter through Binah, which is a reflection of this Sefirot as seen by the human soul once we are born again.
+
+. //See Book of Remembrance 13:15, 29:7-8, 33:1-4.//
+
+
+chapter: King of peace
+
+viewer-path: /plates-of-brass/dictionary/king-of-peace
+
+. //See Melchizedek//
+
+
+chapter: Kislev
+
+viewer-path: /plates-of-brass/dictionary/kislev
+
+. The ninth month on the Hebrew calendar, which is the third civil month today. It is known as the month of dreams. 
+
+. Kislev occurs in November–December on the Gregorian calendar.
+
+
+chapter: Kof/100
+
+viewer-path: /plates-of-brass/dictionary/kof-100
+
+. Hebrew, represents the requirement of removing the husk of the superficial to reveal the holiness within, indicating the requirement for us to overcome our worldly nature emulate the Creator as we are made in His image, and to realize our true nature, our spiritual nature, beyond the mere physical.
+
+
+chapter: Kolob
+
+viewer-path: /plates-of-brass/dictionary/kolob
+
+. Koukab or kokob (singular), Kokabim or kolaubeam (plural). Masculine noun: star or stars. Kolob may denote a planet or black hole that appears to be a star due to distance, likely at the center of a galaxy, as Abraham describes our star in its orbit. Some Latter-day Saints have speculated that it is the Dog Star, others consider Kolob a planet. According to the Book of Abraham, Kolob is the heavenly body nearest to the throne of God, and is used and an example of Jesus Christ. 
+
+. //See 1 Moses 3:27; Abraham 3:3-10.//
+
+
+---
+book: L
+
+viewer-path: /plates-of-brass/dictionary/l
+
+chapter: Lamed/30
+
+viewer-path: /plates-of-brass/dictionary/lamed-30
+
+. Lamed (or Lammed or Lamedh) is the twelfth letter of the Hebrew Alphabet. It signifies the number 30. Lamed is translated literally to “learning,” and so that is what it represents. It’s shape is that of a shepherd’s stick, representing a pastoral staff. It is tied to Tzadikim Nistarim, the 36 righteous people that keep the world from ending. Located at the center of the aleph-bet, Lamed represents the heart (Lev לב .(In Mormon Kabbalah, this means the burning bosom, where the Holy Spirit speaks to us. Thus we learn not merely with the mind, but by revelation from God to our hearts, minds, and souls. Spiritual learning is the heart of human existence. The purpose of Mormon Kabbalah, and in fact, our mortal lives, is to learn and express spiritual teachings and practices.
+
+. Like a lighthouse high above a cliff, Lamed helps us see past the storms. Kaf shapes us, Lamed (learning) is how we are shaped. Lamed represents constant change, as we learn we grow. 
+
+. Thus it teaches us to learn from everything in life, by blocking the Ego and gaining spiritual perfection through Jesus Christ, We learn the Law, the will, and ways of God, aligning ourselves with and becoming one with God.
+
+
+chapter: Laver
+
+viewer-path: /plates-of-brass/dictionary/laver
+
+. A large basin used for ceremonial washings and other temple worship. 
+
+. The Law of Carnal Commandments or the Torah of Carnal Commandments: The Law Moses and Zipporah gave Israel the second time was the same Torah, the same Priesthood as the first. However, because of the unrighteousness of the people, they could not understand what they were given. Without being in the Presence of God (Shekinah) they could not see the spiritual side of the Torah and only saw it was an earthly law. 
+
+. //See 3 Moses 23:5, 33:6-23, 34:13; Hebrews 7:11-16; Doctrines of the Saints 5c:10-14.//
+
+
+chapter: The law of the unfaithful wife
+
+viewer-path: /plates-of-brass/dictionary/law-of-the-unfaithful-wife
+
+. This is not an issue of the woman not being a virgin, but of the husband slandering his wife. In ancient custom, the parents of the bride would keep the bed sheets, and if the husband slandered their daughter, they could take him to the judge after putting some blood on the sheets, and he would be libeled for slander. This law became more important when women were put to death for not being faithful to their husbands, or future husbands. 
+
+. This type of slander was seen as an attack on the woman’s parents, the slander was not merely saying that she committed adultery, but also that she did not honor her parents, the greater sin in the minds of people at that time. There is no law against premarital sex in the Torah, but some parents sold their daughters to their husbands as virgins. Saying that his wife was unfaithful was an attack on her parents in this manner, as they were being accused of robbing him. 
+
+. While the plates of brass do not say that the woman should be put to death, the later version of this text found in Deuteronomy 22:13-21 does demand that the woman be put to death if they were not virgins when married. It should be noted that Book of Remembrance 22:12 defines a virgin as “a pure desire to bestow.” While people may have read Deuteronomy literally, this more likely was mean to be understood spiritually and “virgin” should be better defined as a righteous person rather than merely as a woman that has not been with a man sexually.
+
+. //See 5 Moses 23:13-20, Deuteronomy 22:13-21//
+
+
+chapter: Leap year
+
+viewer-path: /plates-of-brass/dictionary/leap-year
+
+. //See Adar-aleph.//
+
+
+chapter: Libation
+
+viewer-path: /plates-of-brass/dictionary/libation
+
+. Hebrew, “to pour,” or “to pour out.” Libations were done in ancient Israel, pouring water, oil, or wine out on altars or onto the ground as a sacrifice to YHVH. Libations also appear in the New Testament, practiced by Jesus and others. The Greek term for libation, σπονδή, became synonymous over time with “peace treaty,” as they were normally conducted in a spirit of peace. 
+
+. //See 1 Moses 47:14, 3 Moses 24:11, 4 Moses 38:11-12, Genesis 35:14, Exodus 29:40, Leviticus 23:13, Isaiah 30:1, Luke 22:20, Philippians 2:17.//
+
+
+chapter: Lilith
+
+viewer-path: /plates-of-brass/dictionary/lilith
+
+. Hebrew, “of the night.” Genesis 1:27 and 1 Moses 5:10 imply the idea that Adam was married before Eve. In the Bible she is mentioned in Isaiah 34:14, translated into English in many renditions as an owl. Some forms of Lurianic Kabbalah teach that Lilith was created before Adam and that Eve was created later, after Lilith's expulsion from the garden. 
+
+. The Book of Remembrance does not give an order of the creation or Adam, Eve, and Lilith, but puts all three in the garden when God forbid them from eating from the tree of knowledge of good and evil (see Book of Remembrance 4:11). According to the Book of Remembrance, Lilith was the first to fall to Satan's temptation, and was the serpent that first tempted Adam. 
+
+. When she failed she fled the garden and became perdition as she would not repent. Later, she tempted Cain to worship Satan and kill his brother. 
+
+. //See 2 Moses 7:7, 20:21; 2 Moses 1:30, 16:21-22, 25:9; 4 Moses 41:7, 13; Zenos 3:9-17; Book of Remembrance 4:14, 5:6:-40; 6:13-14; 7:30, 9:16-17, 20:35, 24:24-25; Doctrines of the Saints 14e:29-30; 2 David 2:11-22.//
+
+
+chapter: A living soul
+
+viewer-path: /plates-of-brass/dictionary/living-soul
+
+. One who is born again, the premortal spirit and the mortal body uniting in Christ, birthing a new life: the soul; denoting that a thing is capable of serving God.
+
+
+chapter: Lo
+
+viewer-path: /plates-of-brass/dictionary/lo
+
+. //See Hinneh.//
+
+
+---
+book: M
+
+viewer-path: /plates-of-brass/dictionary/m
+
+chapter: Mahan, Master Mahan
+
+viewer-path: /plates-of-brass/dictionary/mahan-master-mahan
+
+. “Great one,” or “master of a great secret.” a title assumed by Cain, then later by his descendant, Lamech and others. While the origins of this term are unknown, the Hebrew word “maha” translates into “destroyer.” By adding an “n,” the term takes the form of a noun. 
+
+. //See 1 Moses 7:31-32, 8:16-17; 5 Moses 9:27; JST Genesis 5:16, 35 (Moses 5:30-31, 49).//
+
+
+chapter: Magdalene
+
+viewer-path: /plates-of-brass/dictionary/magdalene
+
+. Mary Magdalene is the wife of Jesus Christ and witness to his crucifixion and resurrection. Luke 8:2–3 states that Mary had seven demons had been driven out of her by Jesus. It also states that she was one of the women who helped support Jesus' ministry financially, meaning she was likely wealthy. Known in some Christian traditions as the “apostle to the apostles,” Mary Magdalene is seen as the closed person to the Savior. 
+
+. In many now Apocryphal texts that were popular at the time of early Christianity, Mary is portrayed as an apostle and/ or a prophetess and leader of the early movement. She was rejected by the early Catholic Church, and defamed in 591 when Pope Gregory I accused her of being the “sinful woman” who anointed Jesus's feet in Luke 7:36–50. Today we know her to be a prophetess on the same level as Melchizedek. 
+
+. The term “Magdalene” is in reference to the city Magdala, which is from the Aramaic (Magdala) and Hebrew (Migdal) meaning “tower.” Magdala was a fishing city on the shore of the Sea of Galilee. Putting these two facts together may imply that “Magdalene” is in reference that Mary was both a fisher of mankind (an apostle) and a leader (tower), a head of the Church in ancient times. Today the High Priesthood held by women is called the Magdalene Priesthood. 
+
+. //See 2 Moses 28:15; Zenos 9 header; Luke 8:2; John 20:1-18; Doctrines of the Saints 5b:1-14, 48-53, 61-62, 70-70, 5g:22, 8b:32, 10b:4-6, 13b:31-32, 15d:17, 42:45, 118g:13, 119:3, 16; Michelle 1:60; High Priesthood.//
+
+
+chapter: Magician
+
+viewer-path: /plates-of-brass/dictionary/magician
+
+. Hebrew: “chartom;” an “engraver” or “writer,” likely of spells. 
+
+. //See Doctrines of the Saints 106:1-35.//
+
+
+chapter: Malachim
+
+viewer-path: /plates-of-brass/dictionary/malachim
+
+. //See Ariel.//
+
+
+chapter: Malak (singular) Malakim (plural)
+
+viewer-path: /plates-of-brass/dictionary/malak-malakim
+
+. Hebrew, “angel(s),” “envoy,” or “messenger” both human and divine. The noun derives from the root l'k, meaning “to send with a message” and is associated with and in the noun “Mel’akah,” meaning “work,” “occupation” or “craftsmanship.” 1 Moses 28:26 describes the malakim that met with Abraham and Sarah as “holy men,” while the “angel of YHVH” is literally Malak of YHVH. Thus, a malak or angel may be a human or a “supernatural” or divine being. 
+
+
+chapter: Mal’akh Ha’Mavet
+
+viewer-path: /plates-of-brass/dictionary/mal-akh-ha-mavet
+
+. Hebrew, “angel of death.” Some say this is Azrael, others Gabriel, but the identity of this angel is unknown. It may even be more than one angel. 
+
+. //See 3 Moses 5:6, Exodus 12:23, 2 Samuel 24:16, Isaiah 37:36, Psalm 116:15, Hebrews 1:14 and Revelation 6:8.//
+
+
+chapter: Malak Olam
+
+viewer-path: /plates-of-brass/dictionary/malak-olam
+
+. Eternal Holy Man or Eternal king; Hebrew, “messenger (angel) everlasting.”
+
+
+chapter: Male and female
+
+viewer-path: /plates-of-brass/dictionary/male-and-female
+
+. “Able to give and to receive,” in Kabbalah male denotes the desire to give, while female the will to receive. Together these signify the duality of mankind. 
+
+. //See Adam, Eve.//
+
+
+chapter: Malchut
+
+viewer-path: /plates-of-brass/dictionary/malchut
+
+. Hebrew, “Kingdom.” Malchut, the tenth of the sephirot in the Kabbalistic Tree of Life, sits at the bottom of the Tree. This Sefirot represents Eden as a symbol the Bride (the Church, the body of Christ upon the Earth). Malchut is the “first lens” of one’s third eye. Rather than emanating from God like the other Sefirots, it emanates from us, God’s creation reflecting God’s glory from within us (mankind was created in God’s image).
+
+. //See Book of Remembrance 29:13, 33:31-34.//
+
+. Even though it is the last Sefirot, it is also the first “the last shall be first, and the first last” (Matthew 20:16). This creates the eternal loop between Keter and Malchut, creator and creation, God and offspring. God’s divine energy comes down and finds its expression in this realm. God grants us the priesthood, God’s power, is to bring that energy back around In a circle and back up the Tree of Life.
+
+
+chapter: Mandrake plant
+
+viewer-path: /plates-of-brass/dictionary/mandrake-plant
+
+. Hebrew, “love plant.” The ancient Hebrews believed that the mandrake plant could be used to induce conception. Some scholars believe that the Biblical mandrake may actually be the opium poppy.
+
+
+chapter: Manna
+
+viewer-path: /plates-of-brass/dictionary/manna
+
+. Hebrew likely from the Aramaic “man hu,” meaning “What is it?” Manna is the term used for an edible substance God provided for the Israelites as they traveled in the desert. Manna is described as being like the frost left on the ground. It was flat, the size of coriander, white, and tasted bland yet sweet. 
+
+. Manna kept overnight would rot, stink, and have worms in it by the morning, with the exception of manna gathered for the Sabbath. In the Quran manna is also mentioned. Sahih Muslims claim that Muhammad said they were like a “truffle” given by God (here Allah) for food, and that its juices could be used an eye medicine (Bukhari Volume 7, Book 71, Number 609). Some scholars have proposed manna may have been a type of honeydew or some form of lichen, a composite organism that arises from algae. 
+
+. //See 3 Moses 22:15-21, Exodus 16:1–36, Numbers 11:1–9.//
+
+
+chapter: Marcheshvan
+
+viewer-path: /plates-of-brass/dictionary/marcheshvan
+
+. //See Bul.//
+
+
+chapter: Mayim
+
+viewer-path: /plates-of-brass/dictionary/mayim
+
+. Hebrew, “waters.” Water represents Christ’s mercy, the Sefirot Chesed, and YHVH/Jesus Christ Himself. See Chesed.
+
+
+chapter: Melchizedek
+
+viewer-path: /plates-of-brass/dictionary/melchizedek
+
+. Hebrew, “King or Peace,” “king of righteousness,” or “my king is righteousness.” Melchizedek was the king of Salem and a High Priest of El Elyon, the Most High God. 
+
+. According to The Second Book of Enoch, Melchizedek was born of a virgin by the wife of Nir, a brother of Noah. The child was born clothed, and speaking, he blessing the Lord, and was marked with a symbol of the priesthood. Later, in that same book, he was taken to the Garden of Eden and preserved from the Flood, outside of Noah's Ark. 
+
+. According to revelation from Joseph Smith Jr. the title for the High Priesthood given to males and those that identify as males in this dispensation is named after him “because 
+
+. Melchizedek was such a great High Priest” (Doctrines of the Saints 5b:2). In the Torah, Melchizedek is the first person to be given the title of “Kohen” (priest), with Adam and Eve being the first in the 1 Book of Moses. 
+
+. //See 1 Moses 25:24; Book of Melchizedek; Genesis 14:18–20; Psalm 110:4; Alma 10:7-15 RAV, 13:14-19 OPV; Doctrines of the Saint 5b:1-4; High Priesthood.//
+
+
+chapter: Malchei HaMelachim
+
+viewer-path: /plates-of-brass/dictionary/malchei-hamelachim
+
+. Hebrew, “King of kings.” 
+
+. //See 2 Moses 24:10, Deuteronomy 10:17; 1 Timothy 6:15; Revelation 17:14, 19:11-12, 19; Doctrines of the Saints 50b:12.//
+
+
+chapter: Mem/40
+
+viewer-path: /plates-of-brass/dictionary/mem-40
+
+. Mem (or Meem, Meme, or Mim) is the thirteenth letter of the Hebrew Alphabet. It signifies the number 40 both forms, but its final form can also represent 600. Mem is tied to water (and thus Christ/YHVH) as it stands for “mayim,” Hebrew for “water,” as in the waters of wisdom, knowledge, and the Torah. Mem represents manifestation, granting us the ability to “dive” into wisdom. We thirst for the Word of God: the waters of life. Water is a vital element in our lives; we are mostly composed of water and the earth is covered with it. When Mem is open it represents God’s blessings in our lives, His providence; when closed it represents the concealed part of the Lord’s Celestial rule. 
+
+. Mem also represents to us the importance of balanced emotions and of humility, which is key in using Mem in meditations. Water always runs downhill, finding the lowest point. The number 40, which Mem represents, equates to the long periods of time needed for growth. It rained for “40 days and 40 nights” while Noah was in the flood, representing the time it takes to remove sin from man. Likewise, Jesus fasted for 40 days. Mem thus teaches us how to balance emotions with time and wisdom. We balance our feelings, just as one balances him or herself on a boat afloat in the waters of life.
+
+
+chapter: Messiah
+
+viewer-path: /plates-of-brass/dictionary/messiah
+
+. Hebrew, “Anointed one,” “Savior,” or “Christ.”
+
+
+chapter: Mezuzah
+
+viewer-path: /plates-of-brass/dictionary/mezuzah
+
+. A mezuzah, Hebrew (מזוזה” (doorpost,” or (ותֹמזוז ( mezuzot in the plural, is a decorative case with piece of parchment called a klaf (or qelaf, קלף (inside. The decorative case will likely have the Hebrew letter Shin written upon it, the first letter of one of God’s names, Shaddai (Hebrew: Almighty). The paper, the kalf, is inscribed with specific Hebrew verses from the Torah. These verses consist of the Jewish prayer, Shema Yisrael. This prayer is Deuteronomy 6:4–9 and 11:13-21. 
+
+. Sometimes Numbers 15:38-41 may be added at the end as well. 
+
+. The prayer is inscribed on one side of the parchment. On its reverse side of the paper “Shaddai” is written. 
+
+. Many Jews, and now even Christians, will affix a mezuzah to the doorpost of their homes to fulfill the mitzvah to “write the words of God on the gates and doorposts of your house” (Deuteronomy 6:9). Some will put a mezuzah in every doorway in their home, except closets, laundry rooms, and bathrooms, etc. as these are not living spaces.
+
+. //See 5 Moses 2:11; Deuteronomy 6:9, 11:20.//
+
+
+chapter: Metatron
+
+viewer-path: /plates-of-brass/dictionary/metatron
+
+. Also known as Jophiel/Yophiel or Zophiel, one of the seven archangels. Not much is known about the angel Zaphkiel. 
+
+. Jews believe him to be the Archangel of Wisdom. In Mormon Kabbalah, Zaphkiel is the herald of the Sefirot Binah, which is Hebrew for understanding. According to 4 Moses and Zenos 4:4 he is Metatron (Hebrew: “one who guards”), also known as Mitatrun in Arabic.
+
+. Metatron is the angel of the veil. His name likely came from Mattara “keeper of the watch” or Memater “to guard” or “to protect.” According to Kabbalah, Enoch is given a new name when he is transfigured, and that is Metatron. In Sefer Hekhalot, also known as 3 Enoch, Enoch is transformed into the archangel Metatron. This text identifies Metatron as the angel that led Israel out of Egypt and into the wilderness (Exodus 23:21). The name Metatron, like Jesus Christ, is a modern version from the Greek. 
+
+. //See 4 Moses 30:15-16, 39:6, Zenos 4-5, 6:1.//
+
+
+chapter: Michael
+
+viewer-path: /plates-of-brass/dictionary/michael
+
+. Hebrew, “One Who is like God.” “And there stood one among them that was like unto God, and he said unto those, who were with him, We will go down, there for there is space there...” -Abraham 3:24 (from Book of Abraham Manuscript, page 8)
+
+. In Mormon Kabbalah, Michael is the herald of the Sefirot Gevurah. According to the Bible, Michael is one of the chief princes and protector of Israel (Daniel 10:13, 21). We know he is an archangel from the New Testament (Jude 1:9). And he is a warrior, as it was he that led the fight mentioned in Revelation 12:7. According to Zenos Chapter 3 Michael was called to oversee the first dispensation of mankind here upon the earth. If Jesus, the Son as the right hand of the Father is peace, then Michael, the left hand, may be war.
+
+. We also know from Doctrines of the Saints that Adam and Michael are the same person (Appendix 1:11/DoC 104:28 RLDS/CoC, 107:53-55 CJCLdS). The Book of Remembrance teaches us that he is or represents the Holy Spirit (28:24-31). However, Doctrines of the Saints 68:17 places both “father Adam” and Michael together in Joseph Smith's vision. We do not know if this is a different Adam or a different Michael or if, it being a vision, Joseph was merely guessing as to who these two were. 
+
+. //See 1 Moses 20:2, 34:19-28; 4 Moses 30:7, 32:59-58, 39:6; Enoch 2:26, 2:50, 4:35, 7:42-43, 9:30, 13;4, 10, 16; Zenos 2:20, 3:1- 3, 3:29-42, 5:14; Daniel 10:13-21, 12:1-2; Jude 1:9; Doctrines of the Saints 21:35, 53c:49-52, 68:17, Appendix 1:11, 2:7; 7 Joseph 5:8-11; Book of Remembrance 2:30-31, 3:1-73, 12:10, 23:7-9, 28:24-31.//
+
+
+chapter: Mishchah
+
+viewer-path: /plates-of-brass/dictionary/mishchah
+
+. Hebrew, “to consecrate a portion.” See Anoint.
+
+
+chapter: Mitzvah
+
+viewer-path: /plates-of-brass/dictionary/mitzvah
+
+. Hebrew, a precept or commandment, a religious duty. 
+
+. The term has a cultural understanding that this is in the sense of a good deed, acts of empathy and kindness. There are three types of mytzvah: philosophical, personal, and social. 
+
+. . Philosophical:
+
+. . • To know God, and understand that God created all things
+
+. . • To have no other gods
+
+. . • To know the unity of God
+
+. . • To respect/honor God.
+
+. . • To love God.
+
+. . • To pursue the passions of God placed in the heart and not stray after the eyes
+
+. . Personal:
+
+. . • Pray
+
+. . • Follow the guidance of the Holy Spirit
+
+. . • Study the scriptures
+
+. . • Keep the body clean
+
+. . • Keep peace in the home
+
+. . • Wear the tzitzits
+
+. . • Worship on the holy days
+
+. . Social:
+
+. . • Give to the poor
+
+. . • Worship through obtaining the Sacraments
+
+. . • Worship with family, friends, and neighbors
+
+. . • Love all, including enemies
+
+. . • Help any in need however one can
+
+. In is understood that the mitzvot known as the Law of Moses has been fulfilled in Christ, and that parts of it will are longer be in force, such as animal sacrifice.
+
+
+chapter: Mikveh
+
+viewer-path: /plates-of-brass/dictionary/mikveh
+
+. Hebrew, a bath or baptism done in full immersion to achieve ritual purity. A mikveh should include some portion from a natural source of water.
+
+. //See Law of the Lord 11; 2 Nephi 13:7 RAV, 31:15 OPV; Mosiah 11:129 RAV, 26:22a OPV; Matthew 3:11; John 3:5-7; //
+
+
+chapter: Moon
+
+viewer-path: /plates-of-brass/dictionary/moon
+
+. the Hebrew word for moon, "lebanah," is a feminine noun while the Hebrew for full, "maw-la," is male yet can mean “pregnant woman;” the Hebrew given over the Egyptian is keseh, which is masculine; see Psalm 81:3; this is likely pointing to the restoration of the Sabbath of the Full Moon; while the New Moon Sabbath was overseen by the male Levite Priests, it is believed that the Full Moon Sabbath may have been overseen by the Levite Priestess until these daughters of Miriam were shut away. 
+
+. //See Doctrines of the Saints 123, see also Lebanah.//
+
+
+chapter: Mormon
+
+viewer-path: /plates-of-brass/dictionary/mormon
+
+. Hebrew, מורמן. A word of unknown origin translated by the Holy Spirit as “a wild or untamed place,” or “wilderness.” According to Gordon Thomasson, the toponym Mormon (MRMN) and the toponym Hermounts (HRMN) might be the same word, and can be found in the Book of Mormon referencing a wilderness infested by wild beasts: “...a place which was called Mormon, having received its name from the king, being in the borders of the land having been infested by times, or at seasons, by wild beasts” (Mosiah 9:32 RAV, 18:4 OPV). In addition, both Mormon and Hermounts may share the root RMN. 
+
+. //See 3 Moses 18:14, 54:5; “What's in a Name? Book of Mormon Language, Names, and [Metonymic] Naming” by Gordon C. Thomasson, Broome Community College, in Binghampton, New York, pages 12-13 (https://scholarsarchive.byu.edu/jbms/vol3/iss1/2/).//
+
+
+chapter: Mount Ebal
+
+viewer-path: /plates-of-brass/dictionary/mount-ebal
+
+. One of the highest peaks in the West Bank, Mount Ebal is one of the two mountains in the immediate vicinity of the city of Nablus in the West Bank in Israel. After the Battle of Ai, Joshua builds an altar of natural stones on this mount and the Israelites offer up peace offerings. 
+
+. //See 5 Moses 30:11, Deuteronomy 11:29, Joshua 8:31-35//
+
+
+chapter: Mount Gerizim
+
+viewer-path: /plates-of-brass/dictionary/mount-gerizim
+
+. One of the highest peaks in the West Bank in Israel. It is sacred to the Samaritans as the location chosen by God for a holy temple and the center of Samaritan religion. 
+
+. //See 5 Moses 30:11, Deuteronomy 11:29–30//
+
+
+chapter: The Mount of Ha'Elohim
+
+viewer-path: /plates-of-brass/dictionary/mount-of-ha-elohim
+
+. Hebrew, “the mountain of strength,” or “the mountain of the gods.” The mountain where Moses first met YHVH and where he and Zipporah retuned with Israel to make thier covenant with God. It is unknown where this mountain is today, though there are speculations. 
+
+. //See 3 Moses 3:1, 27:1-7, Exodus 19.//
+
+
+chapter: The Mouth of Elohim
+
+viewer-path: /plates-of-brass/dictionary/mouth-of-elohim
+
+. or “the Mouthpiece of Elohim,” another way of saying prophets of God or evangelist.
+
+. //See 1 Moses 6:37.//
+
+
+---
+book: N
+
+viewer-path: /plates-of-brass/dictionary/n
+
+chapter: Nazarite
+
+viewer-path: /plates-of-brass/dictionary/nazarite
+
+. From the Hebrew “nazir” meaning “consecrated” or “separated.” In the plates of brass this seems to be a term for those that give a portion of their lives to God, while in the Old Testament it appears to be one who gives their whole lives to God. Samson even stated “I have been a Nazarite unto God from my mother's womb,” though this may merely be stating that he never in his live cut his hair (Judges 16:17). Some see Mark 14:25 and Luke 22:15–18 as evidence that Jesus was a Nazarite or that He vow before His crucifixion. 
+
+. //See 4 Moses 35, Numbers 6:1–21//
+
+
+chapter: Nephesh
+
+viewer-path: /plates-of-brass/dictionary/nephesh
+
+. //See Soul.//
+
+
+chapter: Nephilim
+
+viewer-path: /plates-of-brass/dictionary/nephilim
+
+. Hebrew, “the fallen.” This refers to those that know the truth and have not only fallen from that truth but seek to cause others to fall. Examples: Lilith, Cain, or Korihor; the children of man that had been children of Elohim but turned away. This term may be an early term for “antichrist,” or “perdition.”
+
+
+chapter: Netzach
+
+viewer-path: /plates-of-brass/dictionary/netzach
+
+. Hebrew, “Eternity.” Netzach is one of the “tactical” Sefirot. Its purpose is not directed towards itself, but rather to assist in another work. We saw this in Moses’ earthly ministry when he led the Israelites out of bondage, but not into the promised land. This Sefirot marks a turning point, we may change to act as free agents for God rather than salves to sin. Netzach marks endurance, the patience to follow through on your passions without being overcome by them (40 days in the wilderness). It is leadership, bringing others to a cause and motivating them to act. Netzach answers the questions: How shall mankind receive God’s message? How can God’s will be done effectively? For it was Moses that brought us the Law and the Torah. Netzach teaches us strength, endurance, long-suffering, strength, and patience.
+
+. //See Book of Remembrance 29:11, 33:22-23.//
+
+
+chapter: New and everlasting covenant
+
+viewer-path: /plates-of-brass/dictionary/new-and-everlasting-covenant
+
+. A covenant written and sealed upon our hearts, binding the earth and heaven to bring the heavens to the earth. This term is used to describe our salvation and exaltation through the Atonement of Christ. The first principles and ordinances of the new and everlasting covenant are: faith in the Lord Jesus Christ, repentance in His name, baptism by immersion for the remission of sins, the laying on of hands for the gift of the Holy Ghost, and the Lord’s Supper. 
+
+. We take the Sacrament of Communion “to renew the New and Everlasting Covenant, in fellowship with the Saints of Zion” (Doctrines of the Saints 15f:6). Not to be confused with the Holy Spirit of Promise.
+
+. //See Doctrines of the Saints 17a:28. See also Covenant, and Everlasting Covenant.//
+
+
+chapter: Nimrod or Enmer Kar
+
+viewer-path: /plates-of-brass/dictionary/nimrod-or-enmer-kar
+
+. The son of Cush, great-grandson of Noah. Although the Bible is silent, he may possibly be the ancient and legendary Sumerian king, “Enmerkar.” NMR in Sumerian is the same as NMR in Hebrew, Nimrod. “Kar” means “hunter,” making his name “Enmer the hunter.” Nimrod means “Rebel” in Hebrew and Nimrod is known as a mighty hunter. 
+
+. The inspired translation of NMR in the plates of brass is Enmer Kar, and later changed to Nimrod. 
+
+. //See 1 Moses 15-20; Genesis 10:8-10; 1 Chronicles 1:10; Either 1:22 RAV, 2:1 OPV.//
+
+
+chapter: Nisan
+
+viewer-path: /plates-of-brass/dictionary/nisan
+
+. //See Abib.//
+
+
+chapter: Noah's ark
+
+viewer-path: /plates-of-brass/dictionary/noahs-ark
+
+. Hebrew, “tebah,” meaning “box” or “chest.” The vessel used in the flood narrative. This story is told or mentioned in 1 Moses, Genesis, The New Testament, the Book of Mormon, and the Quran. It can also be found in a number of apocryphal tetes as well. This story has struck much controversy as no physical evidence of the Ark has been found. This has led to speciation of a global flood, a local flood, and no flood. 
+
+. In Kabbalah the flood is symbolic, washing away egotistical desires. The structure of the Ark and the act of the flood is relative to Temple worship. The ark is built with three decks, like the three divisions of the Tabernacle. 
+
+
+chapter: Nun/50
+
+viewer-path: /plates-of-brass/dictionary/nun-50
+
+. Nun (or Nuun) is the fourteenth letter of the Hebrew Alphabet. It signifies the number 50, and in its final form represents 700. Nun is a symbol of both faithfulness and the reward for faithfulness, new spiritual birth, coming out of the waters of Mem. 
+
+. Nun stands for humility, as it is bent both above and below. It represents the soul Neshama, the heavenly spark housed in the earthly container of the body. Nuun means “fish” in Arabic, Nun can be thought of then as the fish that swims in the waters of the Torah, represented by Mem. Connected to fertility, continuity and the ability to increase and multiply, Nun brings us out of the waters of rebirth and onto growth in Grace. 
+
+. Nun also represents the 50 Gates of Wisdom of Binah, indicating the constant presence and the humility of the soul. Like the letter Nun, the soul is bent as a person in prayer, humble constantly giving light but staying hidden. Thus Nun us to be bound to the will of the Creator, not our own Egoism. We must bend to God in the things spiritual (above) and worldly (below). Through Nun we better learn to be supple and flexible, like the fish, and not to be resistant to change. Nun reminds us to listing to our Neshama, through which the Creator is always present in us.
+
+
+---
+book: O
+
+viewer-path: /plates-of-brass/dictionary/o
+
+chapter: Offering or slaughter offering
+
+viewer-path: /plates-of-brass/dictionary/offering-or-slaughter-offering
+
+. Hebrew, “zevakh.” Before the death and resurrection of Jesus Christ, a type of animal sacrifice, specifically the slaughter of an animal to God, followed by a feast or a meal. The Books of Moses from the plates of brass make it clear that all animal sacrifices were to be eaten and not wasted, with the exception of the parts of the animals that were inedible or that Israel was commanded not to eat. Burnt offerings (where the animal is burnt to ash so no one could eat it are forbidden in the plates of brass.
+
+. The meal from a slaughter offering was seen as holy, and those that would eat were required to change into clean garments when possible. The ritual would began with the Priest's hands on the sacrificial animal, which would then be killed, its blood collected and sprinkled upon the altar. Oxen, sheep, and goats are identified in the Old Testament and the plates of brass for use in these rituals. 
+
+. The fat was burnt up as a gift to YHVH. The meat had to be eaten within certain time limits, any leftovers had to be destroyed. The meals were seen as a joyful occasion. Today one would take the Sacrament of Communion.
+
+. //See Book of the Law of the Lord 8; 4 Moses 26 and 27; Leviticus 2:2, 9, 16; 5:12; 6:15; Numbers 5:26; 18:26–29.//
+
+
+chapter: Ordinance
+
+viewer-path: /plates-of-brass/dictionary/ordinance
+
+. Hebrew, chuqqah; an enactment or statute. An ordinance is a religious ritual used to demonstrate one's dedication to their faith. All ordinances point to Jesus Christ (Alma 10:9-10 RAV, 13:16 OPV). In the Latter Day Saint tradition, ordinances are physical acts that symbolize spiritual acts, rituals that signify the covenant between the participant and God, the Priest or Priestess, Elder, or High Priest or High Priestess representing God. Some ordinances are performed once, some weekly, monthly, yearly, etc. 
+
+. //See 1 Moses 6:6, 16:2; 4 Moses 1:14, 18, 24-25; 5 Moses 1:59, 2:18; Exodus 12:14, 13:10, 18:19; Leviticus 18:30; Numbers 18:8; 2 Chronicles 2:4; Psalms 99:7, 119:91; Ezekiel 11:19-20; 2 Nephi 11:57 RAV, 25:3 OPV; Mosiah 8:7 RAV, 13:3 OPV; Alma 9:72 RAV, 13:8 OPV, 10:9-10 RAV, 13:16 OPV; Sirach 6:37; Romans 13:2; Avahr 33:17; Doctrines of the Saints 3b:3-5, 3c: Article IV, 5c:8, 5d:11-12, 7a:16, 1a:67, 30:16, 87:40, 100:4-5, 107:10, 116:13, 117:9, 119:18, 124:44//
+
+
+chapter: Orr Makif
+
+viewer-path: /plates-of-brass/dictionary/orr-makif
+
+. The outer surrounding light in Kabbalah, indicating the general providence of God, surrounding and sustaining all of existence; a container of all forms. 
+
+
+---
+book: P
+
+viewer-path: /plates-of-brass/dictionary/p
+
+chapter: Passover
+
+viewer-path: /plates-of-brass/dictionary/passover
+
+. //See Sabbath of Passover. //
+
+
+chapter: Peace offering
+
+viewer-path: /plates-of-brass/dictionary/peace-offering
+
+. Hebrew, “zevah shelamim.” One of the sacrifices and offerings required by God before the coming of Jesus in the flesh. There are three types of peace-offerings: the thank-offering, the votive-offering given in fulfillment of a vow, and the free-will offering. 
+
+. The thank-offering was given in response to blessing or acts of divine favor. The votive offering was given at the fulfilment of a petition. The free-will sacrifice was given when one was moved by the Holy Spirit as a spontaneous show of piety. Today one would take the Sacrament of Communion and give offerings or to charitable causes.
+
+. //See 4 Moses 28, Leviticus 3; 7.11–34. //
+
+
+chapter: Peh/2
+
+viewer-path: /plates-of-brass/dictionary/peh-2
+
+. Bet (or Feh) is the seventeenth letter of the Hebrew Alphabet. It signifies the number eighty. Peh means “mouth” and is related to the letter Hei (“throat”). Because of this, Peh/ Feh refers to the power of speech in Kabbalah. This power is a double-edged sword. As it says in “Death and life are in the power of the tongue” (Proverbs 18:21). 
+
+. Speech is a spiritual power that can cause good or evil, depending on how it is used. Words from a blessing can heal, while violent actions can be birthed from violent words. From Peh/Feh we learn that to control our tongues can lead to selfmastery. The shape of the Peh/Feh represents the spiritual spark that is the soul, created inside the physical body when one is born again. 
+
+
+chapter: Perdition
+
+viewer-path: /plates-of-brass/dictionary/perdition
+
+. The final state of ruin, the opposite to salvation. One who is perdition, in this life or in the first estate, is one who will not take part in the glory of God in the resurrection. These will be in a state of eternal punishment and damnation. 
+
+. //See 1 Moses 7:18; Daniel 12:2; John 17:12; 1 Timothy 6:9; 2 Peter 3:7; Revelation 17:8, 20:14; Alma 9:29 RAV, 12:16b OPV; Helaman 5:73 RAV, 14:18b OPV; Doctrines of the Saints 42:22, 27-39, 113:28-29; Book of Remembrance 5:34. See also Iyrin.//
+
+
+chapter: Pharaoh
+
+viewer-path: /plates-of-brass/dictionary/pharaoh
+
+. The term “pharaoh” was not used for the ruler of Egypt until about 1210 BC. Before the Nineteenth dynasty, “king” was the term most frequently used. And there could be (and were) multiple kings at the same time. Both the Old Testament and the plates of brass seem to use the term Pharaoh as a name or title for the king of Egypt. 
+
+. More than a king, the Pharaohs were said to be an intermediary between the Egyptian gods and the people. In Mormon Kabbalah, the Pharoah can represent our conscience or worldly thoughts or desires. He is the height of our worldly or physical desires to bestow to gain, the sun that shines light upon Egypt and the Egyptians. If we follow the path of Pharaoh, we will be led down the path of Cain.
+
+
+chapter: Pierced heart
+
+viewer-path: /plates-of-brass/dictionary/pierced-heart
+
+. //See Born again. //
+
+
+chapter: Priestcraft
+
+viewer-path: /plates-of-brass/dictionary/priestcraft
+
+. Hebrew, kesheph; masculine noun, “sorcery.” In the Latter Day Saint movement priestcraft is seen as men and women that “preach and set themselves up for a light unto the world, that they may get gain and praise of the world; but they seek not the Welfare of Zion” (2 Nephi 11:106b RAV, 26:29b OPV).
+
+. Examples of priestcraft range from necromancy to sorcerers/sorceresses, and idolators to false prophets. It can include those that make a mockery or even a business of religion, and those teaching egoism and pride, materialism, and even those in the Churches of Christ using unrighteous dominion. 
+
+. //See Alma 1:3-17 RAV, 1:2-12a OPV; 3 Nephi 7:34 RAV, 16:10a OPV, 9:105-106 RAV, 21:19-20 OPV; Doctrines of the Saints 13a 29- 40, 22g: 5-6, 106:5-35, 119:13-14; Book of Remembrance 9:18, 25-26, 16:6-7, 24:24-27, Prosperity gospel.//
+
+
+chapter: Polygamy
+
+viewer-path: /plates-of-brass/dictionary/polygamy
+
+. Having more than one wife or husband at the same time. Monogamy is the practice of marrying only one spouse. Polygamy is the practice of marrying multiple spouses. Polygyny is the practice of a man marrying multiple spouses. 
+
+. Polyandry is the practice of a woman marrying multiple spouses. Polyculy/Polycule or group marriage is the practice of both marrying multiple spouses. There is no technical term for group marriages, but we are including these as a form of polygamy. 
+
+. Polygamy is not fornication, open marriages, “swinging,” or the like with individuals having side relationships for sexual pleasure. These are emotional bonds of marriage where all involved enter into eternal covenants with the Lord. 
+
+. The Law of Moses clearly allowed for polygamy. Exodus 21:10 mentions that a man may take another wife. The following verse states that she may leave him if he doesn’t care for her financially. Deuteronomy 21:15-17 is clear what to do with an estate if a man had two wives, and only likes one of them. 
+
+. Deuteronomy 25:5 commands a man to marry his deceased brother’s wife, it gives no exception for him if he is already married. We know the Nephites had this Law, as 5 Moses 22:17- 19 and 25:17 mirror these chapters and verses in Deuteronomy. 
+
+. We also see the example of Sarah taking multiple husbands in 1 Moses (1 Moses 21:13, 23:15-18, 24:21). 
+
+. The Lord does not appear care if we are polygamists of monogamists, as long all involved are one with each other and with God, and together they work to keep their covenants with God (Doctrines of the Saints 17d:18). Monogamy appears to be the rule when men are not faithful to their wives (Jacob 2:31, 40-41 RAV, 2:23, 31-32 OPV). Polygamy is not seen as a sexual orientation by law, like heterosexuals or those of the LGBTQ community, but rather as a lifestyle. Thus, it is a choice. That said, some psychologists disagree pointing out that there are those that do identify as polyamorous as their sexual orientation. They and their partners may choose to live in a way that honors their covenants to and with God in polygamy or in monogamy.
+
+. //See Book of the Law of the Lord 44:5; 5 Moses 25:31-32; Exodus 21:10; Doctrines of the Saints 17a-e//
+
+
+chapter: Polyamory
+
+viewer-path: /plates-of-brass/dictionary/polyamory
+
+. From Ancient Greek “polloí,” meaning “many,” and the Latin “amor,” meaning “love.” Polyamory is the modern term used to describe the practice of romantic relationships with more than one partner at the same time, with the informed consent of all partners involved. 
+
+. Polyamory is not necessarily a form of marriage, but a lifestyle. When discussing polyamory in the Christian/ Latter Day Saint framework, the term likely refers to a group marriage. Some that believe Joseph Smith Jr. was a polygamist understand his form of polygamy to be polyamory as he allegedly married other men's wives. 
+
+. Some in the polyamorous community do not like including polygamy or polygamists in their understanding of this term, especially those that see polyamory as open relationships, and not as marriages or sacred unions. This is a cultural understanding, not shared by all that involve themselves in this practice.
+
+. //See Doctrines of the Saints 17a-e; see also Polygamy. //
+
+
+chapter: Priesthood
+
+viewer-path: /plates-of-brass/dictionary/priesthood
+
+. Hebrew feminine noun, refers to our connection with God, and the power of God used by mankind. In the Latter Day Saint movement, the Priesthood is a term used for three distinct things: 
+
+. . 1. the power of God
+
+. . 2. service to others
+
+. . 3. the ministry (including Offices of the Priesthood). 
+
+. When we pray and that prayer is answered, that is the priesthood in action.
+
+. Some things we do, as seekers, disciples, and ministers require us to hold an Office of the Priesthood to run parts of the various sects and other organizations. There are two ways we may use God’s power. The first is theurgy. Theurgy is when we attempt to better ourselves through God. The second way we use God’s power is thaumaturgy. Thaumaturgy is also known as “wonder working” or “miracle working.” These would be the gifts of the Spirit.
+
+. All gifts of the spirit use the priesthood and may be used by men and women alike. All miracles may be considered thaumaturgy, and some require the priesthood keys. Yet miracles may also be performed by men or women that are not ordained to the ministry, based on their faith and the grace of God. God has no limits, thus neither does the priesthood.
+
+
+chapter: The Presence
+
+viewer-path: /plates-of-brass/dictionary/presence
+
+. //See Shekinah.//
+
+
+chapter: Prophet/Prophetess
+
+viewer-path: /plates-of-brass/dictionary/prophet-prophetess
+
+. Hebrew, “nabi,” “spokesman,” “speaker,” or “prophet;” or “ydris,” “prophetess,” “seer.” A prophet or prophetess can be anyone regarded as an inspired teacher, or one proclaiming the will of God (4 Moses 33:5, 14). 
+
+. In the Latter Day Saint movement, a prophet or prophetess is generally seen as one in contact with God, called to speak on the Lord's behalf, serving as an intermediary with humanity (the Church), delivering messages, or teachings from the supernatural source to other people (5 Moses 19:7, 11). Moses, being the example of a prophet, did more, bringing the will of the people to God, being a true emissary between the Lord (the Bridegroom) and the Israel (the Bride). 
+
+. Moreover, the Book of Revelations states that “the testimony of Jesus is the spirit of prophecy,” making all Saints prophets (Revelation 19:10). Doctrines of the Saints 2d calls us to be a prophetic people. Doctrines of the Saints 2e echoes this, proclaiming: “God is calling for a prophetic community to emerge, drawn from the nations of the world, that is characterized by uncommon devotion to the compassion and peace of God revealed in Jesus Christ” (DoS 2e:71). 
+
+. Many see a prophet as one who foresees future events, or one who utters divinely inspired revelations. And this is one understanding of a prophet. This does not, however, make a prophet all seeing, all knowing, or even necessarily a seer or a revelator. A prophet can be one that is wise teaching through the power of the Holy Spirit. We can test prophets by 5 Moses 19:14-15; Deuteronomy 18:20-22; 1 John 4:1-3; Moroni 7:4b-26 RAV, 7:5-26 OPV.
+
+. //See 1 Moses 11:5, 24:29, 37:9; 2 Moses 25:22; 3 Moses 5:12, 8:2, 21:22, 44:34, 45:8 (Numbers 12:6); 4 Moses 33; 5 Moses 10:1-6, 19:11; Jeremiah 1:9; Zenos 11:2; 1 Corinthians 12:28; Ephesians 2:19-20; Revelation 19:10; Mosiah 5:77-80 RAV, 8:16-17 OPV; Doctrines of the Saints 2d; 2e:55, 71-75; Seer, Revelator.//
+
+
+chapter: Prosperity gospel
+
+viewer-path: /plates-of-brass/dictionary/prosperity-gospel
+
+. A religious belief or theology claiming that financial blessings are a reward from God for the righteous, and that faith, positive speech or feelings, and donations religious groups or leaders will increase an individual's physical and/ or financial well-being. This theology teaches the idea that our spiritual and physical realities are inseparably connected, therefore those that are saved are entitled to “the good life.” 
+
+. The idea is that as we grow in grace, we will grow in wealth, and creates a theology where how we appear to others takes precedence over who we are in our hearts. This theology promotes nationalism, pride, egoism, and other “us verse them” tropes to keep the Saints against one another, making it harder to convert others to God. This theology was taught by Enmer Kar/Nimrod, leading to the destruction of his people by God. 
+
+. //See 1 Moses 17-20, Priestcraft. //
+
+
+---
+book: Q
+
+viewer-path: /plates-of-brass/dictionary/q
+
+chapter: Qafim
+
+viewer-path: /plates-of-brass/dictionary/qafim
+
+. Hebrew, “east wind.” It was the east wind that brought the locust to plague Egypt, and it was also the east wind that saved Israel from Pharaoh's armies. 
+
+. //See 2 Moses 7:5; Exodus 10:13, 14, 21. See also Mosiah 5:50 RAV, 7:31 OPV; 7:55 RAV, 12:6 OPV.//
+
+
+chapter: Qeturah
+
+viewer-path: /plates-of-brass/dictionary/qeturah
+
+. Also spelled “Keturah;” Hebrew for “incense.” Abraham married Qeturah after the death Sarah, his first wife. Together they had six sons. Some Jewish scholars claim that Qeturah was another name for Hagar. 
+
+. //See 1 Moses 31:1-4, Genesis 25:1-4.//
+
+
+chapter: Qof/100
+
+viewer-path: /plates-of-brass/dictionary/qof-100
+
+. Qof (or qoph, khof, or Kuf) is the nineteenth letter of the Hebrew Alphabet. It signifies the number one hundred. 
+
+. In Hebrew, Qof means “ape,” “monkey” or “baboon,” while in Aramaic, it means “the back of the head” or “the eye of a needle.” Qof is the symbol of both the sacred Kedushah (“holiness”), and the profane Klipah (“husk,” metaphysical barriers between ourselves and the Light of Christ). It is the first letter in the word holy, Kadosh. The letter Qof represents the constant movement of the cycles of nature: changing seasons, monthly and yearly cycles.
+
+. In Kabbalah, it is the extended left leg and head that create the difference between life and death. It can represent our ability to overcome our animalistic nature to emulate the image of the Creator, to grow in the Grace of Jesus Christ. Qof is the constant movement, circulation, and change needed to evolve and realize our true spiritual nature through teshuvah.
+
+---
+book: R
+
+viewer-path: /plates-of-brass/dictionary/r
+
+chapter: Rabbi
+
+viewer-path: /plates-of-brass/dictionary/rabbi
+
+. A Rabbi is both a spiritual leader and religious teacher in Israel. It is a calling of God in the Lower or Levitical Priesthood in the office of Teacher. 
+
+. //See Book of the Law of the Lord 31:9, 33:21, Doctrines of the Saints 5d:3, 5f:29; 6b:13.//
+
+
+chapter: Raphael
+
+viewer-path: /plates-of-brass/dictionary/raphael
+
+. Hebrew, “God has healed.” Also known as Raziel, Hebrew, “secret of God.” In Islam he is called Israfil, and it is understood that he is the unnamed angel of Quran 6:73, standing ready to announce the Day of Resurrection. 
+
+. Raphael is mentioned by name in the books of Enoch, Tobit, Remembrance, and it is believed that he is the angel mentioned in John 5:2-4. According to Doctrines of the Saints 17d:30 & 108b:11, he is Melchizedek. In art Raphael is often depicted holding a staff as it is said that he guards pilgrims on their journeys. 
+
+
+chapter: Raziel
+
+viewer-path: /plates-of-brass/dictionary/raziel
+
+. Hebrew, “secret of God.” Also known as Raphael, who is Melchizedek.
+
+. //See Raphael.//
+
+
+chapter: Resh/200
+
+viewer-path: /plates-of-brass/dictionary/resh-200
+
+. Resh (or Reish) is the twentieth letter of the Hebrew Alphabet. It signifies the number two hundred. Resh means “head,” “leader” or “beginning.” Reish is a container. In Kabbalah, it can represent oneness, and Eternity of the Creator, referring to the secrets of the Keter, the Crown. Resh represents our infinite, exponential growth, the constant flow of energy, and change in life.
+
+
+chapter: Resurrection
+
+viewer-path: /plates-of-brass/dictionary/resurrection
+
+. The first resurrection began with the resurrection of Jesus (Matthew 28:1-10). This was a physical resurrection, and not merely Jesus returning in the spirit (Luke 24:36-43). At that time others rose with Him (Matthew 27:52-53). Because of this, we too will live again (Romans 5:15; 3 Nephi 11:32 RAV, 26:4 OPV). We will be given bodies to match our souls (1 Corinthians 15, Doctrines of the Saints 42). 
+
+
+chapter: Right hand
+
+viewer-path: /plates-of-brass/dictionary/right-hand
+
+. Hebrew feminine noun. In Kabbalah the right hand is Mercy, in Mormon Kabbalah representing Jesus Christ. In 3 Moses 21:7, 13 it seems that is term may also refer to Moses, being a right hand of YHVH. In the Bible, the “right hand” is a statement of honor and status. Jesus Christ sits at the right hand of the Father, giving Him equal status in Hebrews 1:3, 12:2; 1 Peter 3:22; Acts 7:55-56. Similarly, the right-handed path refers to teshuvah, the reunion with the Creator, our return to Eden.
+
+
+chapter: Rock of Israel
+
+viewer-path: /plates-of-brass/dictionary/rock-of-israel
+
+. Hebrew, “Tzur Yisrael;” a concept in Judaism that alludes to God. 
+
+. //See 2 Moses 32:9, 2 Samuel 23:2-4, Psalm 19:15.//
+
+
+chapter: Rod
+
+viewer-path: /plates-of-brass/dictionary/rod
+
+. In the scriptures a rod can be a shepherd's or walking staff, or a divining rod; a tool blessed and endowed with the power of God.
+
+. //See 1 Moses 42:4-15; 2 Moses 25:29; 3 Moses 4:2-17, 28 (Exodus 2-9, 17), 8:17-19, 29 (Exodus 7:10-11, 20), 9:6 (Exodus 8:6), 10:3 (Exodus 8:17), 14:11 (Exodus 9:23), 15:18 (Exodus 10:13), 20:17- 33 (Exodus 14:27-31), 22:6, 49:8 (Numbers 17:8), 50:13 (Numbers 20:9-11); 4 Moses 32:5, 22-40, 34:9-11, 41:36; 1 Nephi 5:133b RAV, 17:41a OPV; 2 Nephi 2:32 RAV, 3:17a OPV; Avahr 18:13-14.//
+
+
+chapter: Ruach
+
+viewer-path: /plates-of-brass/dictionary/ruach
+
+. Hebrew, “breath,” symbolically the breath of spiritual life. 
+
+. //See Ruach HaKodesh. //
+
+
+chapter: Ruach HaKodesh
+
+viewer-path: /plates-of-brass/dictionary/ruach-hakodesh
+
+. Hebrew, הקודש רוח ,Ruach meaning “breath,” “wind,” or “spirit,” and HaKodesh meaning “the holy” or “the sacred.” This phrase can be translated as “The Holy Breath,” but is also translated as “The Glory of God” or “God’s Glory.” It is used to describe the Holy Spirit or the Spirit of God. Through the Holy Spirit we received God, and how God sends blessings to us. 
+
+. According to the Book of Remembrance 9:42-45, 28:30 The Holy Ghost is Michael, but this may be symbolic. 
+
+. Doctrines of the Saints 45e:5 states that the second Hai in YHVH represents the Holy Ghost. Also known as “The Breath” or “The Breath of Elohim.” 
+
+. It should be noted that based on Lectures on Faith 5:2n, the Holy Spirit is the mind shared between God the Father and Jesus, God the Son. Based on this, the Holy Spirit and the Holy Ghost may not be the same person. The Holy Ghost may be a male God while the Holy Spirit may be the Presence of God, the Mother—the bond that ties the Godhead together. The male Holy Ghost may be how God bestows to us, while the female Holy Spirit may be how God receives from us, the feminine aspect of Creation that draws the divine energy into the task of rectifying and elevating the created world. If so, then when we are in the Presence of God we are with the Mother, while when we receive from the Holy Ghost we are given gifts of the Spirit from the Father. 
+
+. //See Shekinah.//
+
+
+---
+book: S
+
+viewer-path: /plates-of-brass/dictionary/s
+
+chapter: The Sabbath of Chag HaAsif
+
+viewer-path: /plates-of-brass/dictionary/sabbath-of-chag-haasif
+
+. Known today as Sukkot, this holy festival marks the end of the harvest and agricultural year in the area of Israel, and is a reminder to all of Israel of the Exodus and their travels in the wilderness.
+
+
+chapter: The Sabbath of Passover
+
+viewer-path: /plates-of-brass/dictionary/sabbath-of-passover
+
+. Also called Pesach, Passover is a major holy day celebrating the Israelites' exodus from Egypt and slavery. This holy day occurs on the 15th the Hebrew month Aviv in the spring. The Passover Seder, or the Feast of Unleavened Bread, is feast held on Passover night to begin the holy week. All leavened foods must be thrown out and Israelites do not eat anything with leaven for 7 days to remember their journey out of Egypt. 
+
+
+chapter: The Sabbath of the Seventh Day or Shabbat
+
+viewer-path: /plates-of-brass/dictionary/sabbath-of-the-seventh-day-or-shabbat
+
+. a day set aside for rest and worship given in remembrance that God rested from creation on the seventh day or cycle. In early Christianity, the Sabbath was on Saturday, the seventh day, while Sunday became the eighth day of creation, the Lord's Day. This idea came from the resurrection of Jesus, with Sunday now being both the first and the last day. 
+
+. //See 1 Moses 3:50; 3 Moses 23:1-16, 28:9-12, 33:17; 4 Moses 2, 3:12-16, 4:6, 5:20-21, 8:2-4; 5 Moses 1:16-21; Genesis 2:2–3; Exodus 31:13–17; Deuteronomy 5:12–15; Book of the Law of the Lord 1:13-26; Zenos 1:8; Mosiah 7:116-118 RAV, 13:16-19 OPV, 9:56 RAV, 18:23 OPV; Doctrines of the Saints 34, 38a:20, 93c:2-5; Book of Remembrance 3:73.//
+
+
+chapter: Sabbath of Zikhron Teru’ah
+
+viewer-path: /plates-of-brass/dictionary/sabbath-of-zikhron-teru-ah
+
+. Hebrew, “Day of Shouting.” This day marks two weeks to prepare for Yom Kippur. It is sometimes called the day of judgment, and is an opportunity to enter teshuvah before the day of enthronement.
+
+
+chapter: The Sabbath of Yom HaBikkurim or the Feast of Weeks or Shavuot
+
+viewer-path: /plates-of-brass/dictionary/sabbath-of-yom-habikkurim
+
+. This week long sabbath occurs on the sixth day of the Hebrew month of Sivan (between May 15 and June 14 on the Gregorian calendar). Shavuot is Hebrew for “weeks.” This time is known to Christians as the time of Pentecost. 
+
+. //See 3 Moses 33:18; 4 Moses 4:7, 5:22, 9:17-20; 5 Moses 14:10- 11, 17; Deuteronomy 8:8, 16:9-11; Isaiah 9:2; Jeremiah 5:24.//
+
+
+chapter: Samael
+
+viewer-path: /plates-of-brass/dictionary/samael
+
+. Hebrew, "venom of God," or "poison of God;" an accuser (Satan), seducer, and destroyer, he is seen as the angel of death in Judaism, and as Satan in Christianity. 
+
+. //See Enoch 2:31-46, 6:20-22.//
+
+
+chapter: Samekh/60
+
+viewer-path: /plates-of-brass/dictionary/samekh-60
+
+. Samekh (or Samech) is the 15th Letter of the Hebrew Alphabet. It signifies the number 60. Samekh represents protection, support, and memory, reminding us to lean upon, support, uphold the Torah of God. The outside of the letter, a circle, represents God as the Creator, it is Orr Makif; and within the circle his creation. 
+
+. God is ever present, supports and protecting that which he has made. Samekh teaches us ubuntu, to seek the good of the whole (altruism), not just one’s self (Ego). Wisdom tells us that our world is not contained in merely one vessel, but in all beings, this also teaching us Tikkun Olam. Samekh helps us clean ourselves of negativity and distortions created by Ego.
+
+
+chapter: Saraph (singular), Seraphim (plural)
+
+viewer-path: /plates-of-brass/dictionary/saraph-seraphim
+
+. A class or a type of celestial or heavenly being, or angel, mentioned in the scriptures. Isaiah used this term to describe a type of six-winged being, either a man or a snake, that flies around the Throne of God crying “holy, holy, holy” (Isaiah 6:1–8). The Hebrew word “saraph” means “burning.” These may be the same angels from Revelation 4:8 that say, “Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.” The only known way to repel these angels when they are sent against mankind is to make an image of a snake on a cross or staff and look at it. 
+
+. //See 3 Moses 51:6-12; Numbers 21:6–8; Deuteronomy 8:15; 6:2–6, 14:29, 30:6; Helaman 3:47-48 RAV, 8:14-15 OPV; Revelation 4:4-8; Zenos 2:14-15.//
+
+
+chapter: Satan
+
+viewer-path: /plates-of-brass/dictionary/satan
+
+. “Adversary,” or “Accuser.” There is a figure known as ha-satan (“the satan”) that appears in the Hebrew Bible as a heavenly prosecutor, a member of the sons of God, under YHVH, who prosecutes people in the heavenly court and tests the loyalty of YHVH's followers. We presume this is a different accuser than the malevolent entity known as Lucifer who exists in opposition to God we read about in other parts of the scriptures. 
+
+. In the Book of Jubilees, YHVH grants Mastema authority over fallen angels to tempt humans to sin and then to punish them. In Zenos, Lucifer is called leviathan, the angel cast out of heaven that tries to tempt the earth.
+
+
+chapter: Scarlet
+
+viewer-path: /plates-of-brass/dictionary/scarlet
+
+. Can refer to immorality and sin, but also the redeeming blood of Jesus Christ. It is seen as a symbol of royalty and of indulgence. In Kabbalah a scarlet bracelet is worn on the left hand to ward off evil. 
+
+. //See 2 Moses 24:23, Genesis 38:28, Exodus 26:36, 2 Samuel 1:24, Proverbs 31:21, Song of Solomon 4:3, Isaiah 1:18, Zenos 3:7, Matthew 27:28, Revelation 17:3-4.//
+
+
+chapter: Seal of Moses or Miktabim of Moses
+
+viewer-path: /plates-of-brass/dictionary/seal-of-moses-or-miktabim-of-moses
+
+. In 4 Moses 32:42 we are told that to dedicate a cloak, coat, or robe to YHVH a seal must be put on the inside of that item of clothing. Miktab is from the Arabic, “kataba,” and means “writing.” It is used in Exodus 32:16 and Deuteronomy 10:4 to say that God wrote upon the tablets. This idea of writing is translated here as “seal” because it represents a covenant. Just as wrote upon the tablets sealing His covenant with Israel, likewise one is writing on the item of clothing to covenant with God. 
+
+. The seal on the plates of brass pictured in the text reads “tsum” which means “fast,” and in to deny oneself something for God. The two letters are ancient forms of “Tsadi” and “Mem,” though Mem does not look like the known Paleo-Hebrew version. 
+
+. The seven levels to the right, representing the East, represent Elohim, God the Father or the Divine Masculine. The seven at the top, representing the North, represent Elohim, the Mother or Divine Feminine. The four levels to the left, representing the West, represent YHVH. The two at the bottom, representing the South, represent the Breath of God, or the Holy Spirit. Although there were no other letters carved into the plates of brass, David (the translator) could see “El Elyon” written from the top, right corner inward for the Father and Mother, “YHVH” at the bottom left, and the two letters רח (Resh and Chet) for Ruach, meaning “Breath” for the Holy Spirit. 
+figure: ...
+
+. It may be that this is a “template” of sorts, and one would write in their own information on the seal. More revelation is needed.
+
+
+chapter: Second Coming
+
+viewer-path: /plates-of-brass/dictionary/second-coming
+
+. The Second Coming or Second Advent or the Parousia, is a Christian, Islamic and Baha'i belief that Jesus will return again after his ascension to heaven about two thousand years ago. The scriptures are clear that no one knows the day or the hour that Jesus will return. To the Jews is event is seen as the first coming of the Messiah. 
+
+
+chapter: Seer
+
+viewer-path: /plates-of-brass/dictionary/seer
+
+. In the Bible the word seer occurs 28 times in the King James Version/ It is translated from two different Hebrew words: chozeh (2 Samuel 24:11; 2 Kings 17:13; 1 Chronicles 21:9; 25:5; 29:29; 2 Chronicles.19:2; 29:25, 30; 33:18, 19; 33:15; Isaiah 29:10; Amos 7:12; Micah 3:7) and roeh (1 Samuel 9:9, 11, 18, 19; 2 Samuel 15:27; 1 Chronicles 9:22; 26:28; 29:29; 2 Chronicles.16:7, 10; Isaiah 30:10). It is mentioned in the Book of Mormon 11 times (2 Nephi 2:10-11, 17, 25 Rav, 3:6-7, 11, 14 OPV, 2 Nephi 11:124 RAV, 27:6 OPV, Mosiah 5:74, 76-78 RAV, 8:13, 15-17 OPV, Mosiah 21:21 RAV, 28:16 OPV).
+
+. Webster's Dictionary 1828 defines “seer” first as “One who sees; as a seer of visions.” And second as “A prophet; a person who foresees future events.” 1 Samuel 9:9 says: “Beforetime in Israel, when a man went to inquire of God, thus he spake, Come, and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.” The Book of Mosiah states: “And Ammon said that a seer is a revelator and a prophet also; and a gift which is greater can no man have, except he should possess the power of God, which no man can; yet a man may have great power given him from God. But a seer can know of things which have passed and also of things which are to come; and by them shall all things be revealed, or rather, shall secret things be made manifest, and hidden things shall come to light, and things which are not known shall be made known by them; and also, things shall be made known by them which otherwise could not be known” (Mosiah 5:77-80 RAV, 8:16-17 OPV).
+
+. //See 1 Moses 1:3,6:22, //
+
+
+chapter: Seer Stone
+
+viewer-path: /plates-of-brass/dictionary/seer-stone
+
+. A seer stone is a rock used for divination. Joseph Smith Jr. owned a minimum of two seer stones. He began using a seer stone as early as at least 1819. It was common at that time to use seer stones in attempts to gain revelations from God. 
+
+. They were also used in attempts to find buried treasure. 
+
+. Both Joseph Smith Sr. and Jr. were known to use seer stones and had reputations for doing so. Some say they did so successfully, others claim they were conning people out of money. Joseph Smith Jr. would place a seer stone in a white stovepipe hat, then put his face in the hat to block the light to “see” or divine information as a form of revelation from God. 
+
+. //Seer stones were used for “scrying,” a form of divination. //
+
+. Scrying was used by Biblical figures such as Joseph of Egypt (Genesis 44:1-5), Miriam (see Sefer HaAggadah), the sister of Moses, and the High Priests that wore the Urim and Thummim.
+
+. //See Urim and Thummim.//
+
+
+chapter: Segula/segullah
+
+viewer-path: /plates-of-brass/dictionary/segula-segullah
+
+. Hebrew feminine noun, “remedy,” “protection,” or “treasured possession.” In Kabbalah, a segula is a protective charm or ritual. It is a charm of miracles that supersedes logic. In Exodus 19:5 and Deuteronomy 7:6 God refers to Israel as His segula (treasure).
+
+. //See 3 Moses 5:25, Malachi 3:17.//
+
+
+chapter: Shavuot
+
+viewer-path: /plates-of-brass/dictionary/shavuot
+
+. //See The Sabbath of Yom HaBikkurim.//
+
+
+chapter: Shabbat/Sabbath
+
+viewer-path: /plates-of-brass/dictionary/shabbat-sabbath
+
+. Hebrew תבש” ,to cease” or “to turn over;” “to rest” or “to allow a task to move forward through other means.” In the Abrahamic religions, the Sabbath of the seventh day is the day set aside for rest from certain types of work/labor to allow time for worship, and can be Saturday or Sunday. There are other holidays or Sabbaths, including the new moon (Rosh Chodesh), Passover and Matzot, Yom Teruah, Yom Teru'ah, Yom Kippur, and Sukkot. 
+
+. //See 4 Moses 2, Doctrines of the Saints 34:12-13.//
+
+
+chapter: Shalom
+
+viewer-path: /plates-of-brass/dictionary/shalom
+
+. Hebrew, “peace.” This term refers to a special type of completeness or ease that can only be described as the peace of God. It is a wholeness one may only gain through Christ. 
+
+. //See Doctrines of the Saints 2e:15//
+
+
+chapter: Shekinah
+
+viewer-path: /plates-of-brass/dictionary/shekinah
+
+. Hebrew, שכינה” .The Presence,” or “the dwelling place of God.” A term used to describe the Divine Feminine or Heavenly Mother, the Queen of Heaven or the Sabbath Bride. Through the Divine Feminine God receives from us, our prayers and supplication. Doctrines of the Saints 45e:5 states that the first Hai in YHVH represents the “the Mother and the very Presence of God,” also known as the Hai. 
+
+. //See Melchizedek 6:19; Zenos 2:23, 3:21-23, 4:8-14, 5:1, 6:16- 18, 7:19-21, 9:8-14, 10:39, 1 Moses 1:3; 6:22, 32:17-19, 39:37, 46:9-10, 47:13; 2 Moses 25:20; 3 Moses 6:19, //
+
+
+chapter: Shekinah of the Congregation
+
+viewer-path: /plates-of-brass/dictionary/shekinah-of-the-congregation
+
+. The Congregation when the Holy Spirit falls upon the Saints. 
+
+. //See 3 Moses 27:7, 50:8; 4 Moses 38:7; Zenos 11:83-89, 12:47; 1 Nephi 3:46-58 RAV, 11:8-18 OPV; Matthew 18:20, Acts 2:1-4.//
+
+
+chapter: Sheol
+
+viewer-path: /plates-of-brass/dictionary/sheol
+
+. Hebrew, ולֹשא ,feminine noun meaning “grave” or “sepulcher.” Originally this term was just a grave but became to be known as the afterlife, the place to which all of the dead go. While some today see this term to mean “hell,” it would not have had this meaning in Lehi's time or the time when the plates of brass were written.
+
+
+chapter: Shevat
+
+viewer-path: /plates-of-brass/dictionary/shevat
+
+. The eleventh month on the Hebrew calendar, the fifth civil month today. It is known for its heavy rains. Shevat occurs in January–February on the Gregorian calendar.
+
+
+chapter: Shin (Aleph-bet)
+
+viewer-path: /plates-of-brass/dictionary/shin-aleph-bet
+
+. //See Sin (letter).//
+
+
+chapter: Shiloh
+
+viewer-path: /plates-of-brass/dictionary/shiloh
+
+. Hebrew: “He who is,” another way of saying “I AM THAT I AM,” a reference to the Messiah, Jesus Christ. 
+
+. //See 2 Moses 24:11, 35:6; John 8:24-58.//
+
+
+chapter: Signs and tokens
+
+viewer-path: /plates-of-brass/dictionary/signs-and-tokens
+
+. Hebrew, “oth” (sigh or token) and “arubbah” (token or pledge). Book of Remembrance 13:31 reads, “open the door of the house of God with the hand and bind the signs and tokens by the means of it.” Later, in Chapter 14 we read, “this I did give them that they might worship me and through me the Father in Spirit and in Truth, and that through me they might return to the presence of God; and by this did that which they had made become that which they sought; even an apron of the holy priesthood that both did have access to, and with this the first signs and tokens of that priesthood” (vs 43-44). 
+
+. The sign is the hand gesture or mudra given in the Priesthood endowments used for meditation to gain access to the Holy Spirit. The tokens then are the various handshakes given with their names to those in the same priesthood quorums. With these signs and tokens men and women of the priesthood may worship together in their ministry and unlock keys for use in the Lord's labors.
+
+
+chapter: Sin
+
+viewer-path: /plates-of-brass/dictionary/sin
+
+. Sin is generally defined as “an immoral act considered to be a transgression against divine law” (https://www.lexico.com/en/definition/ sin). The Hebrew word translated to “sin” in the Tanakh or Old Testament however is “chata’ah” (חטאה .(Chata’ah comes from the root word “chet” (חטא (which means to “miss the mark.” To the ancient Israelites, this meant to neglect one’s obligation, whether to man or to God.
+
+. Chata’ah is a feminine noun, meaning that it describes or represents our will to receive. When we sin, we take into ourselves a desire that is off the path to God. We, in a sense, become the Biblical Eve. In the garden of Eden, Eve wanted to have all God had to offer, even that which she was forbidden (Genesis 2:16-17, 3:1-6; Book of Remembrance 4:11-13, 7:11-24). Her sin wasn’t eating the fruit, but disregarding what God had instructed. She missed the mark by partaking the fruit of the tree before it was time (Book of Remembrance 9:42-44, Happiness Letter 1:16-17). She didn’t wait for God’s time or do it for God. She took it for herself.
+
+. Understanding the true Hebrew word, chata’ah, we gain a new perspective of “sin.” Sin isn’t a blemish; it is human error. It is us seeking our own desires rather than seeking what God desires for us. Fortunately, there is a remedy, a way back onto the path of teshuvah. Sin/chata’ah can be corrected by strengthening our relationship with God. Seeking God is what makes us Israel and puts and keeps us on that path of teshuvah. We seek forgiveness and improve our behavior as we move forward in Christ. He is the potter, and we are the clay.
+
+. //See Teshuvah.//
+
+
+chapter: Sin (letter) or Shin/300
+
+viewer-path: /plates-of-brass/dictionary/sin-letter-or-shin-300
+
+. This letter of the Hebrew Aleph-bet represents the Holy Spirit's fire and transformative abilities; it's three branches look like flames. There are three pillars of the tree of life, each reaching upwards, like flames. They purify and changing us as we grow in Christ's grace.
+
+
+chapter: Sin offering
+
+viewer-path: /plates-of-brass/dictionary/sin-offering
+
+. Literally “purification offering.” A sacrificial offering described as fine flour or certain animals. Today the sin offering is a broken heart and contrite spirit through the sacraments of baptism and communion. 
+
+. //See 4 Moses 25.//
+
+
+chapter: Sivan
+
+viewer-path: /plates-of-brass/dictionary/sivan
+
+. The third month on the Hebrew calendar, the ninth civil month today. It is known as the month that God gave the Torah to the Moses at Mount Sinai. Sivan occurs in May–June on the Gregorian calendar.
+
+
+chapter: Shin
+
+viewer-path: /plates-of-brass/dictionary/shin
+
+. //See Sin (letter)//
+
+
+chapter: So mote it be
+
+viewer-path: /plates-of-brass/dictionary/so-mote-it-be
+
+. //See Amen.//
+
+. Son of Man, Son of Adam, Son of Mankind, or Like man/ Adam: Hebrew, “Ben Adam.” This term is used in a variety of ways throughout the scriptures. In the Book of Ezekiel son of Adam (or son of mankind) is used to address Ezekiel, or to show that mankind is lower than YHVH Elohim and the angels (4 Moses 53:36). 
+
+. In the Book of Daniel and the Revelation of John (Daniel 7:13-14, Revelation 1:13, 14:14) it is a name for Jesus Christ, coming to signal the end of time and the beginning of the judgement of God. This idea of the Son of Man being Jesus Christ appears in the plates of brass as well with Satan pretending to be holy in 1 Moses 1:22, and Abram seeing Jesus in 1 Moses 26:20. 
+
+. //See Melchizedek 2:22, 36-27, 31, 7:2-4; 1 Moses 34:14, 37:24; 2 Moses 35:2; Zenos 1:32, 2:25-26, 7:1, 10:29; Isaiah 51:12b (2 Nephi 5:93 RAV, 8:12b OPV); Doctrines of the Saints 17:6, 10b:6, 12c:60-62, 12d:23; 13a:72; 26c:48; 37:6; 1 Alexei 7:3.//
+
+
+chapter: Sorcerer
+
+viewer-path: /plates-of-brass/dictionary/sorcerer
+
+. Hebrew, “kashaph;” those that practice magick or priestcraft. 
+
+. //See Doctrines of the Saints 106:1-35.//
+
+
+chapter: Soul
+
+viewer-path: /plates-of-brass/dictionary/soul
+
+. Hebrew, “nephesh,” meaning “a soul,” “living being,” “life,” “self,” “person,” “desire,” “passion,” “appetite,” or “emotion.” Modern translation of the Hebrew term “nephesh” is rendered to mean a sentient creation of God. However, in Hebrew Genesis 2:7 does not state that Adam is or was given a nephesh, but that Adam became a living nephesh. 
+
+. While all living creatures have a rûach (Hebrew for spirit), the soul or nephesh is “created” when one is born again. This is why we are “born,” as the soul is then created. Before this we are first intelligence, second spirit, and third flesh. Being born again gives birth to a new soul within us. 
+
+
+chapter: Spirit of YHVH
+
+viewer-path: /plates-of-brass/dictionary/spirit-of-yhvh
+
+. In 1 Moses, while Adam and Eve are upon the earth, the Ruach HaKodesh, or Spirit of God is identified at the Spirit of YHVH. This may be the pre-mortal Jesus Christ, or another name for the Holy Spirit, or the angel of YHVH. We do not know at this point. It may be reasoned that if Adam is Michel, and Michel is the Holy Spirit then the Holy Spirit could not be on the earth while Adam lived in the flesh, however this is conjecture. 
+
+. The Spirit of YHVH may also merely be another term for the Holy Spirit. In 1 Nephi 3:38 RAV, 11:1b Nephi is “caught away in the Spirit of the Lord... into an exceeding high mountain.” This appears to be a vision and the being with him the Holy Spirit. This indicates that this term may be used both for the 
+
+. pre-mortal Jesus Christ and the Holy Ghost. At other times the Spirit of YHVH seems to be the light of Christ, such as when the Holy Spirit falls upon the Nephites (Mosiah 2:5 RAV, 4:3a OPV). 
+
+. //See 1 Moses 6:22-24, 9:16; 2 Moses 1:2; Isaiah 11:2 (2 Nephi 9:117 RAV, 21:2 OPV); 1 Nephi 1:11a RAV, 1:12 OPV, 2:21-25 RAV, 7:14-15b OPV, 3:37-256 RAV, 11-14 OPV; Mosiah 3:3 RAV, 5:2b OPV; see also Ruach HaKodesh, Shekinah.//
+
+
+chapter: Spiritual Death
+
+viewer-path: /plates-of-brass/dictionary/spiritual-death
+
+. Spiritual death is separation from God. It is also described in the scriptures as being damned. This is caused by sin and can be corrected through teshuvah. Only perdition die the permanent spiritual death. 
+
+
+chapter: Sukkot
+
+viewer-path: /plates-of-brass/dictionary/sukkot
+
+. //See Sabbath of Chag HaAsif.//
+
+
+chapter: Sword
+
+viewer-path: /plates-of-brass/dictionary/sword
+
+. Hebrew, “tool,” “sword.” In 3 and 4 Moses this term takes on a spiritual meaning. 
+
+. //See Chereb.//
+
+
+---
+book: T
+
+viewer-path: /plates-of-brass/dictionary/t
+
+chapter: Tabernacle
+
+viewer-path: /plates-of-brass/dictionary/tabernacle
+
+. Hebrew, “mishkan,” “residence” or “dwelling place.” known as the Tent of the Congregation, Tent of Meeting, Tabernacle of Testimony, or Tabernacle of Witness. The Tabernacle was a portable was a temple to and an earthly house of YHVH. It was used by the Israelites from the Exodus until their conquest of Canaan. T
+
+. The Tabernacle had an inner sanctuary called the Holy of Holies that was created by a veil suspended by four pillars. This sanctuary housed the Ark of the Covenant. It also had an outer sanctuary called the Holy Place which contained a gold lampstand, the north side had a table for the showbread, the south side housed the Menorah, holding seven oil lamps to give light, and on the west side, before the veil, was a golden altar for burning incense. 
+
+. The Tabernacle was constructed of 4 woven layers of curtains and 48 15-foot wood boards that were overlaid with gold, held in place by bars and silver sockets. It was furnished with items of value taken from Egypt. The Tabernacle was set up outside the camp so the people could direct their worship toward it. 
+
+. //See 3 Moses 37; Exodus 25-31, 25-40//
+
+
+chapter: Tammuz
+
+viewer-path: /plates-of-brass/dictionary/tammuz
+
+. The fourth month on the Hebrew calendar, the tenth civil month today. According to legend, Noah sent out a dove on the 17th of Tammuz to see if the flood waters had calmed, and the bird returned. Tammuz was also in this month that Moses broke the first tablets of covenant when he discovered the Israelites worshipping a golden calf. Tammuz occurs in June– July on the Gregorian calendar.
+
+
+chapter: Tav/400
+
+viewer-path: /plates-of-brass/dictionary/tav-400
+
+. Tav (or Taw, or Taf) is the twenty second and final letter of the Hebrew Alphabet. It signifies 400. Tav is the last letter of emet, Hebrew for “truth.” The other letters of the word, Aleph, and Memis are the first and middle letter. Thus, truth is all encompassing, “from aleph to tav” or “from beginning to end.” 
+
+. As the symbol of truth, perfection, and completion, it is a mark, a sign, an omen, or a seal. It represents Tikkun Olam, the restoration of all things or repair of the world on a grand level. More personally, it is teshuvah; a return to the essence and purpose of one’s life. 
+
+. In Christ Tav represents completion, growth in Grace. 
+
+. We must reach the end of the old before beginning again, or being born again, with the Oneness of Aleph, this is the cycle of teshuvah. Tav is the final letter of Beresheet, “In the Beginning”, the first word of the Torah. This shows us that God had the end planned from the beginning. 
+
+. The Creation set in motion all of existence that all may reach their final state of perfection, their true selves. This is after all the plan, to reach the fulfillment of creation. Without the beginning, Aleph, we have met, Hebrew for “dead.”
+
+
+chapter: Teshuvah
+
+viewer-path: /plates-of-brass/dictionary/teshuvah
+
+. (תשובה) “return,” usually translated as “repentance,” “redemption,” or “grace.”
+
+
+chapter: Tet/9
+
+viewer-path: /plates-of-brass/dictionary/tet-9
+
+. Tet (or Ṭeth or Teith) is the ninth letter of the Hebrew Alphabet. It signifies the number nine (the number of man), or 9,000 if followed by an apostrophe. Teth literally means “basket” or “nest.” It is the symbol of the good in God’s creation. 
+
+. Dealing with purity and impurity, Tet teaches us to choose the light. More than this, it also helps us see the hidden good to be found when what we perceive to be “bad things” happen. 
+
+. Tet’s essence is feminine; representing femininity and pregnancy, as full-term pregnancy requires nine months. It reminds us of Chesed, the kindness and mercy in God’s creation (1 Nephi 3:40-41, 46-64 RAV,11:3-4, 8-22 OPV). Everything is eternal, thanks to Christ’s atonement nothing has to be lost. 
+
+. Thus, Tet is both the fruit of the tree of the knowledge of Good and Evil, and it is the fruit of the Tree of Life. By knowing good from evil we may separate the light from the darkness. By choosing the light, Christ cleans and purifies us, erasing bad deeds that were caused by our slavery to Ego. Tet allows for teshuvah.
+
+
+chapter: Tevet
+
+viewer-path: /plates-of-brass/dictionary/tevet
+
+. The tenth month on the Hebrew calendar, which is the fourth civil month today. It is known as the muddy month. 
+
+. Tevet occurs in December–January on the Gregorian calendar.
+
+
+chapter: Tevilah
+
+viewer-path: /plates-of-brass/dictionary/tevilah
+
+. Hebrew, “washing/baptism.” A ritual washing, full body immersion in “living water” for ablution, similar to the Christian baptism. The Torah requires washing in water, full immersion, as a means of purification in 4 Moses 19:2 and Leviticus 15:13. Because we are temples of God, we wash our bodies to be worthy of the Holy Spirit. See Zenos 9:15-16.
+
+
+chapter: The Thirteen Attributes of Mercy
+
+chapter-aka: Shelosh-‘Esreh Middot HaRakhamim
+
+viewer-path: /plates-of-brass/dictionary/thirteen-attributes-of-mercy
+
+. The thirteen attributes of mercy are alluded to a number of times in the Bible. Found in 3 Moses 32:13-15, and Exodus 34:6-7. According to Kabbalah and Judaism, they tell us how God governs the world.
+
+. . 1. יהוה YHVH: compassion before and after a person sins
+
+. . 2. יהוה YHVH: mighty in compassion to give all creatures according to their needs
+
+. . 3. אל El: God is the ruler over all, God’s mercy sometimes surpasses His own words
+
+. . 4. וםּרח Rachum: merciful: that mankind may not be distressed
+
+. . 5. וןּוחנ VeḤanun: gracious: if mankind is already in distress
+
+. . 6. םּיפא ִארך Erekh Appayim: slow to anger
+
+. . 7. חסד-ורב VeRav Hesed: plenteous in goodness/kindness
+
+. . 8. ואמת VeEmet: plenteous in truth
+
+. . 9. לאלפים חסד נצר Notzer Hesed Laalafim: keeping mercy/ kindness unto thousands
+
+. . 10. עון נשא ׂNoseh Avon: forgiving iniquity
+
+. . 11. ופשע VaFeshah: forgiving transgression
+
+. . 12. הּוחטא VeḤata’ah: forgiving sin
+
+. . 13. ונקה VeNakeh: acquitting or cleansing
+
+.  We see these attributes mentioned throughout the scriptures. The idea here is that:
+
+. . 1. God loves us knowing we will sin, knowing our flawed nature. 
+
+. . 2. God still loves us after we have sinned, He prepared teshuvah knowing that we would fall away and so made a way to return. 
+
+. . 3. God is merciful beyond our human comprehension. 
+
+. . 4. God is merciful, so we shouldn’t over stress about our flaws, but put our faith in Him. 
+
+. . 5. God is good to us, even when we are underserving. 
+
+. . 6. God gives us time to see the error of our ways and come home. 
+
+. . 7. God gives us greater blessings than we deserve. 
+
+. . 8. God never goes back on His word; God keeps all of His promises. 
+
+. . 9. God remembers our good deeds and tips the scales in our favor thanks to the mercy of Christ’s Grace. 
+
+. . 10. God forgives us, even when we openly rebel against Him, if we will return to Him. 
+
+. . 11. God understands that we will unknowingly break His Laws and forgives us of this also. 
+
+. . 12. God will always forgive us, He longs for our return home (think of the story of the prodigal son, see Luke 15:11–32). 
+
+. . 13. God will wash away our sins, we will be clean as if they never happened; however, if we do not repent there will be consequences. 
+
+. //See 3 Moses 32:13-15, Exodus 34:6-7, Numbers 14:18, Joel 2:13, Jonah 4:2, Micah 7:18, Nahum 1:3, Psalms 86:15, 103:8, 145:8, and Nehemiah 9:17.//
+
+
+chapter: Tif’eret
+
+viewer-path: /plates-of-brass/dictionary/tiferet
+
+. Hebrew, “Beauty.” Tif’eret is the bosom where we feel the Holy Spirit and where the Light of Christ overflows from our kli to fill the world. It occupies a place on the middle pillar of the Tree of Life, as it is a lower reflection of Keter. Tif’eret is a unique Sephirot as it is connected to all of the other Sephirot, with the exception of Malkuth. It is tied to all the subjective paths of the unconscious. It is the Philosopher’s Stone, the restoration of all things, containing the transmutative properties. When we chose good, it allows God’s light to pour from us, changing us and the world. When we choose evil it pollutes us, there by polluting the world.
+
+. Tif’eret represents the sun, it takes a central place in the Tree of Life just as the sun is at the center of the solar system. It is not the center of the universe, yet it still gives light and life. Like man, it did not create itself. Tif’eret can be seen as a metaphor for mankind’s role in the creation.
+
+
+chapter: Tikkun ha-olam
+
+viewer-path: /plates-of-brass/dictionary/tikkun-ha-olam
+
+. More commonly “tikkun olam,” meaning “for the sake of repairing the world.” The term, “tikkun olam,” refers to the end of the seventh day of creation, the time when the Divine light that was shattered and scattered into “broken shards,” these “shards” being a basis for the material world, coming back together, sealed as one in and by the Creator’s power. This appears to be the very definition of “the end of days,” which some call the eighth day of creation, the day Jesus Christ rose from the grave. 
+
+
+chapter: Tishrei
+
+viewer-path: /plates-of-brass/dictionary/tishrei
+
+. //See Ethanim. //
+
+
+chapter: Token
+
+viewer-path: /plates-of-brass/dictionary/token
+
+. A Hebrew feminine noun, representing the will to receive. A token is also a sign; something intended to represent or indicate something else. For example, the rainbow (1 Moses 13:42-43, Genesis 9:12-13) or the blood on the doors to ward off the angel of death (4 Moses 11-13, Exodus 12:13). Signs and tokens are also used in the Endowment rituals (1 Moses 27:41, 2 Moses 8:44, Book of Remembrance 14-23).
+
+
+chapter: Torah
+
+viewer-path: /plates-of-brass/dictionary/torah
+
+. Hebrew, “Instructions,” “Teachings,” or “Law.” The Jewish Torah would be the 5 books of Moses found in the Christian Old Testament:
+
+. . • Genesis
+
+. . • Exodus
+
+. . • Leviticus
+
+. . • Numbers
+
+. . • Deuteronomy 
+
+. Coming from the nation of Judea, the Jewish Torah appears to be a combination of the Torah of Judah and the Torah of Levi.
+
+. The Torah from the plates of brass (te Stick of Ephraim) is both similar to that found in the Old Testament, yet also unique. With the exception of the fifth book, they did not have titles in the traditional sense, or chapters but were broken up by text. Listed below are their “titles” from the plates along with their inspired titles:
+
+. . • 1 Sefer Moses (The Book of Beginnings): The Book of Moses, The Word of YHVH given us by His servant Moses, who freed Israel from her bondage of doubt and disbelief
+
+. . • 2 Sefer Moses (The Book of Joseph): The Book of Moses, The record of our father, Joseph, son of Jacob and Rachel, savior of Israel, as written by the hand of Moses
+
+. . • 3 Sefer Moses (The Book of Moses): The Book of Moses, The Record of Moses, savior of Israel; the exodus of Israel from the world, and the Marriage Covenant of Israel with YHVH, as written by the hand of Moses
+
+. . • 4 Sefer Moses: The teachings of Moses and Zipporah, as given them by YHVH in Egypt and upon the Mount of Strength 
+
+. . • The Book of Ha’Torah (5 Sefer Moses): Sefer Ha’Torah, The Words which Moses spoke unto all Israel in the wilderness
+
+. In addition, there is also the Book of the Law of the Lord, a modern translation of the essence of the Torah of Judah. This book was translated by James Strang from 18 loose plates, according to witnesses. The text contains selections pertaining to running a church and kingdom here upon the earth. The Book of the Law of the Lord may be found in Doctrines of the Saints.
+
+. These books, the Jewish Torah, the Stick of Ephraim, and the sections of the Torah of Judah, may also be studied with the Inspired Translation of the Bible (IV), also known as the Joseph Smith Translation (JST).
+
+
+chapter: Tower/the Tower
+
+viewer-path: /plates-of-brass/dictionary/tower
+
+. //See Magdalene.//
+
+
+chapter: Tzara’at
+
+viewer-path: /plates-of-brass/dictionary/tzara-at
+
+. A crippling disease that reduced people to a state of paralysis. It is traditionally translated into English as "leprosy" because the authors of the Septuagint translated the term into the Greek lepra (λέπρα), or "lepros." However, tzara'at is not a normal, scientifically understood disease, but a form of spiritual discipline. It comes when Israel is wicked and does away when they repent.
+
+. //See 3 Moses 45:12-17, 4 Moses 47-48, Leviticus 13-14.//
+
+
+chapter: Tree of Knowledge of Good and Evil
+
+chapter-aka: Tree of Knowledge
+
+viewer-path: /plates-of-brass/dictionary/tree-of-knowledge-of-good-and-evil
+
+. In Kabbalah, the sin of eating from the Tree of Knowledge brought the mixture of good and evil into the world. We now must separate the light (good) from the darkness (evil) inside each of us. Once the evil is separated from holiness through teshuvah, the Shechinah, or the Presence of God, can come back down to earth, where the sin of the Tree had caused Her to depart, as described in the Visions and Parables of Zenos. Knowing good from evil gives us true free agency, the wisdom from the Divine Feminine, the Light of Christ, to choose for ourselves. 
+
+. //See 1 Moses 4:16, 5; Melchizedek 3-9; Genesis 2:9, 3; Visions and Parables of Zenos; 2 Nephi 1:94-121 RAV, 2:14-27 OPV.//
+
+
+chapter: Tree of Life
+
+viewer-path: /plates-of-brass/dictionary/tree-of-life
+
+. After Adam and Eve disobeyed God, eating the fruit of the tree of the knowledge of good and evil, they were driven out of the Garden of Eden, leaving behind the tree of life, representing sin separating us from God. To prevent their access to this tree, Cherubim with a flaming sword were placed at the east of the garden as guards. This tree represents En Sof, or the Tree holding the Sefirot that was in the Garden of Eden and seen by Lehi and Nephi in vision, representing the Divine Feminine. 
+
+. //See 1 Moses 4:16, 5:45, 48; Melchizedek 2:10; Genesis 2:9, 3:22-24; Zenos 2:16, 3:40, 9:5-14; 1 Nephi 3:46-53, RAV, 11:8-13 18g:20; Book of Remembrance 5:32, 46.//
+
+
+chapter: Tsavah
+
+viewer-path: /plates-of-brass/dictionary/tsavah
+
+. Hebrew, “invite,” or “instruct explicitly;” “to lay charge upon,” “give charge to,” “command,” or “order.”
+
+
+chapter: Tsohar
+
+viewer-path: /plates-of-brass/dictionary/tsohar
+
+. Hebrew, a precious stone or orb that glows in the dark. 
+
+. //See Ether 1:60-68 RAV, 3:1-6a OPV.//
+
+
+chapter: Tunic
+
+viewer-path: /plates-of-brass/dictionary/tunic
+
+. Hebrew, “kuttoneth.” In the Garden of Eden God gave Adam and Eve tunics, kuttoneth, to wear (1 Moses 5:43, Genesis 3:21). This is the same term used in Exodus 28:2 when God commands that the Levites wear holy garments. In the Book of Remembrance 12:3 we see that these were the Garments of the Holy Priesthood. These garments were passed down to Noah and Na’amah, taken by Ham (1 Moses 14:4-16). Later, Esau took them back, giving them to Jacob (1 Moses 36:25-34). Then Jacob makes new garments, likely based on the orginal for his son, Joseph (2 Moses 2:11, see Coat of many colors). From the text we see that this tunic had symbols on it and went past the knees (4 Moses 32:1- 21, Book of Remembrance 14:28-30). 
+
+
+chapter: Tzadi/90
+
+viewer-path: /plates-of-brass/dictionary/tzadi-90
+
+. (or Tsadeh or Tsadde) 18th Hebrew Letter is the eighteenth letter of the the Hebrew Alphabet. It signifys the number ninety. Tzadi represents the Tsaddik, one who is righteous, strives to be true, loving justice and fairness, straight and fully honest. 
+
+. Tsadde represents the idea that the world is broken, and every person must face their own evil and learn to restore it through the Grace of Jesus. Humility and righteousness are two of the defining traits of Tzadi. It signifies the Essence of the Creator, guiding us and dwelling within the one who is humble as the Holy Spirit. 
+
+
+chapter: Tzadik Yachad
+
+viewer-path: /plates-of-brass/dictionary/tzadik-yachad
+
+. “the righteous one set apart to unite my people.” Used when a prophet or leader is being called a Messiah, an anointed one. 
+
+. //See 1 Moses 2:21, 9:44, 10:13, 14:26, 19:16, 3:9, 2 Moses 2:8, 15:28, and 15:37.//
+
+
+chapter: Tzitzit
+
+viewer-path: /plates-of-brass/dictionary/tzitzit
+
+. Hebrew, "fringe." knotted ritual fringes, or tassels, worn in antiquity by Israelites. They are typically white strings with a blue thread to represent that Israel is a kingdom of priests and priestesses. The purposes of this instruction is that of a daily reminder to bring God's love into action. The white thread may represent purity, as we are made pure by God's grace. The blue likely representing the sapphire tablets, the stone God wrote the Law upon. However, the Book of Remembrance states that the white represents a "white [seer] stone" and "the sea of wisdom (Book of Remembrance 31:15).
+
+. //See 4 Moses 7:23-26, 22:14, 32:7; 5 Moses 17:21-26, 23:12; Numbers 15:37-41; Deuteronomy 22:12; Book of Remembrance 26:11; Doctrines of the Saints 114:30, 124:9-10; Chesed, Yesod.//
+
+
+chapter: Tzara’at
+
+viewer-path: /plates-of-brass/dictionary/tzara-at
+
+. An unknown illness commonly mistranslated as “leprosy.” Those with this illness were required to cover their faces and go into quarantine. This disease appears to be of divine origin, a curse from God.
+
+. //See 3 Moses 45:12, 4 Moses 47-48, 5 Moses 25:11, Leviticus 13- 14, Deuteronomy 24:8.//
+
+
+---
+book: U
+
+viewer-path: /plates-of-brass/dictionary/u
+
+chapter: Ubuntu
+
+viewer-path: /plates-of-brass/dictionary/ubuntu
+
+. Ubuntu is a Nguni Bantu term translated as “humanity towards others.” A broader understanding of the term would be “the belief in a universal bond of sharing that connects all humanity,” (https://en.wikipedia.org/wiki/Ubuntu_philosophy). In Mormon Kabalistic ideology it’s Zion: “I am because we are.”
+
+. We all share the same creator, and are all the children of God, as we learn in the first book of Genesis. This bond is universal and connects all of us. The greater we understand this principle, as taught in Kabbalah, the greater we understand ubuntu and our creator.
+
+
+chapter: Unclean
+
+viewer-path: /plates-of-brass/dictionary/unclean
+
+. Hebrew, (טמא), “tame.” In both the Torah of Judea (Judah, Benjamin, and Levi) and in the Torah of Lehi (Joseph), some animals are explicitly named as pure or impure, while others are classified by other criteria. Unclean animals can range from weak, sickly, or sick animals to animals sacrificed, made for, or given to foreign gods. 
+
+. In Judaism the concept of “impure animals” plays a prominent role in dietary requirements as a part of Jewish law that specifies which foods are allowed (kosher) or forbidden to eat. These laws are based upon the Books of Leviticus and Deuteronomy of the Torah (the Christian Old Testament). 
+
+. Rabbinical commentaries like the Talmud have added to these laws over time to help the Jewish people better obey the commandments of God as they understand them.
+
+. The Hebrew term “tame,” or in English “unclean,” typically refers to anything that can make people sick, mostly physically but sometimes spiritually. This idea seems to be more of a temporal health code than spiritual law, similar to the Word of Wisdom. 
+
+. //See 5 Moses 8:17, & chapter 11; Leviticus 11; Deuteronomy 12:15, & chapter 14; Matthew 15:10-11; Mark 7:1-5, 14-19; Acts 10:9- 16.//
+
+
+chapter: Uriel
+
+viewer-path: /plates-of-brass/dictionary/uriel
+
+. //See Ariel.//
+
+
+chapter: Urim and Thummim
+
+viewer-path: /plates-of-brass/dictionary/urim-and-thummim
+
+. Hebrew, “Lights and Perfections.” A holy or sacred device for divination, cleromancy, and divining oracles. They were used by the High Priest and High Priestesses to answer a question or reveal the will of God. Some scholars believe that this refers to two objects used to answer yes or no questions. 
+
+. The meaning of these terms is uncertain, possibly Urim from the root word “Lights” and Thummim from the root “Innocents,” generally taken to mean “Perfections.” The terms together may also mean “revelation and truth.” The Urim and Thummim are mentioned in the Hebrew Bible as a part of the breastplate worn by the High Priest. In the plates of brass, they are also worn by the High Priestesses. They were believed to be used for divination and cleromancy. 
+
+. The urim and thummim of Abraham and of the Nephites may not be the same type of urim and thummim used by the Levite Priests and Priestesses. The Urim and Thummim used to divine the translation of the lost 116 pages of Book of Lehi were not identical to the Urim and Thummim of the Old Testament. According to page 101 of Lucy Mack Smith, mother or Joseph Smith Jr.’s 1853 “Biographical sketches of Joseph Smith the prophet, and his progenitors for many generations” they were “two smooth three-cornered diamonds.” These “diamonds” were said to have been placed in silver bows that were fastened to a breastplate. 
+
+. In the Latter Day Saint movement, Urim and Thummim may also refer to a seer stone, something similar to the rock Joseph Smith Jr. placed in a hat to translate the Book of Mormon. The “Urim and Thummim” actually used to divine the translation of the Book of Mormon available to readers today was given to Joseph Smith Jr. by placing his brown seer stone into a hat. This is clearly different from the bow attaching glasses to a chest plate kept with the gold plates and what is described in the Old Testament and the plates of brass. 
+
+. //See 1 Moses 23:5-8, 26:21; 3 Moses 38:34, 57:8; 4 Moses 30:8; Exodus 28:30; Leviticus 8:8; Numbers 27:21; Deuteronomy 33:8; Melchizedek 6:3-4; Zenos 2:8, 6:8; Ezra 2:63; Mosiah 5:72-75, 8:13 OPV; Ether 1:88-93 RAV, 3:23-28 OPV; Avahr 7:34, 24:28, 39:2, Seer Stone. //
+
+
+---
+book: V
+
+viewer-path: /plates-of-brass/dictionary/v
+
+chapter: Vav/6
+
+viewer-path: /plates-of-brass/dictionary/vav-6
+
+. Vav (or waw, or wav, or vaw) is the sixth letter of the Hebrew Alphabet. It signifies the number 6, or 6,000 when referring to years. Vav is shaped like a hook. It has the power to unite everything that is separated in creation. It represents kav, Hebrew for “window.” It connects God’s perfection to the created world. God guides existence step by step. Within us, this refers to the guidance to, eventually, the perfect unity to God through Christ. It is a window through which we may see all God has revealed. Through the window of Vav we gain the direct light of God, given to us through Christ, filling us with the Holy Spirit. 
+
+. Vav contains the power to connect the heavens and earth. This is Jacob’s ladder, rooted in earth, extended into the heavens. It is the priesthood, the power of God, sent from above down to mankind, God’s created beings. It represents the six days of the creation of the world, and thus the six stages of teshuvah. Vav also reminds us of the six physical dimensions: right to left, front to back, up to down. It can teach us the state of constant presence needed to connect our own heaven and earth (physical and spiritual aspects.
+
+
+chapter: Veil of the Testimony
+
+viewer-path: /plates-of-brass/dictionary/veil-of-the-testimony
+
+. A curtain separating the Holy Place from the Holy of Holies inside the Tabernacle of the Congregation, and in later temples. This veil was an ornate object, woven from fine linen and blue, purple, and scarlet yarns. Figures of cherubim were embroidered on it by skilled craftsmen to represent protecting the throne of God.
+
+. This veil represents the division between God and mankind. When Jesus died upon the cross, the veil in the temple in Jerusalem was torn from top to bottom. When Jesus died for us the barrier between God and mankind was destroyed in Jesus. Any veils used today are to represent our separation from God until we accept Jesus as the Christ through our sacrifice of a broken heart and contrite spirit. 
+
+
+chapter: Vet
+
+viewer-path: /plates-of-brass/dictionary/vet
+
+. //See Bet.//
+
+
+chapter: The Voice
+
+viewer-path: /plates-of-brass/dictionary/voice
+
+. Hebrew masculine noun, typically referring to the Holy Spirit. 
+
+. //See 1 Kings 19:11-13; 1 Nephi 5:10 RAV, 16:9OPB; Luke 12:12; Doctrines of the Saints 26c:40; Ruach HaKodesh.//
+
+
+chapter: Voice of YHVH
+
+viewer-path: /plates-of-brass/dictionary/voice-of-yhvh
+
+. Another name for the Holy Spirit, see Ruach HaKodesh.
+
+
+---
+book: W
+
+viewer-path: /plates-of-brass/dictionary/w
+
+chapter: Water
+
+viewer-path: /plates-of-brass/dictionary/water
+
+. Can refer to actual water, or be used symbolically to denote the Sephirot Chesed, or the Mercy and Grace of Jesus Christ.
+
+
+chapter: Wilderness
+
+viewer-path: /plates-of-brass/dictionary/wilderness
+
+. Hebrew: “mouth.” In a spiritual sense, a place between the physical plain and the spiritual plain of existence. Word: Or “Word of God.” “The one that Speaks for because they are a part of,” an emissary of the greater whole. Jesus Christ. See John 1:1-5.
+
+
+chapter: Wisdom
+
+viewer-path: /plates-of-brass/dictionary/wisdom
+
+. In the scriptures, “wisdom” can be a play on words, as this is Chokhmah, another term for Shekinah.
+
+
+chapter: Wise men
+
+viewer-path: /plates-of-brass/dictionary/wise-men
+
+. Hebrew, “chakam;” experts, sages, or skilled men.
+
+
+---
+book: X
+
+viewer-path: /plates-of-brass/dictionary/x
+
+chapter: X
+
+viewer-path: /plates-of-brass/dictionary/x-greek
+
+. In the Greek, the word “Christ” is Χριστός. Because the first letter looks like an English X, the X has been used as an abbreviation or symbol for Christ from very early on in Christianity. 
+
+
+---
+book: Y
+
+viewer-path: /plates-of-brass/dictionary/y
+
+chapter: Yachid Yachid Echad
+
+viewer-path: /plates-of-brass/dictionary/yachid-yachid-echad
+
+. “The Only Begotten” or “Only Legitimate one who unites us.” A reference or title for Jesus Christ.
+
+
+chapter: Yah
+
+viewer-path: /plates-of-brass/dictionary/yah
+
+. From Yod Hei (YH, Hebrew יה ,(Yah representing The Creator or the Divine Masculine (Heavenly Father), and Hai the revelation, the Divine Feminine (Heavenly Mother).
+
+
+chapter: Yashar-El
+
+viewer-path: /plates-of-brass/dictionary/yashar-el
+
+. Israel; Hebrew, “straight [to] God.” Of Israel, Baal HaSulam said, “Israel is he who strains himself to return to his root” (A Sage’s Fruit, Letters, Letter no. 17). The Lord has said:
+
+. . “Who is the House of Israel? Who are my Covenant Peoples? And behold, I say unto thee that these are the people of Israel: these are those of Yashar-El, the path Straight to God; these are those that shall seek my face, and turn not from me; these are they that shall taste the fruit of the Tree of Life, and it shall taste sweet, and these shall not turn away; these are they who shall love the Lord their God with all their hearts, minds, and strength, and this they shall show by their love for their fellow man, and their care for the Earth and her creatures; these are they that shall do my works, and shall bring to pass the oneness of the Heavens and the Earth; these are they that to whom I shall say: Well done, my good and faithful servants.” -Doctrines of the Saints 2g:20-26
+
+. //See Israel.//
+
+
+chapter: Yesod
+
+viewer-path: /plates-of-brass/dictionary/yesod
+
+. Hebrew, “Foundation.” Yesod is the foundation God has built the world upon. Because of this, it serves as a transmitter between worlds; the sephirot above, and the mundane reality below. It is placed in the center of the Tree, light of the upper sephirot gather in Yesod and are channeled to Malkuth below through one’s third eye.
+
+. Yesod is associated with the sexual organs, the part of the body given the power of creation. While the floods drown in Noah’s time, so too did they bring life back into the world. Yesod collects the vital forces of the sephirot above, and transmits them to the world below. Though this, the earth is able to interact with the divine.
+
+. //See Book of Remembrance 29:12, 30:28-30.//
+
+
+chapter: YHVH
+
+viewer-path: /plates-of-brass/dictionary/yhvh
+
+. Hebrew, יהוה .Also known as the Tetragrammaton, translated as Yahweh, Jehovah, Yehovah, or Lord.
+
+
+chapter: YHVH Elohim
+
+viewer-path: /plates-of-brass/dictionary/yhvh-elohim
+
+. YHVH is also known as the Tetragrammaton, translated as Yahweh, Jehovah, Yehovah, or LORD. Elohim translates to “gods” and is both male and female: “El,” Hebrew for “god” is masculine, while “Eloh” is Hebrew for goddess, and “im” is masculine. Elohim may be male and female as a word with a feminine singular and a masculine plural. YHVH Elohim is typically translated as “the LORD God,” and may denote that YHVH is a part of the Elohim collective “One God.”
+
+
+chapter: Yod/10
+
+viewer-path: /plates-of-brass/dictionary/yod-10
+
+. Yod (also spelled yud, yodh, jod, or jodh) is the tenth letter of the Hebrew Alphabet. It signifies the number 10. Yod represents or is a name for God as the creator. It represents the point from which all of creation emerges. It reminds us of the unity within multiplicity. Yod is the foundation, the hidden spark of the divine which causes everything to be. The holy name, YHVY (Yahveh), starts with Yod. It is small in size, compared to the other letters of the aleph-bet, signifying the greatness of Yodt. According to traditional Kabbalah, all of creation came forth from a single point. Thus, Yof represents God’s infinite presence within the finite world. 
+
+. We see Yod as a single point, yet it represents 10. This teaches us the unity within multiplicity. This is particularly true in light of the 10 sephirot of the Tree of Life; one tree comprised of ten parts. In the Gospel of Matthew, Jesus says: “One jot shall in no wise pass from the law, till all be fulfilled” (Matthew 5:18). The jot he is speaking of refers to the letter Yud.
+
+
+chapter: Yom HaBikkurim
+
+viewer-path: /plates-of-brass/dictionary/yom-habikkurim
+
+. //See Sabbath of Yom HaBikkurim.//
+
+
+---
+book: Z
+
+viewer-path: /plates-of-brass/dictionary/z
+
+chapter: Zadkiel
+
+viewer-path: /plates-of-brass/dictionary/zadkiel
+
+. Hebrew, “Tzadiqiel,” “Righteousness of God” or “Grace of God.” Rabbinical tradition considers him to be the angel of mercy. Some Rabbinical traditions hold that Zadkiel is the angel of YHVH. 4 Moses states that he was “from the first day of creation” (4 Moses 30:7). Zenos 9 implies that he is John the Baptist and opened the sixth seal at the death of Jesus. 
+
+
+chapter: Zayin/7
+
+viewer-path: /plates-of-brass/dictionary/zayin-7
+
+. Zayin (or zain, or zayn, or zay) is the seventh letter the Hebrew Alphabet. It signifies the number seven, or 7,000 in years. Shaped like a sword, Zayin is a paradoxical word. It means “sword,” or “weapon,” yet is derived from a root word meaning “nourishment,” or “substance.” This seemingly contradictory riddle is solved, however, as we are nourished by the sword of truth found within the Word of God (Ephesians 6:17). This allows Zayin to be the symbol of spirit, sustenance, and struggle. 
+
+. Representing the seventh day, the Sabbath, Zayin brings us rest and spirituality, the completion of teshuvah, the 7 days of our spiritual creation. Signifying both the six days and six directions of physical reality, it also adds a unique seventh principle; the spirit within that activates everything physical. Thus Zayin represents the source of all movement; the impregnating principle, bringing to life all creation. Yet is is also the source of rest. 
+
+. Zayin is drawn with a crown, representing the direct light of the Creator coming down to the physical world. Zayin represents the struggle between opposites, the struggle for sustenance, the struggle for existence. It reminds us of the very struggle between our worldly nature, and the God created spirits within as we reject worldliness (Egoism) for Godliness (altruism). It helps us find the balance needed to harmonize between the natural and the spiritual. It helps us understand the need for a day of rest after six days of working on teshuvah. and the creation within.
+
+
+chapter: Zion
+
+viewer-path: /plates-of-brass/dictionary/zion
+
+. Hebrew, “Tsiyyon” or “Tzion,” meaning “marking.” It is also a transliteration of Sion. In Jewish law, if something is found with identifiable makings, that object must be returned to the owner. This would indicate that we, as the Church, belong to God by our marking as Zion, from the Mother through the Son. 
+
+. In Arabic, Zion means “defend.” Zion is used as a name for Jerusalem (2 Samuel 5:7). In Jerusalem there is also a mountain, Mount Zion. In Kabbalah Zion is the spiritual point from which reality emerges. This Zion is located in the Holy of Holies, the connection point between God, the Creator, and mankind, the creation. 
+
+. Therefore, Zion is also Eden, as the Holy of Holies represents the garden of Eden. 
+
+. In the Latter Day Saint movement Zion is God's peaceful and mankind's ideal society. Because of this, the term is most often used to an idea, as the future gathering place or city of the Saints.
+
+. //See 1 Moses 9:49 & 64, 13:38-39, 16:9; 2 Moses 27:13-14; Psalms 50:2 Isaiah 2:3, 51:1, 52:8; 1 Nephi 3:187 RAV, 13:37a OPV; Mosiah 8:67 RAV. 15:29 OPV; 3 Nephi 7:43b RAV, 16:18 OPV, 9:86 RAV, 21:1 OPV; Revelation 14:1 Avahr 16:15; Doctrines of the Saints 26c:79-87, //
+
+
+chapter: Ziv
+
+viewer-path: /plates-of-brass/dictionary/ziv
+
+. Hebrew for “light,” or “glow,” Ziv is the Second month on the Hebrew calendar, called Iyar today. Iyar is the eighth civil month today. Ziv/Iyar is called the month of natural healing. 
+
+. Ziv/Iyar occurs in April–May on the Gregorian calendar.
+

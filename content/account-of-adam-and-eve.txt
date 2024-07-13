@@ -1,0 +1,51 @@
+book: An Account of the Life of Adam and Eve
+
+book-aka: For the Sake of the Life of Mankind and the Living
+
+book-sum: The charge of Moses, given to Joshua, son of Nun, the Servant of Moses.
+
+viewer-path: /plates-of-brass/account-of-adam-and-eve/
+
+---
+chapter:  Chapter 1
+
+viewer-path: /plates-of-brass/account-of-adam-and-eve/1
+
+1. And it came to pass that Moses and Zipporah did call for Joshua, the son of Nun, 
+
+2. And they did command him to learn from them of Adam and Eve, who are the first to enter into the presence of YHVH, thus being the first parents of Israel.
+
+3. And so it was that he did learn from them the history of Israel, even from the very beginning. 
+
+4. ¶ And it came to pass that in the thirty-second year from the time that Israel did leave Egypt by the hand of Moses and the power of YHVH, that YHVH did come unto Moses, saying:
+
+5. Take Joshua, the son of Nun, thy servant, and have him write these things as a memorial as to his charge in a book (or scroll).
+
+6. And Moses did so, and he took a book (or scroll) and gave it unto Joshua, the son of Nun, and he did write upon it the words of Moses and Zipporah, saying:
+
+7. ¶ And it came to pass that after Adam and Eve were sent out of the garden of Eden, set to the east, YHVH having set the Cherubim a watching over that tree of life;
+
+8. And so it was that Eve grew with child, and unto them (Adam and Eve) were two sons born: and one was of YHVH, and the other of Lilith. 
+
+9. And it came to pass that son that served not YHVH did slay his brother; and Eve did weep unto YHVH.
+
+10. And so it was that YHVH did come unto Eve, and did comforter, and sent her to fetch her husband. 
+
+11. ¶ And it came to pass that YHVH did say unto them: I have cast out thy son, Cain; for he has been taught the mystery of the Leviathan, and he did eat and drink of it without pity. 
+
+12. And I would that thy seed not be polluted by the seed of Lilith and Cain, 
+
+13. For that which they do eat with their eyes and their ears shall be taught unto their hearts, 
+
+14. And it shall come out of them from their hands and their mouths unto the corruption of this earth.
+
+15. And behold, I would that these should not be corrupted; therefore, I have cast him out and all they that would follow after them. 
+
+16. And so shall I cast out all they that should eat of this mystery, and drink of the blood of the corruption. 
+
+---
+chapter:  ...
+
+viewer-path: /plates-of-brass/account-of-adam-and-eve/more
+
+. //More to be translated from the plates of brass as the work of the Lord moves forward//
